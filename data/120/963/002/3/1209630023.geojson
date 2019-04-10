@@ -1,0 +1,61 @@
+{
+  "id": 1209630023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.75709,-8.48069,159.75709,-8.48069",
+    "geom:latitude":-8.48069,
+    "geom:longitude":159.75709,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sesedo",
+    "gn:country_code":"SB",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2103536,
+    "gn:latitude":-8.48069,
+    "gn:longitude":159.75709,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Sesedo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2103536
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"43c6c2de3d9093c5827801a2608cbc1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209630023
+        }
+    ],
+    "wof:id":1209630023,
+    "wof:lastmodified":1536281220,
+    "wof:name":"Sesedo",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.75708999999995,
+    -8.48069,
+    159.75708999999995,
+    -8.48069
+],
+  "geometry": {"coordinates":[159.75708999999995,-8.48069],"type":"Point"}
+}

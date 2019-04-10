@@ -1,0 +1,64 @@
+{
+  "id": 1193151485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.63942,-8.43877,160.63942,-8.43877",
+    "geom:latitude":-8.43877,
+    "geom:longitude":160.63942,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Suwe",
+    "gn:country_code":"SB",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2103145,
+    "gn:latitude":-8.43877,
+    "gn:longitude":160.63942,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Suwe",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2103145
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"30c76f27afa6e4ec945b86c0ba2b0e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1193151485,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193151485,
+    "wof:lastmodified":1536377759,
+    "wof:name":"Suwe",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.63942,
+    -8.43877,
+    160.63942,
+    -8.43877
+],
+  "geometry": {"coordinates":[160.63942,-8.43877],"type":"Point"}
+}

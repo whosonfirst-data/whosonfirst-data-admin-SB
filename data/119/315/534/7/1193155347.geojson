@@ -1,0 +1,68 @@
+{
+  "id": 1193155347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"156.98195,-8.07795,156.98195,-8.07795",
+    "geom:latitude":-8.07795,
+    "geom:longitude":156.98195,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ghatere",
+    "gn:country_code":"SB",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108948,
+    "gn:latitude":-8.07795,
+    "gn:longitude":156.98195,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ghatere",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gatere",
+        "Ghatere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108948
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"1467987ddd2f2e401c940f7cead2e1e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1193155347,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193155347,
+    "wof:lastmodified":1537699384,
+    "wof:name":"Ghatere",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    156.98195,
+    -8.07795,
+    156.98195,
+    -8.07795
+],
+  "geometry": {"coordinates":[156.98195000000001,-8.07795],"type":"Point"}
+}

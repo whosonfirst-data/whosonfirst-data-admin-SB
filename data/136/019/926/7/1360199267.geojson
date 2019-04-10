@@ -1,0 +1,64 @@
+{
+  "id": 1360199267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.65152,-8.46009,160.65152,-8.46009",
+    "geom:latitude":-8.46009,
+    "geom:longitude":160.65152,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Fo'ondo",
+    "gn:country_code":"SB",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109082,
+    "gn:latitude":-8.46009,
+    "gn:longitude":160.65152,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Fo\u2019ondo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109082
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"dfbfca1e8450b4e521ad0ac7183fec2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1360199267,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360199267,
+    "wof:lastmodified":1536781370,
+    "wof:name":"Fo'ondo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.65152,
+    -8.46009,
+    160.65152,
+    -8.46009
+],
+  "geometry": {"coordinates":[160.65152,-8.46009],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1226762477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"156.53634,-7.70164,156.53634,-7.70164",
+    "geom:latitude":-7.70164,
+    "geom:longitude":156.53634,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Wataro",
+    "gn:country_code":"SB",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2113934,
+    "gn:latitude":-7.70164,
+    "gn:longitude":156.53634,
+    "gn:modification_date":"1998-01-23",
+    "gn:name":"Wataro",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2113934
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"264d6cc9953f5d32b13a9b3e3dcd61a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1226762477,
+            "region_id":85677103
+        }
+    ],
+    "wof:id":1226762477,
+    "wof:lastmodified":1536691541,
+    "wof:name":"Wataro",
+    "wof:parent_id":85677103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    156.53634,
+    -7.70164,
+    156.53634,
+    -7.70164
+],
+  "geometry": {"coordinates":[156.53634,-7.70164],"type":"Point"}
+}

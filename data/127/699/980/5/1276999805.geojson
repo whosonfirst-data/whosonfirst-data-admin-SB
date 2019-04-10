@@ -1,0 +1,66 @@
+{
+  "id": 1276999805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"165.78333,-10.71667,165.78333,-10.71667",
+    "geom:latitude":-10.71667,
+    "geom:longitude":165.78333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nudungi",
+    "gn:cc2":"SB",
+    "gn:country_code":"SB",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178576,
+    "gn:latitude":-10.71667,
+    "gn:longitude":165.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nudungi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nudung",
+        "Nudungi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178576
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"ad2a9acccc0bc8e2f62c51d7b2b68d89",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276999805,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276999805,
+    "wof:lastmodified":1537699391,
+    "wof:name":"Nudungi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    165.78333,
+    -10.71667,
+    165.78333,
+    -10.71667
+],
+  "geometry": {"coordinates":[165.78333000000001,-10.71667],"type":"Point"}
+}

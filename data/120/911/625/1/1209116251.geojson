@@ -1,0 +1,61 @@
+{
+  "id": 1209116251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.02384,-9.28747,161.02384,-9.28747",
+    "geom:latitude":-9.28747,
+    "geom:longitude":161.02384,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Koruha",
+    "gn:country_code":"SB",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107269,
+    "gn:latitude":-9.28747,
+    "gn:longitude":161.02384,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Koruha",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107269
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"69979e3f1b580a858993bf53603bd640",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209116251
+        }
+    ],
+    "wof:id":1209116251,
+    "wof:lastmodified":1536297244,
+    "wof:name":"Koruha",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.02383999999995,
+    -9.28747,
+    161.02383999999995,
+    -9.28747
+],
+  "geometry": {"coordinates":[161.02383999999995,-9.28747],"type":"Point"}
+}

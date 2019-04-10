@@ -1,0 +1,70 @@
+{
+  "id": 1259701951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.07329,-9.44434,160.07329,-9.44434",
+    "geom:latitude":-9.44434,
+    "geom:longitude":160.07329,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tenaru",
+    "gn:country_code":"SB",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2102627,
+    "gn:latitude":-9.44434,
+    "gn:longitude":160.07329,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Tenaru",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Teneru",
+        "Tenaru",
+        "Tenakaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2102627
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"8aba3befaa3d8878d0fae37b95189554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1259701951,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1259701951,
+    "wof:lastmodified":1537699352,
+    "wof:name":"Tenaru",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.07329,
+    -9.44434,
+    160.07329,
+    -9.44434
+],
+  "geometry": {"coordinates":[160.07328999999999,-9.44434],"type":"Point"}
+}

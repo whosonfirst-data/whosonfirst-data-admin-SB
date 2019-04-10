@@ -1,0 +1,61 @@
+{
+  "id": 1210030883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"156.90548,-7.19624,156.90548,-7.19624",
+    "geom:latitude":-7.19624,
+    "geom:longitude":156.90548,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Katurasele",
+    "gn:country_code":"SB",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107999,
+    "gn:latitude":-7.19624,
+    "gn:longitude":156.90548,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Katurasele",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107999
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"2b8aba011ff3a729714c8a72aab1cb26",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1210030883,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1210030883,
+    "wof:lastmodified":1536388622,
+    "wof:name":"Katurasele",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    156.90548,
+    -7.19624,
+    156.90548,
+    -7.19624
+],
+  "geometry": {"coordinates":[156.90548000000001,-7.19624],"type":"Point"}
+}

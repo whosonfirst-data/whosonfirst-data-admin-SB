@@ -1,0 +1,61 @@
+{
+  "id": 1326740485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.48705,-10.425,161.48705,-10.425",
+    "geom:latitude":-10.425,
+    "geom:longitude":161.48705,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tetere",
+    "gn:country_code":"SB",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178468,
+    "gn:latitude":-10.425,
+    "gn:longitude":161.48705,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Tetere",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178468
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"01f824a541931955602f5363fa6fa5df",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1326740485,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326740485,
+    "wof:lastmodified":1536683695,
+    "wof:name":"Tetere",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.48705,
+    -10.425,
+    161.48705,
+    -10.425
+],
+  "geometry": {"coordinates":[161.48705000000001,-10.425],"type":"Point"}
+}

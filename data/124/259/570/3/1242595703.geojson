@@ -1,0 +1,65 @@
+{
+  "id": 1242595703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"156.81537,-8.10705,156.81537,-8.10705",
+    "geom:latitude":-8.10705,
+    "geom:longitude":156.81537,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Titiana",
+    "gn:country_code":"SB",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2102534,
+    "gn:latitude":-8.10705,
+    "gn:longitude":156.81537,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Titiana",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2102534
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"81f816d6db9c3c8227ff8495806e4f44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1242595703,
+            "region_id":85677103
+        }
+    ],
+    "wof:id":1242595703,
+    "wof:lastmodified":1537036004,
+    "wof:name":"Titiana",
+    "wof:parent_id":85677103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    156.81537,
+    -8.10705,
+    156.81537,
+    -8.10705
+],
+  "geometry": {"coordinates":[156.81537,-8.10705],"type":"Point"}
+}

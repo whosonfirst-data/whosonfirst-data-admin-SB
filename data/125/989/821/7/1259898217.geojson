@@ -1,0 +1,65 @@
+{
+  "id": 1259898217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.83922,-8.45485,160.83922,-8.45485",
+    "geom:latitude":-8.45485,
+    "geom:longitude":160.83922,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Gounatolo",
+    "gn:country_code":"SB",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440705,
+    "gn:latitude":-8.45485,
+    "gn:longitude":160.83922,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Gounatolo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440705
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"474e404e4607dabbc56f3066f707a48a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1259898217,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1259898217,
+    "wof:lastmodified":1536758025,
+    "wof:name":"Gounatolo",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.83921999999995,
+    -8.45485,
+    160.83921999999995,
+    -8.45485
+],
+  "geometry": {"coordinates":[160.83921999999995,-8.45485],"type":"Point"}
+}

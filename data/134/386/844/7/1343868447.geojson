@@ -1,0 +1,69 @@
+{
+  "id": 1343868447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.66282,-9.91642,160.66282,-9.91642",
+    "geom:latitude":-9.91642,
+    "geom:longitude":160.66282,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Veramakuru",
+    "gn:country_code":"SB",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101940,
+    "gn:latitude":-9.91642,
+    "gn:longitude":160.66282,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Veramakuru",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Veramakula",
+        "Veramakuru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101940
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"cc8a65bef2281ee9218c8f38e8bbe100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1343868447,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1343868447,
+    "wof:lastmodified":1537699349,
+    "wof:name":"Veramakuru",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.66281999999995,
+    -9.91642,
+    160.66281999999995,
+    -9.91642
+],
+  "geometry": {"coordinates":[160.66281999999995,-9.91642],"type":"Point"}
+}

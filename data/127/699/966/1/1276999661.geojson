@@ -1,0 +1,65 @@
+{
+  "id": 1276999661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.4759,-9.78405,160.4759,-9.78405",
+    "geom:latitude":-9.78405,
+    "geom:longitude":160.4759,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Uluambolo",
+    "gn:country_code":"SB",
+    "gn:dem":1010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2102285,
+    "gn:latitude":-9.78405,
+    "gn:longitude":160.4759,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Uluambolo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2102285
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"8831c140da6a88aabae6f20eb92b27e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1276999661,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1276999661,
+    "wof:lastmodified":1536879821,
+    "wof:name":"Uluambolo",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.4759,
+    -9.78405,
+    160.4759,
+    -9.78405
+],
+  "geometry": {"coordinates":[160.4759,-9.78405],"type":"Point"}
+}

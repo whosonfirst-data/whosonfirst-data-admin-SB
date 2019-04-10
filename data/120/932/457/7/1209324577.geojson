@@ -1,0 +1,62 @@
+{
+  "id": 1209324577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.64291,-9.28067,159.64291,-9.28067",
+    "geom:latitude":-9.28067,
+    "geom:longitude":159.64291,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Veralevuha",
+    "gn:country_code":"SB",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101942,
+    "gn:latitude":-9.28067,
+    "gn:longitude":159.64291,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Veralevuha",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101942,
+        "wk:page":"Veralevuha"
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"e5383801752b22633b7de8de0ffa3e9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209324577
+        }
+    ],
+    "wof:id":1209324577,
+    "wof:lastmodified":1537573270,
+    "wof:name":"Veralevuha",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.64291,
+    -9.28067,
+    159.64291,
+    -9.28067
+],
+  "geometry": {"coordinates":[159.64291,-9.28067],"type":"Point"}
+}

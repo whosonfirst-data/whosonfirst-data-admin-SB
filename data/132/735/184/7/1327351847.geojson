@@ -1,0 +1,65 @@
+{
+  "id": 1327351847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.81978,-8.61011,160.81978,-8.61011",
+    "geom:latitude":-8.61011,
+    "geom:longitude":160.81978,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ageraba",
+    "gn:country_code":"SB",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109969,
+    "gn:latitude":-8.61011,
+    "gn:longitude":160.81978,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Ageraba",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109969
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"2982b4e382690024fb24a0f9e48385dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1327351847,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1327351847,
+    "wof:lastmodified":1536797333,
+    "wof:name":"Ageraba",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.81978,
+    -8.61011,
+    160.81978,
+    -8.61011
+],
+  "geometry": {"coordinates":[160.81978000000001,-8.61011],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1293018899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.68333,-10.7,161.68333,-10.7",
+    "geom:latitude":-10.7,
+    "geom:longitude":161.68333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Panuhe",
+    "gn:cc2":"SB",
+    "gn:country_code":"SB",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178553,
+    "gn:latitude":-10.7,
+    "gn:longitude":161.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Panuhe",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Panuha",
+        "Panuhe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178553
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"f868adac7120c8320fb99b7980d0b34c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293018899,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293018899,
+    "wof:lastmodified":1537699390,
+    "wof:name":"Panuhe",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.68333,
+    -10.7,
+    161.68333,
+    -10.7
+],
+  "geometry": {"coordinates":[161.68333000000001,-10.7],"type":"Point"}
+}

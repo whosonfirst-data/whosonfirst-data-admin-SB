@@ -1,0 +1,65 @@
+{
+  "id": 1360103149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.23671,-9.22537,161.23671,-9.22537",
+    "geom:latitude":-9.22537,
+    "geom:longitude":161.23671,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Rau'ahu",
+    "gn:country_code":"SB",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2104017,
+    "gn:latitude":-9.22537,
+    "gn:longitude":161.23671,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Rau\u2019ahu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104017
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"b8986201bd6ceef5a925931981f8c6a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1360103149,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1360103149,
+    "wof:lastmodified":1536920197,
+    "wof:name":"Rau'ahu",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.23671000000004,
+    -9.22537,
+    161.23671000000004,
+    -9.22537
+],
+  "geometry": {"coordinates":[161.23671000000004,-9.22537],"type":"Point"}
+}

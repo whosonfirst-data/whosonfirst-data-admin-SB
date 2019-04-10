@@ -1,0 +1,61 @@
+{
+  "id": 1343780371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.63333,-9.56667,159.63333,-9.56667",
+    "geom:latitude":-9.56667,
+    "geom:longitude":159.63333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Veraghughula",
+    "gn:country_code":"SB",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101960,
+    "gn:latitude":-9.56667,
+    "gn:longitude":159.63333,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Veraghughula",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101960
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"4c80f67690de83a5639d2a21e9f2599a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343780371,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343780371,
+    "wof:lastmodified":1536782751,
+    "wof:name":"Veraghughula",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.63333,
+    -9.56667,
+    159.63333,
+    -9.56667
+],
+  "geometry": {"coordinates":[159.63333,-9.56667],"type":"Point"}
+}

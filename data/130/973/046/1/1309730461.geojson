@@ -1,0 +1,65 @@
+{
+  "id": 1309730461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.50929,-9.8756,160.50929,-9.8756",
+    "geom:latitude":-9.8756,
+    "geom:longitude":160.50929,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Vatualae",
+    "gn:country_code":"SB",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2102066,
+    "gn:latitude":-9.8756,
+    "gn:longitude":160.50929,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Vatualae",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2102066
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"63225474db46998816f157ac6f454c0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1309730461,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1309730461,
+    "wof:lastmodified":1537038058,
+    "wof:name":"Vatualae",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.50929,
+    -9.8756,
+    160.50929,
+    -9.8756
+],
+  "geometry": {"coordinates":[160.50928999999999,-9.8756],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209224873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.28206,-9.62623,160.28206,-9.62623",
+    "geom:latitude":-9.62623,
+    "geom:longitude":160.28206,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lame",
+    "gn:country_code":"SB",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2106974,
+    "gn:latitude":-9.62623,
+    "gn:longitude":160.28206,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lame",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Limi",
+        "Lame"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106974
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"9fd2375331fe0b0749b92a27f784bb8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209224873
+        }
+    ],
+    "wof:id":1209224873,
+    "wof:lastmodified":1537699374,
+    "wof:name":"Lame",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.28206,
+    -9.62623,
+    160.28206,
+    -9.62623
+],
+  "geometry": {"coordinates":[160.28206,-9.62623],"type":"Point"}
+}

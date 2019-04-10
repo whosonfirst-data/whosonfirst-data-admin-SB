@@ -1,0 +1,68 @@
+{
+  "id": 1327044891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"156.94789,-8.01377,156.94789,-8.01377",
+    "geom:latitude":-8.01377,
+    "geom:longitude":156.94789,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Hambere",
+    "gn:country_code":"SB",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108718,
+    "gn:latitude":-8.01377,
+    "gn:longitude":156.94789,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hambere",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hamberi",
+        "Hambere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108718
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"5532acdd9ab219e6eea9267d53a2b741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1327044891,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327044891,
+    "wof:lastmodified":1537699382,
+    "wof:name":"Hambere",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    156.94789,
+    -8.01377,
+    156.94789,
+    -8.01377
+],
+  "geometry": {"coordinates":[156.94789,-8.01377],"type":"Point"}
+}

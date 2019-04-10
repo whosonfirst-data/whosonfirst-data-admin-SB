@@ -1,0 +1,69 @@
+{
+  "id": 1259601229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.29643,-9.15914,160.29643,-9.15914",
+    "geom:latitude":-9.15914,
+    "geom:longitude":160.29643,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ndende",
+    "gn:country_code":"SB",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105262,
+    "gn:latitude":-9.15914,
+    "gn:longitude":160.29643,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ndende",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dende",
+        "Ndende"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105262
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"d123dc32f6d14be5688bc723276a5c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1259601229,
+            "region_id":85677085
+        }
+    ],
+    "wof:id":1259601229,
+    "wof:lastmodified":1537699363,
+    "wof:name":"Ndende",
+    "wof:parent_id":85677085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.29643000000004,
+    -9.15914,
+    160.29643000000004,
+    -9.15914
+],
+  "geometry": {"coordinates":[160.29643000000004,-9.15914],"type":"Point"}
+}

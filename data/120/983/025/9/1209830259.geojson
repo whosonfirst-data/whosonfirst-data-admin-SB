@@ -1,0 +1,65 @@
+{
+  "id": 1209830259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.21667,-9.11667,161.21667,-9.11667",
+    "geom:latitude":-9.11667,
+    "geom:longitude":161.21667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Oiamaama",
+    "gn:country_code":"SB",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2104754,
+    "gn:latitude":-9.11667,
+    "gn:longitude":161.21667,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Oiamaama",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104754
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"516ee2478ddcb40e3c01105c4354ce9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1209830259,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1209830259,
+    "wof:lastmodified":1536369163,
+    "wof:name":"Oiamaama",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.21667,
+    -9.11667,
+    161.21667,
+    -9.11667
+],
+  "geometry": {"coordinates":[161.21666999999999,-9.11667],"type":"Point"}
+}

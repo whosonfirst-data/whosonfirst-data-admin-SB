@@ -1,0 +1,64 @@
+{
+  "id": 1243186923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.79695,-9.108,159.79695,-9.108",
+    "geom:latitude":-9.108,
+    "geom:longitude":159.79695,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ndavalaka",
+    "gn:country_code":"SB",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105265,
+    "gn:latitude":-9.108,
+    "gn:longitude":159.79695,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Ndavalaka",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105265
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"c9adb5822373559b41c925b18d9806b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1243186923,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243186923,
+    "wof:lastmodified":1536682569,
+    "wof:name":"Ndavalaka",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.79695,
+    -9.108,
+    159.79695,
+    -9.108
+],
+  "geometry": {"coordinates":[159.79695000000001,-9.108],"type":"Point"}
+}

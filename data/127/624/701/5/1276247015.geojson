@@ -1,0 +1,64 @@
+{
+  "id": 1276247015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.78784,-9.1199,159.78784,-9.1199",
+    "geom:latitude":-9.1199,
+    "geom:longitude":159.78784,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mavulu",
+    "gn:country_code":"SB",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2106182,
+    "gn:latitude":-9.1199,
+    "gn:longitude":159.78784,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Mavulu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106182
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"fc6d67b360c7be09d058f0f827694324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1276247015,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276247015,
+    "wof:lastmodified":1536894045,
+    "wof:name":"Mavulu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.78784,
+    -9.1199,
+    159.78784,
+    -9.1199
+],
+  "geometry": {"coordinates":[159.78783999999999,-9.1199],"type":"Point"}
+}

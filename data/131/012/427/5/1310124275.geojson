@@ -1,0 +1,65 @@
+{
+  "id": 1310124275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.12838,-8.98248,161.12838,-8.98248",
+    "geom:latitude":-8.98248,
+    "geom:longitude":161.12838,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ropa",
+    "gn:country_code":"SB",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2103860,
+    "gn:latitude":-8.98248,
+    "gn:longitude":161.12838,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Ropa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2103860
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"9ca498274f2eed8f219ea42f5367882e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1310124275,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1310124275,
+    "wof:lastmodified":1536969109,
+    "wof:name":"Ropa",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.12838,
+    -8.98248,
+    161.12838,
+    -8.98248
+],
+  "geometry": {"coordinates":[161.12837999999999,-8.98248],"type":"Point"}
+}

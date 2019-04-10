@@ -1,0 +1,65 @@
+{
+  "id": 1326948407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.74662,-8.30755,159.74662,-8.30755",
+    "geom:latitude":-8.30755,
+    "geom:longitude":159.74662,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kolosigana",
+    "gn:country_code":"SB",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107494,
+    "gn:latitude":-8.30755,
+    "gn:longitude":159.74662,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Kolosigana",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107494
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"dea91247e122ff3fd79ad84bc632ff7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1326948407,
+            "region_id":85677095
+        }
+    ],
+    "wof:id":1326948407,
+    "wof:lastmodified":1536880809,
+    "wof:name":"Kolosigana",
+    "wof:parent_id":85677095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.74662,
+    -8.30755,
+    159.74662,
+    -8.30755
+],
+  "geometry": {"coordinates":[159.74662000000001,-8.30755],"type":"Point"}
+}

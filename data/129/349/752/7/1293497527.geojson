@@ -1,0 +1,65 @@
+{
+  "id": 1293497527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.23333,-9.23333,161.23333,-9.23333",
+    "geom:latitude":-9.23333,
+    "geom:longitude":161.23333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Hanianawa",
+    "gn:country_code":"SB",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2108697,
+    "gn:latitude":-9.23333,
+    "gn:longitude":161.23333,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Hanianawa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108697
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"9c7661911144ba90decbb3c3afaa5a83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1293497527,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1293497527,
+    "wof:lastmodified":1536773128,
+    "wof:name":"Hanianawa",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.23333,
+    -9.23333,
+    161.23333,
+    -9.23333
+],
+  "geometry": {"coordinates":[161.23333,-9.23333],"type":"Point"}
+}

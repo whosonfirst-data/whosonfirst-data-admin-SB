@@ -1,0 +1,68 @@
+{
+  "id": 1225859485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"157.41468,-8.29771,157.41468,-8.29771",
+    "geom:latitude":-8.29771,
+    "geom:longitude":157.41468,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mbaraulu",
+    "gn:country_code":"SB",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2106056,
+    "gn:latitude":-8.29771,
+    "gn:longitude":157.41468,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mbaraulu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Canaan",
+        "Mbaraulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106056
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"373122c3db3a76658f8fadd72a66015f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1225859485,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225859485,
+    "wof:lastmodified":1537699369,
+    "wof:name":"Mbaraulu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    157.41468,
+    -8.29771,
+    157.41468,
+    -8.29771
+],
+  "geometry": {"coordinates":[157.41468,-8.29771],"type":"Point"}
+}

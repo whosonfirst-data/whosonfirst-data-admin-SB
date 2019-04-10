@@ -1,0 +1,68 @@
+{
+  "id": 1293607497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.71726,-8.34421,160.71726,-8.34421",
+    "geom:latitude":-8.34421,
+    "geom:longitude":160.71726,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kwaakwadi",
+    "gn:country_code":"SB",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107103,
+    "gn:latitude":-8.34421,
+    "gn:longitude":160.71726,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kwaakwadi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwaakwandi",
+        "Kwaakwadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107103
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"b0595ddf58a6717cf6f681bd2c2df6e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1293607497,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293607497,
+    "wof:lastmodified":1537699375,
+    "wof:name":"Kwaakwadi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.71726,
+    -8.34421,
+    160.71726,
+    -8.34421
+],
+  "geometry": {"coordinates":[160.71726000000001,-8.34421],"type":"Point"}
+}

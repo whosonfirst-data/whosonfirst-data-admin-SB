@@ -1,0 +1,65 @@
+{
+  "id": 1293404645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.95,-8.71667,160.95,-8.71667",
+    "geom:latitude":-8.71667,
+    "geom:longitude":160.95,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Aisina",
+    "gn:country_code":"SB",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2109918,
+    "gn:latitude":-8.71667,
+    "gn:longitude":160.95,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Aisina",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109918
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"2bbd8db9a18b49ee4d7020427065b55b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1293404645,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1293404645,
+    "wof:lastmodified":1536906611,
+    "wof:name":"Aisina",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.95,
+    -8.71667,
+    160.95,
+    -8.71667
+],
+  "geometry": {"coordinates":[160.94999999999999,-8.71667],"type":"Point"}
+}

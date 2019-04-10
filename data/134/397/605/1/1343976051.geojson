@@ -1,0 +1,64 @@
+{
+  "id": 1343976051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.59827,-9.5238,159.59827,-9.5238",
+    "geom:latitude":-9.5238,
+    "geom:longitude":159.59827,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Pusuraghi",
+    "gn:country_code":"SB",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2104125,
+    "gn:latitude":-9.5238,
+    "gn:longitude":159.59827,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Pusuraghi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104125
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"22c4d83ca2c2cc2c1d1586f0ef6011f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1343976051,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343976051,
+    "wof:lastmodified":1536996760,
+    "wof:name":"Pusuraghi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.59827,
+    -9.5238,
+    159.59827,
+    -9.5238
+],
+  "geometry": {"coordinates":[159.59827000000001,-9.5238],"type":"Point"}
+}

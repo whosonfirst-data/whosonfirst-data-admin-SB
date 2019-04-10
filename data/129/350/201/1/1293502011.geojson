@@ -1,0 +1,65 @@
+{
+  "id": 1293502011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"157.7352,-7.46209,157.7352,-7.46209",
+    "geom:latitude":-7.46209,
+    "geom:longitude":157.7352,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Arariki",
+    "gn:country_code":"SB",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8439994,
+    "gn:latitude":-7.46209,
+    "gn:longitude":157.7352,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Arariki",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8439994
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"13ad061e5fe2b6a17ae763f54329fcb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1293502011,
+            "region_id":85677105
+        }
+    ],
+    "wof:id":1293502011,
+    "wof:lastmodified":1536766432,
+    "wof:name":"Arariki",
+    "wof:parent_id":85677105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    157.7352,
+    -7.46209,
+    157.7352,
+    -7.46209
+],
+  "geometry": {"coordinates":[157.73519999999999,-7.46209],"type":"Point"}
+}

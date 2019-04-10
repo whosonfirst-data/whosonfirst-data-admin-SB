@@ -1,0 +1,70 @@
+{
+  "id": 1226261055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.5853,-9.92011,160.5853,-9.92011",
+    "geom:latitude":-9.92011,
+    "geom:longitude":160.5853,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Maraeva",
+    "gn:country_code":"SB",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2106354,
+    "gn:latitude":-9.92011,
+    "gn:longitude":160.5853,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Maraeva",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mariava",
+        "Maraiva",
+        "Maraeva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106354
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"79d5ed3a4422f65f2fa31fe2336b4751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1226261055,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1226261055,
+    "wof:lastmodified":1537699371,
+    "wof:name":"Maraeva",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.5853,
+    -9.92011,
+    160.5853,
+    -9.92011
+],
+  "geometry": {"coordinates":[160.58529999999999,-9.92011],"type":"Point"}
+}

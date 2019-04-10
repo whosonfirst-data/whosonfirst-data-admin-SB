@@ -1,0 +1,64 @@
+{
+  "id": 1344067159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.59859,-9.39355,159.59859,-9.39355",
+    "geom:latitude":-9.39355,
+    "geom:longitude":159.59859,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Vuratindao",
+    "gn:country_code":"SB",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101731,
+    "gn:latitude":-9.39355,
+    "gn:longitude":159.59859,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Vuratindao",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101731
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"472e06fe9dc20d73a65d1e537b65cd4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1344067159,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344067159,
+    "wof:lastmodified":1536864480,
+    "wof:name":"Vuratindao",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.59859,
+    -9.39355,
+    159.59859,
+    -9.39355
+],
+  "geometry": {"coordinates":[159.59859,-9.39355],"type":"Point"}
+}

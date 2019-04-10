@@ -1,0 +1,62 @@
+{
+  "id": 1360099535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.0,-9.41667,160.0,-9.41667",
+    "geom:latitude":-9.41667,
+    "geom:longitude":160.0,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nggeukama",
+    "gn:country_code":"SB",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2105059,
+    "gn:latitude":-9.41667,
+    "gn:longitude":160.0,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Nggeukama",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105059,
+        "wk:page":"Nggeukama"
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"9dd284ec645ad8f1966f931022157b96",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1360099535,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360099535,
+    "wof:lastmodified":1537573272,
+    "wof:name":"Nggeukama",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.0,
+    -9.41667,
+    160.0,
+    -9.41667
+],
+  "geometry": {"coordinates":[160.0,-9.41667],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1276667753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.18333,-9.4,160.18333,-9.4",
+    "geom:latitude":-9.4,
+    "geom:longitude":160.18333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Volonavua",
+    "gn:cc2":"SB",
+    "gn:country_code":"SB",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101848,
+    "gn:latitude":-9.4,
+    "gn:longitude":160.18333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Volonavua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Volinavua",
+        "Volonavua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101848
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"354b8d3de24306cd21ea1eb468c5ab5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276667753,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276667753,
+    "wof:lastmodified":1537699349,
+    "wof:name":"Volonavua",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.18333,
+    -9.4,
+    160.18333,
+    -9.4
+],
+  "geometry": {"coordinates":[160.18333000000001,-9.4],"type":"Point"}
+}

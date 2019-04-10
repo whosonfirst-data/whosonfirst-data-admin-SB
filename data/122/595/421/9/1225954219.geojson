@@ -1,0 +1,65 @@
+{
+  "id": 1225954219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.86574,-8.68682,160.86574,-8.68682",
+    "geom:latitude":-8.68682,
+    "geom:longitude":160.86574,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Aanosusura",
+    "gn:country_code":"SB",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2110011,
+    "gn:latitude":-8.68682,
+    "gn:longitude":160.86574,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Aanosusura",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110011
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"1789d2ace9ef492d1ceb8a9f26150a83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1225954219,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1225954219,
+    "wof:lastmodified":1536855773,
+    "wof:name":"Aanosusura",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.86574,
+    -8.68682,
+    160.86574,
+    -8.68682
+],
+  "geometry": {"coordinates":[160.86573999999999,-8.68682],"type":"Point"}
+}

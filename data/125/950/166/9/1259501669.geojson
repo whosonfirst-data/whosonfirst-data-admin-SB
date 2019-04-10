@@ -1,0 +1,69 @@
+{
+  "id": 1259501669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.78799,-9.11762,159.78799,-9.11762",
+    "geom:latitude":-9.11762,
+    "geom:longitude":159.78799,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kuila",
+    "gn:country_code":"SB",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107212,
+    "gn:latitude":-9.11762,
+    "gn:longitude":159.78799,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kuila",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koela",
+        "Koila",
+        "Kuila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107212
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"09ac9ab2288cac45039b121aeba73ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1259501669,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259501669,
+    "wof:lastmodified":1537699376,
+    "wof:name":"Kuila",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.78798999999995,
+    -9.11762,
+    159.78798999999995,
+    -9.11762
+],
+  "geometry": {"coordinates":[159.78798999999995,-9.11762],"type":"Point"}
+}

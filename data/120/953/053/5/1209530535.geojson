@@ -1,0 +1,61 @@
+{
+  "id": 1209530535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.04419,-8.9262,161.04419,-8.9262",
+    "geom:latitude":-8.9262,
+    "geom:longitude":161.04419,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ane'efafako",
+    "gn:country_code":"SB",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109838,
+    "gn:latitude":-8.9262,
+    "gn:longitude":161.04419,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Ane\u2019efafako",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109838
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"52207c1513f0099127ed495b228e33e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209530535
+        }
+    ],
+    "wof:id":1209530535,
+    "wof:lastmodified":1536284294,
+    "wof:name":"Ane'efafako",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.04419,
+    -8.9262,
+    161.04419,
+    -8.9262
+],
+  "geometry": {"coordinates":[161.04418999999999,-8.9262],"type":"Point"}
+}

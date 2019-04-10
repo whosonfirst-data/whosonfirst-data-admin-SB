@@ -1,0 +1,65 @@
+{
+  "id": 1226762315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"158.08568,-8.52596,158.08568,-8.52596",
+    "geom:latitude":-8.52596,
+    "geom:longitude":158.08568,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Cheke",
+    "gn:country_code":"SB",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109405,
+    "gn:latitude":-8.52596,
+    "gn:longitude":158.08568,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Cheke",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109405
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"397a293cfe5d4e64dc0d42a4e6e0e2fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1226762315,
+            "region_id":85677103
+        }
+    ],
+    "wof:id":1226762315,
+    "wof:lastmodified":1536691780,
+    "wof:name":"Cheke",
+    "wof:parent_id":85677103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.08568,
+    -8.52596,
+    158.08568,
+    -8.52596
+],
+  "geometry": {"coordinates":[158.08568,-8.52596],"type":"Point"}
+}

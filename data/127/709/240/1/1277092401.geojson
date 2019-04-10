@@ -1,0 +1,65 @@
+{
+  "id": 1277092401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.37121,-9.82123,160.37121,-9.82123",
+    "geom:latitude":-9.82123,
+    "geom:longitude":160.37121,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Voliemba",
+    "gn:country_code":"SB",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101852,
+    "gn:latitude":-9.82123,
+    "gn:longitude":160.37121,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Voliemba",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101852
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"f0eff8864da7d4e03509c3adca8489c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1277092401,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1277092401,
+    "wof:lastmodified":1536753685,
+    "wof:name":"Voliemba",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.37121000000005,
+    -9.82123,
+    160.37121000000005,
+    -9.82123
+],
+  "geometry": {"coordinates":[160.37121000000005,-9.82123],"type":"Point"}
+}

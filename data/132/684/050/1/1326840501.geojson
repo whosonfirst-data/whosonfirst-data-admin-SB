@@ -1,0 +1,61 @@
+{
+  "id": 1326840501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"156.53406,-8.24386,156.53406,-8.24386",
+    "geom:latitude":-8.24386,
+    "geom:longitude":156.53406,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tapurai",
+    "gn:country_code":"SB",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":8425455,
+    "gn:latitude":-8.24386,
+    "gn:longitude":156.53406,
+    "gn:modification_date":"2014-10-15",
+    "gn:name":"Tapurai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425455
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"902a895135c8b188a726e47532159f9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1326840501,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326840501,
+    "wof:lastmodified":1537035212,
+    "wof:name":"Tapurai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    156.53406,
+    -8.24386,
+    156.53406,
+    -8.24386
+],
+  "geometry": {"coordinates":[156.53406000000001,-8.24386],"type":"Point"}
+}

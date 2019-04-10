@@ -1,0 +1,65 @@
+{
+  "id": 1293015481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.34609,-9.76267,160.34609,-9.76267",
+    "geom:latitude":-9.76267,
+    "geom:longitude":160.34609,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Valemano",
+    "gn:country_code":"SB",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2102166,
+    "gn:latitude":-9.76267,
+    "gn:longitude":160.34609,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Valemano",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2102166
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"eacc1386330cd7ecee8cec97db558ca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1293015481,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1293015481,
+    "wof:lastmodified":1536970099,
+    "wof:name":"Valemano",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.34609,
+    -9.76267,
+    160.34609,
+    -9.76267
+],
+  "geometry": {"coordinates":[160.34609,-9.76267],"type":"Point"}
+}

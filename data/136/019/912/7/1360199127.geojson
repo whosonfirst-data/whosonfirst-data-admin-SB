@@ -1,0 +1,69 @@
+{
+  "id": 1360199127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.19426,-9.13627,161.19426,-9.13627",
+    "geom:latitude":-9.13627,
+    "geom:longitude":161.19426,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Wairimane",
+    "gn:country_code":"SB",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2101663,
+    "gn:latitude":-9.13627,
+    "gn:longitude":161.19426,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wairimane",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Raeao",
+        "Wairimane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101663
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"d45373a5e153f78c3d85997469564690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1360199127,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1360199127,
+    "wof:lastmodified":1537699348,
+    "wof:name":"Wairimane",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.19426,
+    -9.13627,
+    161.19426,
+    -9.13627
+],
+  "geometry": {"coordinates":[161.19426000000001,-9.13627],"type":"Point"}
+}

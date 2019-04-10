@@ -1,0 +1,65 @@
+{
+  "id": 1209019031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.6983,-10.38781,161.6983,-10.38781",
+    "geom:latitude":-10.38781,
+    "geom:longitude":161.6983,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kaokaona",
+    "gn:country_code":"SB",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178757,
+    "gn:latitude":-10.38781,
+    "gn:longitude":161.6983,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kaokaona",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaukona",
+        "Kaokaona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178757
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"62a71b24bfd8dc256a50c3c36c841a48",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209019031
+        }
+    ],
+    "wof:id":1209019031,
+    "wof:lastmodified":1537699394,
+    "wof:name":"Kaokaona",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.6983,
+    -10.38781,
+    161.6983,
+    -10.38781
+],
+  "geometry": {"coordinates":[161.69829999999999,-10.38781],"type":"Point"}
+}

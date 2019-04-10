@@ -1,0 +1,61 @@
+{
+  "id": 1209633611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.48998,-11.23685,166.48998,-11.23685",
+    "geom:latitude":-11.23685,
+    "geom:longitude":166.48998,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Avita",
+    "gn:country_code":"SB",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178857,
+    "gn:latitude":-11.23685,
+    "gn:longitude":166.48998,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Avita",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178857
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"a5d9c0967ef2fc7ad2784188205179ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209633611
+        }
+    ],
+    "wof:id":1209633611,
+    "wof:lastmodified":1536281112,
+    "wof:name":"Avita",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.48998,
+    -11.23685,
+    166.48998,
+    -11.23685
+],
+  "geometry": {"coordinates":[166.48998,-11.23685],"type":"Point"}
+}

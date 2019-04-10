@@ -1,0 +1,64 @@
+{
+  "id": 1344075351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.17613,-9.817,160.17613,-9.817",
+    "geom:latitude":-9.817,
+    "geom:longitude":160.17613,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ngalivuria",
+    "gn:country_code":"SB",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105095,
+    "gn:latitude":-9.817,
+    "gn:longitude":160.17613,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Ngalivuria",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105095
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"816758a6a93bb510b8de39cb46b9645e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1344075351,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344075351,
+    "wof:lastmodified":1536852992,
+    "wof:name":"Ngalivuria",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.17613,
+    -9.817,
+    160.17613,
+    -9.817
+],
+  "geometry": {"coordinates":[160.17613,-9.817],"type":"Point"}
+}

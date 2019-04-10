@@ -1,0 +1,64 @@
+{
+  "id": 1276562625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.82287,-10.75057,161.82287,-10.75057",
+    "geom:latitude":-10.75057,
+    "geom:longitude":161.82287,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Raa",
+    "gn:country_code":"SB",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178535,
+    "gn:latitude":-10.75057,
+    "gn:longitude":161.82287,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Raa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178535
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"003d4eb7bb300cba79d298e02e7e9a44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1276562625,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276562625,
+    "wof:lastmodified":1536968536,
+    "wof:name":"Raa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.82287,
+    -10.75057,
+    161.82287,
+    -10.75057
+],
+  "geometry": {"coordinates":[161.82286999999999,-10.75057],"type":"Point"}
+}

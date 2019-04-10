@@ -1,0 +1,61 @@
+{
+  "id": 1209022355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.60244,-9.39612,159.60244,-9.39612",
+    "geom:latitude":-9.39612,
+    "geom:longitude":159.60244,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Laovundi",
+    "gn:country_code":"SB",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2106946,
+    "gn:latitude":-9.39612,
+    "gn:longitude":159.60244,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Laovundi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106946
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"cccab7191b0e54b4b717c5d61918d1ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209022355
+        }
+    ],
+    "wof:id":1209022355,
+    "wof:lastmodified":1536300108,
+    "wof:name":"Laovundi",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.60244,
+    -9.39612,
+    159.60244,
+    -9.39612
+],
+  "geometry": {"coordinates":[159.60244,-9.39612],"type":"Point"}
+}

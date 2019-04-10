@@ -1,0 +1,65 @@
+{
+  "id": 1210030833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.93333,-9.18333,160.93333,-9.18333",
+    "geom:latitude":-9.18333,
+    "geom:longitude":160.93333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Niutakina",
+    "gn:country_code":"SB",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2104939,
+    "gn:latitude":-9.18333,
+    "gn:longitude":160.93333,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Niutakina",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104939
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"d51ad989b5d437db7d9e538bbc975d77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1210030833,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1210030833,
+    "wof:lastmodified":1536388644,
+    "wof:name":"Niutakina",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.93333,
+    -9.18333,
+    160.93333,
+    -9.18333
+],
+  "geometry": {"coordinates":[160.93333000000001,-9.18333],"type":"Point"}
+}

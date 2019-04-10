@@ -1,0 +1,64 @@
+{
+  "id": 1226460583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.59736,-9.33503,159.59736,-9.33503",
+    "geom:latitude":-9.33503,
+    "geom:longitude":159.59736,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Komambulu",
+    "gn:country_code":"SB",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107453,
+    "gn:latitude":-9.33503,
+    "gn:longitude":159.59736,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Komambulu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107453
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"6e04ef3ffa7b84db40ae20329e83d7ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1226460583,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226460583,
+    "wof:lastmodified":1536622055,
+    "wof:name":"Komambulu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.59736,
+    -9.33503,
+    159.59736,
+    -9.33503
+],
+  "geometry": {"coordinates":[159.59736000000001,-9.33503],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1243469219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.82011,-12.30198,168.82011,-12.30198",
+    "geom:latitude":-12.30198,
+    "geom:longitude":168.82011,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sautafi",
+    "gn:country_code":"SB",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8554118,
+    "gn:latitude":-12.30198,
+    "gn:longitude":168.82011,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Sautafi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8554118
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"179425742e494826a267dedaa7b38769",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243469219,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243469219,
+    "wof:lastmodified":1536773273,
+    "wof:name":"Sautafi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.82011,
+    -12.30198,
+    168.82011,
+    -12.30198
+],
+  "geometry": {"coordinates":[168.82011,-12.30198],"type":"Point"}
+}

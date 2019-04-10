@@ -1,0 +1,67 @@
+{
+  "id": 1259601323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.57457,-11.25435,166.57457,-11.25435",
+    "geom:latitude":-11.25435,
+    "geom:longitude":166.57457,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tanimbili",
+    "gn:country_code":"SB",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178489,
+    "gn:latitude":-11.25435,
+    "gn:longitude":166.57457,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tanimbili",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gnisunggu",
+        "Tanabili",
+        "Netengge",
+        "Tanimbili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178489
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"ef093972a9eeab918b19a59cba5e7b01",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259601323,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259601323,
+    "wof:lastmodified":1537699390,
+    "wof:name":"Tanimbili",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.57457,
+    -11.25435,
+    166.57457,
+    -11.25435
+],
+  "geometry": {"coordinates":[166.57456999999999,-11.25435],"type":"Point"}
+}

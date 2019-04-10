@@ -1,0 +1,64 @@
+{
+  "id": 1293116783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.66282,-9.64849,159.66282,-9.64849",
+    "geom:latitude":-9.64849,
+    "geom:longitude":159.66282,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Matakachi",
+    "gn:country_code":"SB",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2106255,
+    "gn:latitude":-9.64849,
+    "gn:longitude":159.66282,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Matakachi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106255
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"8471ce778f4f418d02c8f299f0153588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1293116783,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293116783,
+    "wof:lastmodified":1536823634,
+    "wof:name":"Matakachi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.66281999999995,
+    -9.64849,
+    159.66281999999995,
+    -9.64849
+],
+  "geometry": {"coordinates":[159.66281999999995,-9.64849],"type":"Point"}
+}

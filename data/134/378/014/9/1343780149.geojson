@@ -1,0 +1,65 @@
+{
+  "id": 1343780149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.89862,-8.5385,160.89862,-8.5385",
+    "geom:latitude":-8.5385,
+    "geom:longitude":160.89862,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tafukoe",
+    "gn:country_code":"SB",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2103106,
+    "gn:latitude":-8.5385,
+    "gn:longitude":160.89862,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Tafukoe",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2103106
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"5394b2468d339421afc07c4ad83c240d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1343780149,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1343780149,
+    "wof:lastmodified":1536783069,
+    "wof:name":"Tafukoe",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.89862,
+    -8.5385,
+    160.89862,
+    -8.5385
+],
+  "geometry": {"coordinates":[160.89861999999999,-8.5385],"type":"Point"}
+}

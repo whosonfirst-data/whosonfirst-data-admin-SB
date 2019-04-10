@@ -1,0 +1,65 @@
+{
+  "id": 1243464383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.54134,-8.23375,159.54134,-8.23375",
+    "geom:latitude":-8.23375,
+    "geom:longitude":159.54134,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Domu",
+    "gn:country_code":"SB",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2109263,
+    "gn:latitude":-8.23375,
+    "gn:longitude":159.54134,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Domu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109263
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"159ad23fbbe497f1f0013f81d715c071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1243464383,
+            "region_id":85677095
+        }
+    ],
+    "wof:id":1243464383,
+    "wof:lastmodified":1536780095,
+    "wof:name":"Domu",
+    "wof:parent_id":85677095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.54134,
+    -8.23375,
+    159.54134,
+    -8.23375
+],
+  "geometry": {"coordinates":[159.54133999999999,-8.23375],"type":"Point"}
+}

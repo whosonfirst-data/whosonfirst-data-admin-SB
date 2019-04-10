@@ -1,0 +1,64 @@
+{
+  "id": 1343576009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"156.42574,-6.61449,156.42574,-6.61449",
+    "geom:latitude":-6.61449,
+    "geom:longitude":156.42574,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Korasa",
+    "gn:country_code":"SB",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107298,
+    "gn:latitude":-6.61449,
+    "gn:longitude":156.42574,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Korasa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107298
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"a5e3dd474be02e99c501e51f182a9969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1343576009,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343576009,
+    "wof:lastmodified":1537073880,
+    "wof:name":"Korasa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    156.42574,
+    -6.61449,
+    156.42574,
+    -6.61449
+],
+  "geometry": {"coordinates":[156.42573999999999,-6.61449],"type":"Point"}
+}

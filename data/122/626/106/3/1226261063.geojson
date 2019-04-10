@@ -1,0 +1,65 @@
+{
+  "id": 1226261063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.38951,-9.69408,160.38951,-9.69408",
+    "geom:latitude":-9.69408,
+    "geom:longitude":160.38951,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kolombora",
+    "gn:country_code":"SB",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107541,
+    "gn:latitude":-9.69408,
+    "gn:longitude":160.38951,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Kolombora",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107541
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"a21e08d7affa4062f6b56b9dfe8cc4be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1226261063,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1226261063,
+    "wof:lastmodified":1536911935,
+    "wof:name":"Kolombora",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.38951,
+    -9.69408,
+    160.38951,
+    -9.69408
+],
+  "geometry": {"coordinates":[160.38951,-9.69408],"type":"Point"}
+}

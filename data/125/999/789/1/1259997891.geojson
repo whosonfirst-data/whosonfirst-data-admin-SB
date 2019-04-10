@@ -1,0 +1,64 @@
+{
+  "id": 1259997891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.8147,-9.79281,159.8147,-9.79281",
+    "geom:latitude":-9.79281,
+    "geom:longitude":159.8147,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Pura",
+    "gn:country_code":"SB",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2104148,
+    "gn:latitude":-9.79281,
+    "gn:longitude":159.8147,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Pura",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104148
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"9596ba01913fbefd503023360f4ba9f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1259997891,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259997891,
+    "wof:lastmodified":1536611870,
+    "wof:name":"Pura",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.8147,
+    -9.79281,
+    159.8147,
+    -9.79281
+],
+  "geometry": {"coordinates":[159.81469999999999,-9.79281],"type":"Point"}
+}

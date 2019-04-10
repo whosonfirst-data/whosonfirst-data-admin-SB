@@ -1,0 +1,61 @@
+{
+  "id": 1293898121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.58333,-9.5,159.58333,-9.5",
+    "geom:latitude":-9.5,
+    "geom:longitude":159.58333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Veralenga",
+    "gn:country_code":"SB",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101946,
+    "gn:latitude":-9.5,
+    "gn:longitude":159.58333,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Veralenga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101946
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"ba62310e092befd2b550c64ec9635c82",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293898121,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293898121,
+    "wof:lastmodified":1536692356,
+    "wof:name":"Veralenga",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.58333000000005,
+    -9.5,
+    159.58333000000005,
+    -9.5
+],
+  "geometry": {"coordinates":[159.58333000000005,-9.5],"type":"Point"}
+}

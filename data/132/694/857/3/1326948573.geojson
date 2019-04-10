@@ -1,0 +1,65 @@
+{
+  "id": 1326948573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"162.35937,-10.84379,162.35937,-10.84379",
+    "geom:latitude":-10.84379,
+    "geom:longitude":162.35937,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Pasifutogha",
+    "gn:country_code":"SB",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178551,
+    "gn:latitude":-10.84379,
+    "gn:longitude":162.35937,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pasifutogha",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pasifatoga",
+        "Pasifutogha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178551
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"ec4b6a07aa41e160987ed84cf39ecee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1326948573,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326948573,
+    "wof:lastmodified":1537699390,
+    "wof:name":"Pasifutogha",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    162.35936999999996,
+    -10.84379,
+    162.35936999999996,
+    -10.84379
+],
+  "geometry": {"coordinates":[162.35936999999996,-10.84379],"type":"Point"}
+}

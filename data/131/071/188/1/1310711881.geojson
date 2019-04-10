@@ -1,0 +1,65 @@
+{
+  "id": 1310711881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.71385,-8.72232,160.71385,-8.72232",
+    "geom:latitude":-8.72232,
+    "geom:longitude":160.71385,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Namola'ela'e",
+    "gn:country_code":"SB",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105430,
+    "gn:latitude":-8.72232,
+    "gn:longitude":160.71385,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Namola\u2019ela\u2019e",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105430
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"125d7cb788858111996bc0903d1c17a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1310711881,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1310711881,
+    "wof:lastmodified":1536616833,
+    "wof:name":"Namola'ela'e",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.71385,
+    -8.72232,
+    160.71385,
+    -8.72232
+],
+  "geometry": {"coordinates":[160.71385000000001,-8.72232],"type":"Point"}
+}

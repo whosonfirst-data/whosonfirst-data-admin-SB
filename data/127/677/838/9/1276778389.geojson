@@ -1,0 +1,65 @@
+{
+  "id": 1276778389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.74565,-10.29526,161.74565,-10.29526",
+    "geom:latitude":-10.29526,
+    "geom:longitude":161.74565,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sungasau",
+    "gn:country_code":"SB",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178498,
+    "gn:latitude":-10.29526,
+    "gn:longitude":161.74565,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sungasau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sunasau",
+        "Sungasau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178498
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"f5def36eb7d676255ece9ff5b44293a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276778389,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276778389,
+    "wof:lastmodified":1537699390,
+    "wof:name":"Sungasau",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.74565,
+    -10.29526,
+    161.74565,
+    -10.29526
+],
+  "geometry": {"coordinates":[161.74565000000001,-10.29526],"type":"Point"}
+}

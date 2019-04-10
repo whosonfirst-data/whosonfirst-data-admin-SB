@@ -1,0 +1,64 @@
+{
+  "id": 1343972563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"156.83784,-8.09808,156.83784,-8.09808",
+    "geom:latitude":-8.09808,
+    "geom:longitude":156.83784,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nusambaruku",
+    "gn:country_code":"SB",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2104797,
+    "gn:latitude":-8.09808,
+    "gn:longitude":156.83784,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Nusambaruku",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104797
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"3b4160f6dfbc0af98cd3cae223b0e05e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1343972563,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343972563,
+    "wof:lastmodified":1537001718,
+    "wof:name":"Nusambaruku",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    156.83784,
+    -8.09808,
+    156.83784,
+    -8.09808
+],
+  "geometry": {"coordinates":[156.83784,-8.09808],"type":"Point"}
+}

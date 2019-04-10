@@ -1,0 +1,65 @@
+{
+  "id": 1293215035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.71667,-8.45,160.71667,-8.45",
+    "geom:latitude":-8.45,
+    "geom:longitude":160.71667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Iliki",
+    "gn:country_code":"SB",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108334,
+    "gn:latitude":-8.45,
+    "gn:longitude":160.71667,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Iliki",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108334
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"80b10f68eaff3f458c964bc3721b8fd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1293215035,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1293215035,
+    "wof:lastmodified":1536682678,
+    "wof:name":"Iliki",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.71667,
+    -8.45,
+    160.71667,
+    -8.45
+],
+  "geometry": {"coordinates":[160.71666999999999,-8.45],"type":"Point"}
+}

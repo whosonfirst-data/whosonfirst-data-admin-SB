@@ -1,0 +1,64 @@
+{
+  "id": 1293794099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.07212,-8.99138,160.07212,-8.99138",
+    "geom:latitude":-8.99138,
+    "geom:longitude":160.07212,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tumbila",
+    "gn:country_code":"SB",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2102370,
+    "gn:latitude":-8.99138,
+    "gn:longitude":160.07212,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Tumbila",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2102370
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"39fc1b8563722d115e5b9825321f9a9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1293794099,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293794099,
+    "wof:lastmodified":1536840995,
+    "wof:name":"Tumbila",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.07211999999996,
+    -8.99138,
+    160.07211999999996,
+    -8.99138
+],
+  "geometry": {"coordinates":[160.07211999999996,-8.99138],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1293015335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.36291,-10.34365,161.36291,-10.34365",
+    "geom:latitude":-10.34365,
+    "geom:longitude":161.36291,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Anuta",
+    "gn:country_code":"SB",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178873,
+    "gn:latitude":-10.34365,
+    "gn:longitude":161.36291,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Anuta",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anata",
+        "Anuta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178873
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"07a81dafc5c3990d7ef45300f244a36e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293015335,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293015335,
+    "wof:lastmodified":1537699396,
+    "wof:name":"Anuta",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.36291,
+    -10.34365,
+    161.36291,
+    -10.34365
+],
+  "geometry": {"coordinates":[161.36291,-10.34365],"type":"Point"}
+}

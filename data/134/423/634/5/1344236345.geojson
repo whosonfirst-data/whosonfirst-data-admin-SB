@@ -1,0 +1,61 @@
+{
+  "id": 1344236345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.96667,-11.53333,159.96667,-11.53333",
+    "geom:latitude":-11.53333,
+    "geom:longitude":159.96667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"'Uvea",
+    "gn:country_code":"SB",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178448,
+    "gn:latitude":-11.53333,
+    "gn:longitude":159.96667,
+    "gn:modification_date":"2013-11-17",
+    "gn:name":"\u2019Uvea",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178448
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"b04468f6e913b1950a96eaf9d8a3241b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1344236345,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344236345,
+    "wof:lastmodified":1536619724,
+    "wof:name":"'Uvea",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.96667,
+    -11.53333,
+    159.96667,
+    -11.53333
+],
+  "geometry": {"coordinates":[159.96666999999999,-11.53333],"type":"Point"}
+}

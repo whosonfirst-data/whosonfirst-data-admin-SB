@@ -1,0 +1,65 @@
+{
+  "id": 1260197815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"157.11492,-7.03221,157.11492,-7.03221",
+    "geom:latitude":-7.03221,
+    "geom:longitude":157.11492,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zaru",
+    "gn:country_code":"SB",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101575,
+    "gn:latitude":-7.03221,
+    "gn:longitude":157.11492,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Zaru",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101575
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"4c80df8fceab494e969ba9821020249a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1260197815,
+            "region_id":85677105
+        }
+    ],
+    "wof:id":1260197815,
+    "wof:lastmodified":1536827203,
+    "wof:name":"Zaru",
+    "wof:parent_id":85677105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    157.11491999999996,
+    -7.03221,
+    157.11491999999996,
+    -7.03221
+],
+  "geometry": {"coordinates":[157.11491999999996,-7.03221],"type":"Point"}
+}

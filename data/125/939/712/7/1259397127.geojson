@@ -1,0 +1,61 @@
+{
+  "id": 1259397127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.81274,-8.33495,160.81274,-8.33495",
+    "geom:latitude":-8.33495,
+    "geom:longitude":160.81274,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Hatodeea",
+    "gn:country_code":"SB",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108649,
+    "gn:latitude":-8.33495,
+    "gn:longitude":160.81274,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Hatodeea",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108649
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"c3a9429f960ebf3232ddbb4b3b0b55d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259397127,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259397127,
+    "wof:lastmodified":1536981907,
+    "wof:name":"Hatodeea",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.81274,
+    -8.33495,
+    160.81274,
+    -8.33495
+],
+  "geometry": {"coordinates":[160.81273999999999,-8.33495],"type":"Point"}
+}

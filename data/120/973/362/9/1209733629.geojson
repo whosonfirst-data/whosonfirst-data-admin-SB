@@ -1,0 +1,65 @@
+{
+  "id": 1209733629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.63768,-8.43109,160.63768,-8.43109",
+    "geom:latitude":-8.43109,
+    "geom:longitude":160.63768,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ndumule",
+    "gn:country_code":"SB",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2105209,
+    "gn:latitude":-8.43109,
+    "gn:longitude":160.63768,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Ndumule",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105209
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"297ff114fc2c22a7a209696d520999db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1209733629,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1209733629,
+    "wof:lastmodified":1536376042,
+    "wof:name":"Ndumule",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.63768000000005,
+    -8.43109,
+    160.63768000000005,
+    -8.43109
+],
+  "geometry": {"coordinates":[160.63768000000005,-8.43109],"type":"Point"}
+}

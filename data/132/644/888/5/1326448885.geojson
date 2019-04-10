@@ -1,0 +1,65 @@
+{
+  "id": 1326448885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.5112,-8.22631,159.5112,-8.22631",
+    "geom:latitude":-8.22631,
+    "geom:longitude":159.5112,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ghaghagra",
+    "gn:country_code":"SB",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109002,
+    "gn:latitude":-8.22631,
+    "gn:longitude":159.5112,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Ghaghagra",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109002
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"c88624597fe81ead14f642453f3e9999",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1326448885,
+            "region_id":85677095
+        }
+    ],
+    "wof:id":1326448885,
+    "wof:lastmodified":1536604107,
+    "wof:name":"Ghaghagra",
+    "wof:parent_id":85677095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.5112,
+    -8.22631,
+    159.5112,
+    -8.22631
+],
+  "geometry": {"coordinates":[159.5112,-8.22631],"type":"Point"}
+}

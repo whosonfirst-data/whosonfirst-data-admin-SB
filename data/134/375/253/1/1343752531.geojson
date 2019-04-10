@@ -1,0 +1,64 @@
+{
+  "id": 1343752531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.70901,-10.22307,161.70901,-10.22307",
+    "geom:latitude":-10.22307,
+    "geom:longitude":161.70901,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ahi'a",
+    "gn:country_code":"SB",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178883,
+    "gn:latitude":-10.22307,
+    "gn:longitude":161.70901,
+    "gn:modification_date":"2014-10-29",
+    "gn:name":"Ahi\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178883
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"3bd9074061d8be9e3ab4fc13e5970cf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1343752531,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343752531,
+    "wof:lastmodified":1536821523,
+    "wof:name":"Ahi'a",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.70901,
+    -10.22307,
+    161.70901,
+    -10.22307
+],
+  "geometry": {"coordinates":[161.70901000000001,-10.22307],"type":"Point"}
+}

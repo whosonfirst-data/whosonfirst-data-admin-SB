@@ -1,0 +1,61 @@
+{
+  "id": 1226457281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.96502,-8.91429,159.96502,-8.91429",
+    "geom:latitude":-8.91429,
+    "geom:longitude":159.96502,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Naghotano",
+    "gn:country_code":"SB",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105526,
+    "gn:latitude":-8.91429,
+    "gn:longitude":159.96502,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Naghotano",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105526
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"44b9ace0f94d43d7873314975f2839ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226457281,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226457281,
+    "wof:lastmodified":1536626986,
+    "wof:name":"Naghotano",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.96501999999995,
+    -8.91429,
+    159.96501999999995,
+    -8.91429
+],
+  "geometry": {"coordinates":[159.96501999999995,-8.91429],"type":"Point"}
+}

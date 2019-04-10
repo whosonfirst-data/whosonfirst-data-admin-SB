@@ -1,0 +1,64 @@
+{
+  "id": 1326748769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.23333,-9.45,161.23333,-9.45",
+    "geom:latitude":-9.45,
+    "geom:longitude":161.23333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Taruta'a",
+    "gn:country_code":"SB",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2102773,
+    "gn:latitude":-9.45,
+    "gn:longitude":161.23333,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Taruta\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2102773
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"7ced8fc60569306f95ef9e41e36938e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1326748769,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326748769,
+    "wof:lastmodified":1536671795,
+    "wof:name":"Taruta'a",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.23333,
+    -9.45,
+    161.23333,
+    -9.45
+],
+  "geometry": {"coordinates":[161.23333,-9.45],"type":"Point"}
+}

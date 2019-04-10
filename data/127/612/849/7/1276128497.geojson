@@ -1,0 +1,69 @@
+{
+  "id": 1276128497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.75112,-9.2963,159.75112,-9.2963",
+    "geom:latitude":-9.2963,
+    "geom:longitude":159.75112,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Takamboro",
+    "gn:country_code":"SB",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2103066,
+    "gn:latitude":-9.2963,
+    "gn:longitude":159.75112,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Takamboro",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Takemboru",
+        "Takamboro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2103066
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"7aea0179137f0203d96a74ac36112330",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1276128497,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1276128497,
+    "wof:lastmodified":1537699354,
+    "wof:name":"Takamboro",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.75112,
+    -9.2963,
+    159.75112,
+    -9.2963
+],
+  "geometry": {"coordinates":[159.75111999999999,-9.2963],"type":"Point"}
+}

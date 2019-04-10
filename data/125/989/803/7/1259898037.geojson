@@ -1,0 +1,73 @@
+{
+  "id": 1259898037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"156.4304,-6.61045,156.4304,-6.61045",
+    "geom:latitude":-6.61045,
+    "geom:longitude":156.4304,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Malevangga",
+    "gn:country_code":"SB",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2106519,
+    "gn:latitude":-6.61045,
+    "gn:longitude":156.4304,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Malevangga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malivaga",
+        "Malevaga",
+        "Malivugu",
+        "Malabague",
+        "Maleva",
+        "Malivanga",
+        "Malevangga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106519
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"6882ab9d496a4cd17ea18ea3161a0e01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1259898037,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259898037,
+    "wof:lastmodified":1537699372,
+    "wof:name":"Malevangga",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    156.4304,
+    -6.61045,
+    156.4304,
+    -6.61045
+],
+  "geometry": {"coordinates":[156.43039999999999,-6.61045],"type":"Point"}
+}

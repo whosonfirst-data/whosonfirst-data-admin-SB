@@ -1,0 +1,61 @@
+{
+  "id": 1209432975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.29764,-9.662,160.29764,-9.662",
+    "geom:latitude":-9.662,
+    "geom:longitude":160.29764,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lauhavigha",
+    "gn:country_code":"SB",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2106931,
+    "gn:latitude":-9.662,
+    "gn:longitude":160.29764,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Lauhavigha",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106931
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"55a1f97fbbf18005422a850f95b763fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209432975
+        }
+    ],
+    "wof:id":1209432975,
+    "wof:lastmodified":1536287184,
+    "wof:name":"Lauhavigha",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.29764,
+    -9.662,
+    160.29764,
+    -9.662
+],
+  "geometry": {"coordinates":[160.29764,-9.662],"type":"Point"}
+}

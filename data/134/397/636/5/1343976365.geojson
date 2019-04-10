@@ -1,0 +1,65 @@
+{
+  "id": 1343976365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.88333,-9.76667,159.88333,-9.76667",
+    "geom:latitude":-9.76667,
+    "geom:longitude":159.88333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ngalikombi",
+    "gn:country_code":"SB",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2105146,
+    "gn:latitude":-9.76667,
+    "gn:longitude":159.88333,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Ngalikombi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105146
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"1881c4a6b09920790c8e118bb8da0abe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1343976365,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1343976365,
+    "wof:lastmodified":1536996279,
+    "wof:name":"Ngalikombi",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.88333,
+    -9.76667,
+    159.88333,
+    -9.76667
+],
+  "geometry": {"coordinates":[159.88333,-9.76667],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209525341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.21069,-9.0552,160.21069,-9.0552",
+    "geom:latitude":-9.0552,
+    "geom:longitude":160.21069,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Soesonde",
+    "gn:country_code":"SB",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2103379,
+    "gn:latitude":-9.0552,
+    "gn:longitude":160.21069,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Soesonde",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2103379
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"83277d9cbb6300fd935c563f68fe91b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209525341
+        }
+    ],
+    "wof:id":1209525341,
+    "wof:lastmodified":1536284448,
+    "wof:name":"Soesonde",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.21069,
+    -9.0552,
+    160.21069,
+    -9.0552
+],
+  "geometry": {"coordinates":[160.21069,-9.0552],"type":"Point"}
+}

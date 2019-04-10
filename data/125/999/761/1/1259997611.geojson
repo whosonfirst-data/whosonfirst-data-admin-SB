@@ -1,0 +1,70 @@
+{
+  "id": 1259997611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.81012,-8.39362,159.81012,-8.39362",
+    "geom:latitude":-8.39362,
+    "geom:longitude":159.81012,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tatamba",
+    "gn:country_code":"SB",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2102744,
+    "gn:latitude":-8.39362,
+    "gn:longitude":159.81012,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tatamba",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tunnibuli",
+        "Tanabuli",
+        "Tanambuli",
+        "Tatamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2102744
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"58ae16cf428924ba0d6cf6d58fee05e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1259997611,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259997611,
+    "wof:lastmodified":1537699352,
+    "wof:name":"Tatamba",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.81011999999996,
+    -8.39362,
+    159.81011999999996,
+    -8.39362
+],
+  "geometry": {"coordinates":[159.81011999999996,-8.39362],"type":"Point"}
+}

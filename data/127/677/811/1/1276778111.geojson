@@ -1,0 +1,70 @@
+{
+  "id": 1276778111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.81588,-9.87009,160.81588,-9.87009",
+    "geom:latitude":-9.87009,
+    "geom:longitude":160.81588,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Onitewa",
+    "gn:country_code":"SB",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2104655,
+    "gn:latitude":-9.87009,
+    "gn:longitude":160.81588,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Onitewa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Untava",
+        "Oneteva",
+        "Onitewa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104655
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"b150e5f5e86e748f3899c93ec73f52b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1276778111,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1276778111,
+    "wof:lastmodified":1537699361,
+    "wof:name":"Onitewa",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.81588,
+    -9.87009,
+    160.81588,
+    -9.87009
+],
+  "geometry": {"coordinates":[160.81587999999999,-9.87009],"type":"Point"}
+}

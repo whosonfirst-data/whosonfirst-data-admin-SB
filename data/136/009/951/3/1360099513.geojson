@@ -1,0 +1,71 @@
+{
+  "id": 1360099513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.35,-9.56667,160.35,-9.56667",
+    "geom:latitude":-9.56667,
+    "geom:longitude":160.35,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Papaie",
+    "gn:cc2":"SB",
+    "gn:country_code":"SB",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2104514,
+    "gn:latitude":-9.56667,
+    "gn:longitude":160.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Papaie",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Papi",
+        "Papai",
+        "Papaie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104514
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"af6c3f29ff35c1c3267b72344e6d1861",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1360099513,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1360099513,
+    "wof:lastmodified":1537699360,
+    "wof:name":"Papaie",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.35,
+    -9.56667,
+    160.35,
+    -9.56667
+],
+  "geometry": {"coordinates":[160.34999999999999,-9.56667],"type":"Point"}
+}

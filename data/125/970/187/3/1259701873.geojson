@@ -1,0 +1,61 @@
+{
+  "id": 1259701873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"162.93853,-8.40973,162.93853,-8.40973",
+    "geom:latitude":-8.40973,
+    "geom:longitude":162.93853,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Taisalu",
+    "gn:country_code":"SB",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440795,
+    "gn:latitude":-8.40973,
+    "gn:longitude":162.93853,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Taisalu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440795
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"c9905b3401f541278fe2731c8e26737a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259701873,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259701873,
+    "wof:lastmodified":1537038885,
+    "wof:name":"Taisalu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    162.93853,
+    -8.40973,
+    162.93853,
+    -8.40973
+],
+  "geometry": {"coordinates":[162.93852999999999,-8.40973],"type":"Point"}
+}

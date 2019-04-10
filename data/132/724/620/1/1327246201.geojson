@@ -1,0 +1,65 @@
+{
+  "id": 1327246201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.47295,-9.5908,161.47295,-9.5908",
+    "geom:latitude":-9.5908,
+    "geom:longitude":161.47295,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tapa'atewa",
+    "gn:country_code":"SB",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2102831,
+    "gn:latitude":-9.5908,
+    "gn:longitude":161.47295,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Tapa\u2019atewa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2102831
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"ae429b650052b1ddb8099cba3f567239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1327246201,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1327246201,
+    "wof:lastmodified":1536949791,
+    "wof:name":"Tapa'atewa",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.47295,
+    -9.5908,
+    161.47295,
+    -9.5908
+],
+  "geometry": {"coordinates":[161.47295,-9.5908],"type":"Point"}
+}

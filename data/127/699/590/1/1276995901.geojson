@@ -1,0 +1,65 @@
+{
+  "id": 1276995901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.90344,-9.42484,159.90344,-9.42484",
+    "geom:latitude":-9.42484,
+    "geom:longitude":159.90344,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Vatukolaa",
+    "gn:country_code":"SB",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2102052,
+    "gn:latitude":-9.42484,
+    "gn:longitude":159.90344,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Vatukolaa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2102052
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"64de59e356a66c135af1f7d4b4c9ae08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1276995901,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1276995901,
+    "wof:lastmodified":1536884950,
+    "wof:name":"Vatukolaa",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.90344,
+    -9.42484,
+    159.90344,
+    -9.42484
+],
+  "geometry": {"coordinates":[159.90343999999999,-9.42484],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209224595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.47504,-9.88546,160.47504,-9.88546",
+    "geom:latitude":-9.88546,
+    "geom:longitude":160.47504,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Noto",
+    "gn:country_code":"SB",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2104849,
+    "gn:latitude":-9.88546,
+    "gn:longitude":160.47504,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Noto",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104849
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"36a1527e709329c8b66322bc950314ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209224595
+        }
+    ],
+    "wof:id":1209224595,
+    "wof:lastmodified":1536293842,
+    "wof:name":"Noto",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.47503999999995,
+    -9.88546,
+    160.47503999999995,
+    -9.88546
+],
+  "geometry": {"coordinates":[160.47503999999995,-9.88546],"type":"Point"}
+}

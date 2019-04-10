@@ -1,0 +1,64 @@
+{
+  "id": 1343873113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.40036,-10.2053,161.40036,-10.2053",
+    "geom:latitude":-10.2053,
+    "geom:longitude":161.40036,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Maranu'u",
+    "gn:country_code":"SB",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178690,
+    "gn:latitude":-10.2053,
+    "gn:longitude":161.40036,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Maranu\u2019u",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178690
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"f4081ea0c31d346646c25db0f31803f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1343873113,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343873113,
+    "wof:lastmodified":1536647896,
+    "wof:name":"Maranu'u",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.40036,
+    -10.2053,
+    161.40036,
+    -10.2053
+],
+  "geometry": {"coordinates":[161.40036000000001,-10.2053],"type":"Point"}
+}

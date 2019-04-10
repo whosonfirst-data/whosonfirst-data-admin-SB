@@ -1,0 +1,65 @@
+{
+  "id": 1310415913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.16667,-9.35,161.16667,-9.35",
+    "geom:latitude":-9.35,
+    "geom:longitude":161.16667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Houkeni",
+    "gn:country_code":"SB",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2108459,
+    "gn:latitude":-9.35,
+    "gn:longitude":161.16667,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Houkeni",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108459
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"7670873483d8499d542641947d1f7b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1310415913,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1310415913,
+    "wof:lastmodified":1537044350,
+    "wof:name":"Houkeni",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.16666999999995,
+    -9.35,
+    161.16666999999995,
+    -9.35
+],
+  "geometry": {"coordinates":[161.16666999999995,-9.35],"type":"Point"}
+}

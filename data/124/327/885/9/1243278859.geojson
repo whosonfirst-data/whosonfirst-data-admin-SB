@@ -1,0 +1,61 @@
+{
+  "id": 1243278859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.56602,-8.37653,159.56602,-8.37653",
+    "geom:latitude":-8.37653,
+    "geom:longitude":159.56602,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kaevaga",
+    "gn:country_code":"SB",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440146,
+    "gn:latitude":-8.37653,
+    "gn:longitude":159.56602,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Kaevaga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440146
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"302389efb9febeacee2eaa5c27c78f9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243278859,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243278859,
+    "wof:lastmodified":1537045162,
+    "wof:name":"Kaevaga",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.56602,
+    -8.37653,
+    159.56602,
+    -8.37653
+],
+  "geometry": {"coordinates":[159.56602000000001,-8.37653],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1210026345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.31818,-9.56712,160.31818,-9.56712",
+    "geom:latitude":-9.56712,
+    "geom:longitude":160.31818,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tavutisakai",
+    "gn:country_code":"SB",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2102683,
+    "gn:latitude":-9.56712,
+    "gn:longitude":160.31818,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Tavutisakai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2102683
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"1e7940d3cb24a5df6a6596891c38fc32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1210026345,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1210026345,
+    "wof:lastmodified":1536390554,
+    "wof:name":"Tavutisakai",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.31818,
+    -9.56712,
+    160.31818,
+    -9.56712
+],
+  "geometry": {"coordinates":[160.31818000000001,-9.56712],"type":"Point"}
+}

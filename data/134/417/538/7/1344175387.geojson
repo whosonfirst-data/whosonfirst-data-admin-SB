@@ -1,0 +1,65 @@
+{
+  "id": 1344175387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.59827,-8.15172,159.59827,-8.15172",
+    "geom:latitude":-8.15172,
+    "geom:longitude":159.59827,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tit'hiro",
+    "gn:country_code":"SB",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2102536,
+    "gn:latitude":-8.15172,
+    "gn:longitude":159.59827,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Tit\u2019hiro",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2102536
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"493e81fcd17a1ad75a06b211b6045c89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1344175387,
+            "region_id":85677095
+        }
+    ],
+    "wof:id":1344175387,
+    "wof:lastmodified":1536710036,
+    "wof:name":"Tit'hiro",
+    "wof:parent_id":85677095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.59827,
+    -8.15172,
+    159.59827,
+    -8.15172
+],
+  "geometry": {"coordinates":[159.59827000000001,-8.15172],"type":"Point"}
+}

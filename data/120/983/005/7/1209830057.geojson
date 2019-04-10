@@ -1,0 +1,68 @@
+{
+  "id": 1209830057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.84129,-9.7969,159.84129,-9.7969",
+    "geom:latitude":-9.7969,
+    "geom:longitude":159.84129,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Iruiru",
+    "gn:country_code":"SB",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108263,
+    "gn:latitude":-9.7969,
+    "gn:longitude":159.84129,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Iruiru",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Itina",
+        "Iruiru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108263
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"aa97ed0bf9cbd69b76e637216f0d29cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1209830057,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209830057,
+    "wof:lastmodified":1537699381,
+    "wof:name":"Iruiru",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.84129,
+    -9.7969,
+    159.84129,
+    -9.7969
+],
+  "geometry": {"coordinates":[159.84128999999999,-9.7969],"type":"Point"}
+}

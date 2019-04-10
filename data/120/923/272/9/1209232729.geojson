@@ -1,0 +1,67 @@
+{
+  "id": 1209232729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.08779,-9.61247,160.08779,-9.61247",
+    "geom:latitude":-9.61247,
+    "geom:longitude":160.08779,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sasahakama",
+    "gn:country_code":"SB",
+    "gn:dem":830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2103626,
+    "gn:latitude":-9.61247,
+    "gn:longitude":160.08779,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sasahakama",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Sahasahakama",
+        "Sasacoma",
+        "Sasahakama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2103626,
+        "wk:page":"Sahasahakama"
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"88eff871ececc86f24426f44d140349f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209232729
+        }
+    ],
+    "wof:id":1209232729,
+    "wof:lastmodified":1537699357,
+    "wof:name":"Sasahakama",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.08778999999996,
+    -9.61247,
+    160.08778999999996,
+    -9.61247
+],
+  "geometry": {"coordinates":[160.08778999999996,-9.61247],"type":"Point"}
+}

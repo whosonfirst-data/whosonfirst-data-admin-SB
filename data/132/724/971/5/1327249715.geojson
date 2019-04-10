@@ -1,0 +1,61 @@
+{
+  "id": 1327249715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.16667,-9.38333,161.16667,-9.38333",
+    "geom:latitude":-9.38333,
+    "geom:longitude":161.16667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Maariwai",
+    "gn:country_code":"SB",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2106651,
+    "gn:latitude":-9.38333,
+    "gn:longitude":161.16667,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Maariwai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106651
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"9f9d7941a51fba3d6f3264b4b3fcb59e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327249715,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327249715,
+    "wof:lastmodified":1536944989,
+    "wof:name":"Maariwai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.16666999999995,
+    -9.38333,
+    161.16666999999995,
+    -9.38333
+],
+  "geometry": {"coordinates":[161.16666999999995,-9.38333],"type":"Point"}
+}

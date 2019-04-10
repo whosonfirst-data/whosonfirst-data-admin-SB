@@ -1,0 +1,65 @@
+{
+  "id": 1343575879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.2,-9.38333,161.2,-9.38333",
+    "geom:latitude":-9.38333,
+    "geom:longitude":161.2,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Su'uirahu",
+    "gn:country_code":"SB",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2103172,
+    "gn:latitude":-9.38333,
+    "gn:longitude":161.2,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Su\u2019uirahu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2103172
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"4ae3c8a87bfb0eef4c1268f4edb34881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1343575879,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1343575879,
+    "wof:lastmodified":1537074066,
+    "wof:name":"Su'uirahu",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.2,
+    -9.38333,
+    161.2,
+    -9.38333
+],
+  "geometry": {"coordinates":[161.19999999999999,-9.38333],"type":"Point"}
+}

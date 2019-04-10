@@ -1,0 +1,64 @@
+{
+  "id": 1193025821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.53265,-9.90628,160.53265,-9.90628",
+    "geom:latitude":-9.90628,
+    "geom:longitude":160.53265,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mberechoa",
+    "gn:country_code":"SB",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105972,
+    "gn:latitude":-9.90628,
+    "gn:longitude":160.53265,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Mberechoa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105972
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"f22a4feea2f946398a621410cb1d63d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1193025821,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193025821,
+    "wof:lastmodified":1536368021,
+    "wof:name":"Mberechoa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.53265,
+    -9.90628,
+    160.53265,
+    -9.90628
+],
+  "geometry": {"coordinates":[160.53264999999999,-9.90628],"type":"Point"}
+}

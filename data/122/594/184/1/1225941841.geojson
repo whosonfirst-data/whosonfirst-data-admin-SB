@@ -1,0 +1,65 @@
+{
+  "id": 1225941841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.70658,-10.24812,161.70658,-10.24812",
+    "geom:latitude":-10.24812,
+    "geom:longitude":161.70658,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Umara Village",
+    "gn:country_code":"SB",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178451,
+    "gn:latitude":-10.24812,
+    "gn:longitude":161.70658,
+    "gn:modification_date":"2014-10-29",
+    "gn:name":"Umara Village",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umara",
+        "Pa\u2019epa\u2019esahuhu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178451
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"d48a233725112ce669341cd82753f0e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1225941841,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225941841,
+    "wof:lastmodified":1537699389,
+    "wof:name":"Umara Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.70658,
+    -10.24812,
+    161.70658,
+    -10.24812
+],
+  "geometry": {"coordinates":[161.70658,-10.24812],"type":"Point"}
+}

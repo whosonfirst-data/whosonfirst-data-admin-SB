@@ -1,0 +1,65 @@
+{
+  "id": 1276782011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.76369,-8.55131,160.76369,-8.55131",
+    "geom:latitude":-8.55131,
+    "geom:longitude":160.76369,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kakalaa'ano",
+    "gn:country_code":"SB",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108187,
+    "gn:latitude":-8.55131,
+    "gn:longitude":160.76369,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Kakalaa\u2019ano",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108187
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"9ac6037ad47152de319358e65d535473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1276782011,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1276782011,
+    "wof:lastmodified":1536674694,
+    "wof:name":"Kakalaa'ano",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.76369,
+    -8.55131,
+    160.76369,
+    -8.55131
+],
+  "geometry": {"coordinates":[160.76369,-8.55131],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1327249451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.59423,-8.41037,160.59423,-8.41037",
+    "geom:latitude":-8.41037,
+    "geom:longitude":160.59423,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Onefolo",
+    "gn:country_code":"SB",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2104672,
+    "gn:latitude":-8.41037,
+    "gn:longitude":160.59423,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Onefolo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104672
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"cfac6693a9aab90a9bc61efc7608d37c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1327249451,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327249451,
+    "wof:lastmodified":1536945360,
+    "wof:name":"Onefolo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.59423,
+    -8.41037,
+    160.59423,
+    -8.41037
+],
+  "geometry": {"coordinates":[160.59423000000001,-8.41037],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1226456949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.21667,-9.26667,161.21667,-9.26667",
+    "geom:latitude":-9.26667,
+    "geom:longitude":161.21667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Etehonu",
+    "gn:country_code":"SB",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2109195,
+    "gn:latitude":-9.26667,
+    "gn:longitude":161.21667,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Etehonu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109195
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"4a0fc93ee5bede33397641bc61c894d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1226456949,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1226456949,
+    "wof:lastmodified":1536627495,
+    "wof:name":"Etehonu",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.21667,
+    -9.26667,
+    161.21667,
+    -9.26667
+],
+  "geometry": {"coordinates":[161.21666999999999,-9.26667],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1226152999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.58938,-9.75136,160.58938,-9.75136",
+    "geom:latitude":-9.75136,
+    "geom:longitude":160.58938,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Vunjimbuli",
+    "gn:country_code":"SB",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101778,
+    "gn:latitude":-9.75136,
+    "gn:longitude":160.58938,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Vunjimbuli",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101778
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"dd276b0f9879202b88a0baefc0e5fb42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1226152999,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1226152999,
+    "wof:lastmodified":1537064307,
+    "wof:name":"Vunjimbuli",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.58938,
+    -9.75136,
+    160.58938,
+    -9.75136
+],
+  "geometry": {"coordinates":[160.58938000000001,-9.75136],"type":"Point"}
+}

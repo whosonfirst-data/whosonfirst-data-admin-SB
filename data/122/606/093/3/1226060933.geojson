@@ -1,0 +1,64 @@
+{
+  "id": 1226060933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.3922,-9.42734,161.3922,-9.42734",
+    "geom:latitude":-9.42734,
+    "geom:longitude":161.3922,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Oau",
+    "gn:country_code":"SB",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2104774,
+    "gn:latitude":-9.42734,
+    "gn:longitude":161.3922,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Oau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104774
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"e497daaf3390efdfa0678e312e1a508d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1226060933,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226060933,
+    "wof:lastmodified":1536703558,
+    "wof:name":"Oau",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.3922,
+    -9.42734,
+    161.3922,
+    -9.42734
+],
+  "geometry": {"coordinates":[161.3922,-9.42734],"type":"Point"}
+}

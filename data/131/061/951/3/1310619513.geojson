@@ -1,0 +1,64 @@
+{
+  "id": 1310619513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.74374,-9.72666,159.74374,-9.72666",
+    "geom:latitude":-9.72666,
+    "geom:longitude":159.74374,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lumanaroko",
+    "gn:country_code":"SB",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2106707,
+    "gn:latitude":-9.72666,
+    "gn:longitude":159.74374,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Lumanaroko",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106707
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"fe7c95b12c92c88668a0d25faeffe55f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1310619513,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310619513,
+    "wof:lastmodified":1536752428,
+    "wof:name":"Lumanaroko",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.74374,
+    -9.72666,
+    159.74374,
+    -9.72666
+],
+  "geometry": {"coordinates":[159.74374,-9.72666],"type":"Point"}
+}

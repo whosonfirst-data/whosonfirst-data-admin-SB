@@ -1,0 +1,64 @@
+{
+  "id": 1326745147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.74376,-8.85163,160.74376,-8.85163",
+    "geom:latitude":-8.85163,
+    "geom:longitude":160.74376,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Fa'arau",
+    "gn:country_code":"SB",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109187,
+    "gn:latitude":-8.85163,
+    "gn:longitude":160.74376,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Fa\u2019arau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109187
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"a4a37ecd0349c07bcad33d1920785051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1326745147,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326745147,
+    "wof:lastmodified":1536677011,
+    "wof:name":"Fa'arau",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.74376,
+    -8.85163,
+    160.74376,
+    -8.85163
+],
+  "geometry": {"coordinates":[160.74376000000001,-8.85163],"type":"Point"}
+}

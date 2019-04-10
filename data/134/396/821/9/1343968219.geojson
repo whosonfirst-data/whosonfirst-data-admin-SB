@@ -1,0 +1,64 @@
+{
+  "id": 1343968219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.70476,-8.77506,160.70476,-8.77506",
+    "geom:latitude":-8.77506,
+    "geom:longitude":160.70476,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bina",
+    "gn:country_code":"SB",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440211,
+    "gn:latitude":-8.77506,
+    "gn:longitude":160.70476,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Bina",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440211
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"9413e6275dea9e8d67179cda18467768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1343968219,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343968219,
+    "wof:lastmodified":1537007984,
+    "wof:name":"Bina",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.70476000000005,
+    -8.77506,
+    160.70476000000005,
+    -8.77506
+],
+  "geometry": {"coordinates":[160.70476000000005,-8.77506],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293113265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.26508,-9.80611,160.26508,-9.80611",
+    "geom:latitude":-9.80611,
+    "geom:longitude":160.26508,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Veraghalea",
+    "gn:country_code":"SB",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101962,
+    "gn:latitude":-9.80611,
+    "gn:longitude":160.26508,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Veraghalea",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Veragalea",
+        "Verigalia",
+        "Veraghalea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101962
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"aec1bbfab3f30f7f69ee51078c51bb76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1293113265,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1293113265,
+    "wof:lastmodified":1537699350,
+    "wof:name":"Veraghalea",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.26508,
+    -9.80611,
+    160.26508,
+    -9.80611
+],
+  "geometry": {"coordinates":[160.26508000000001,-9.80611],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1309920605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.57815,-8.35081,159.57815,-8.35081",
+    "geom:latitude":-8.35081,
+    "geom:longitude":159.57815,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tiroko'u",
+    "gn:country_code":"SB",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2102547,
+    "gn:latitude":-8.35081,
+    "gn:longitude":159.57815,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Tiroko\u2019u",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2102547
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"da140999bacd827f92c2057b397f0bed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1309920605,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309920605,
+    "wof:lastmodified":1536765894,
+    "wof:name":"Tiroko'u",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.57815,
+    -8.35081,
+    159.57815,
+    -8.35081
+],
+  "geometry": {"coordinates":[159.57814999999999,-8.35081],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1344266897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.11667,-9.28333,161.11667,-9.28333",
+    "geom:latitude":-9.28333,
+    "geom:longitude":161.11667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Siarara",
+    "gn:country_code":"SB",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2103508,
+    "gn:latitude":-9.28333,
+    "gn:longitude":161.11667,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Siarara",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2103508
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"250fe20868968efe1a51381e9e0b54ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1344266897,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1344266897,
+    "wof:lastmodified":1537071688,
+    "wof:name":"Siarara",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.11667,
+    -9.28333,
+    161.11667,
+    -9.28333
+],
+  "geometry": {"coordinates":[161.11667,-9.28333],"type":"Point"}
+}

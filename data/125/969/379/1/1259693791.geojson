@@ -1,0 +1,65 @@
+{
+  "id": 1259693791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"157.34196,-8.56687,157.34196,-8.56687",
+    "geom:latitude":-8.56687,
+    "geom:longitude":157.34196,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tofie",
+    "gn:country_code":"SB",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2102513,
+    "gn:latitude":-8.56687,
+    "gn:longitude":157.34196,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"T\u014dfie",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2102513
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"5f64e8c522a811e8cf00d7fb728908b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1259693791,
+            "region_id":85677103
+        }
+    ],
+    "wof:id":1259693791,
+    "wof:lastmodified":1537049987,
+    "wof:name":"Tofie",
+    "wof:parent_id":85677103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    157.34196,
+    -8.56687,
+    157.34196,
+    -8.56687
+],
+  "geometry": {"coordinates":[157.34196,-8.56687],"type":"Point"}
+}

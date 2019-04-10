@@ -1,0 +1,63 @@
+{
+  "id": 1327348695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.72746,-10.28705,161.72746,-10.28705",
+    "geom:latitude":-10.28705,
+    "geom:longitude":161.72746,
+    "gn:asciiname":"Ereere Village",
+    "gn:country_code":"SB",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9794243,
+    "gn:latitude":-10.28705,
+    "gn:longitude":161.72746,
+    "gn:modification_date":"2014-10-29",
+    "gn:name":"Ereere Village",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9794243
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"ea24a3dc8d1d768a76f92b0e4adc2475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1327348695,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327348695,
+    "wof:lastmodified":1536801636,
+    "wof:name":"Ereere Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.72746,
+    -10.28705,
+    161.72746,
+    -10.28705
+],
+  "geometry": {"coordinates":[161.72746000000001,-10.28705],"type":"Point"}
+}

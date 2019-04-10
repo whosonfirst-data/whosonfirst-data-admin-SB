@@ -1,0 +1,61 @@
+{
+  "id": 1276676347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"156.63333,-8.05,156.63333,-8.05",
+    "geom:latitude":-8.05,
+    "geom:longitude":156.63333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Dai",
+    "gn:country_code":"SB",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2113915,
+    "gn:latitude":-8.05,
+    "gn:longitude":156.63333,
+    "gn:modification_date":"1998-01-23",
+    "gn:name":"Dai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2113915
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"a481fd6a01627cc608bf6e62b5a07934",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276676347,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276676347,
+    "wof:lastmodified":1536815346,
+    "wof:name":"Dai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    156.63333,
+    -8.05,
+    156.63333,
+    -8.05
+],
+  "geometry": {"coordinates":[156.63333,-8.05],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1276247147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.76705,-9.7391,159.76705,-9.7391",
+    "geom:latitude":-9.7391,
+    "geom:longitude":159.76705,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mbaleokala",
+    "gn:country_code":"SB",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2106130,
+    "gn:latitude":-9.7391,
+    "gn:longitude":159.76705,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Mbaleokala",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106130
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"bf866080f926895b96c847dd2df8e8dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1276247147,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276247147,
+    "wof:lastmodified":1536893861,
+    "wof:name":"Mbaleokala",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.76705,
+    -9.7391,
+    159.76705,
+    -9.7391
+],
+  "geometry": {"coordinates":[159.76705000000001,-9.7391],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1310323415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.05119,-10.78177,166.05119,-10.78177",
+    "geom:latitude":-10.78177,
+    "geom:longitude":166.05119,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nanggu",
+    "gn:country_code":"SB",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8553917,
+    "gn:latitude":-10.78177,
+    "gn:longitude":166.05119,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Nanggu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8553917
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"f43420bec4545529539c2b169207fb89",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310323415,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310323415,
+    "wof:lastmodified":1536682072,
+    "wof:name":"Nanggu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.05119,
+    -10.78177,
+    166.05119,
+    -10.78177
+],
+  "geometry": {"coordinates":[166.05118999999999,-10.78177],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1343369013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.75922,-10.27244,161.75922,-10.27244",
+    "geom:latitude":-10.27244,
+    "geom:longitude":161.75922,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tawarodo",
+    "gn:country_code":"SB",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178480,
+    "gn:latitude":-10.27244,
+    "gn:longitude":161.75922,
+    "gn:modification_date":"2014-10-29",
+    "gn:name":"Tawarodo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178480
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"0a3ce6d05f49e13fb3dc83f6cfa2f2eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1343369013,
+            "region_id":85677109
+        }
+    ],
+    "wof:id":1343369013,
+    "wof:lastmodified":1536877236,
+    "wof:name":"Tawarodo",
+    "wof:parent_id":85677109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.75922,
+    -10.27244,
+    161.75922,
+    -10.27244
+],
+  "geometry": {"coordinates":[161.75922,-10.27244],"type":"Point"}
+}

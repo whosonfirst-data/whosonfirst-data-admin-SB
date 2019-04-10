@@ -1,0 +1,68 @@
+{
+  "id": 1193026103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"157.28634,-8.33707,157.28634,-8.33707",
+    "geom:latitude":-8.33707,
+    "geom:longitude":157.28634,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ilangana",
+    "gn:country_code":"SB",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108341,
+    "gn:latitude":-8.33707,
+    "gn:longitude":157.28634,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ilangana",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laiana",
+        "Ilangana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108341
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"95103c4e24b124b5d0b40869f504ff82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1193026103,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193026103,
+    "wof:lastmodified":1537699381,
+    "wof:name":"Ilangana",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    157.28634,
+    -8.33707,
+    157.28634,
+    -8.33707
+],
+  "geometry": {"coordinates":[157.28634,-8.33707],"type":"Point"}
+}

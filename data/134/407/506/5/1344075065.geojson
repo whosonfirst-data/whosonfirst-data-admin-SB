@@ -1,0 +1,65 @@
+{
+  "id": 1344075065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.07941,-9.31217,161.07941,-9.31217",
+    "geom:latitude":-9.31217,
+    "geom:longitude":161.07941,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Aiasi",
+    "gn:country_code":"SB",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109949,
+    "gn:latitude":-9.31217,
+    "gn:longitude":161.07941,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Aiasi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109949
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"28e3c1870c7630d600eaa157fa0f9e0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1344075065,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1344075065,
+    "wof:lastmodified":1536853392,
+    "wof:name":"Aiasi",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.07941,
+    -9.31217,
+    161.07941,
+    -9.31217
+],
+  "geometry": {"coordinates":[161.07941,-9.31217],"type":"Point"}
+}

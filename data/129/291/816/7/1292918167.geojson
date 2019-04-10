@@ -1,0 +1,64 @@
+{
+  "id": 1292918167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"156.95883,-8.0387,156.95883,-8.0387",
+    "geom:latitude":-8.0387,
+    "geom:longitude":156.95883,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Iriri",
+    "gn:country_code":"SB",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108274,
+    "gn:latitude":-8.0387,
+    "gn:longitude":156.95883,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Iriri",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108274
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"073cfa9c291213c688bd1d726380fe7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1292918167,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1292918167,
+    "wof:lastmodified":1536611062,
+    "wof:name":"Iriri",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    156.95883,
+    -8.0387,
+    156.95883,
+    -8.0387
+],
+  "geometry": {"coordinates":[156.95883000000001,-8.0387],"type":"Point"}
+}

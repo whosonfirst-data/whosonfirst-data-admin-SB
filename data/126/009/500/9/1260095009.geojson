@@ -1,0 +1,64 @@
+{
+  "id": 1260095009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.23387,-9.44486,161.23387,-9.44486",
+    "geom:latitude":-9.44486,
+    "geom:longitude":161.23387,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Harai",
+    "gn:country_code":"SB",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2108674,
+    "gn:latitude":-9.44486,
+    "gn:longitude":161.23387,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Harai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108674
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"805ab96943a4317e0bed58a17e4ccd83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1260095009,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260095009,
+    "wof:lastmodified":1536971030,
+    "wof:name":"Harai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.23387,
+    -9.44486,
+    161.23387,
+    -9.44486
+],
+  "geometry": {"coordinates":[161.23387,-9.44486],"type":"Point"}
+}

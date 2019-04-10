@@ -1,0 +1,65 @@
+{
+  "id": 1327152507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.01316,-8.96608,161.01316,-8.96608",
+    "geom:latitude":-8.96608,
+    "geom:longitude":161.01316,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ndauana",
+    "gn:country_code":"SB",
+    "gn:dem":951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105267,
+    "gn:latitude":-8.96608,
+    "gn:longitude":161.01316,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Ndauana",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105267
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"9925093d4d788b3c45d3f746c31f52a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1327152507,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1327152507,
+    "wof:lastmodified":1537081761,
+    "wof:name":"Ndauana",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.01316,
+    -8.96608,
+    161.01316,
+    -8.96608
+],
+  "geometry": {"coordinates":[161.01316,-8.96608],"type":"Point"}
+}

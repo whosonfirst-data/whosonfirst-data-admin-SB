@@ -1,0 +1,65 @@
+{
+  "id": 1326948497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.38215,-9.46664,160.38215,-9.46664",
+    "geom:latitude":-9.46664,
+    "geom:longitude":160.38215,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ungalesi",
+    "gn:country_code":"SB",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2102264,
+    "gn:latitude":-9.46664,
+    "gn:longitude":160.38215,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Ungalesi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2102264
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"eacce943d920d03210d15d0419c0e998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1326948497,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1326948497,
+    "wof:lastmodified":1536880680,
+    "wof:name":"Ungalesi",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.38215,
+    -9.46664,
+    160.38215,
+    -9.46664
+],
+  "geometry": {"coordinates":[160.38215,-9.46664],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1276128573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.81342,-8.46597,159.81342,-8.46597",
+    "geom:latitude":-8.46597,
+    "geom:longitude":159.81342,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kasera",
+    "gn:country_code":"SB",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440149,
+    "gn:latitude":-8.46597,
+    "gn:longitude":159.81342,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Kasera",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440149
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"e5e78c1cb6aac9ba6fd344977fbfb93d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1276128573,
+            "region_id":85677095
+        }
+    ],
+    "wof:id":1276128573,
+    "wof:lastmodified":1537050762,
+    "wof:name":"Kasera",
+    "wof:parent_id":85677095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.81342,
+    -8.46597,
+    159.81342,
+    -8.46597
+],
+  "geometry": {"coordinates":[159.81342000000001,-8.46597],"type":"Point"}
+}

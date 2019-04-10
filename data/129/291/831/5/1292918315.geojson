@@ -1,0 +1,65 @@
+{
+  "id": 1292918315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.07824,-9.30335,161.07824,-9.30335",
+    "geom:latitude":-9.30335,
+    "geom:longitude":161.07824,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tawaihuro",
+    "gn:country_code":"SB",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2102676,
+    "gn:latitude":-9.30335,
+    "gn:longitude":161.07824,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Tawaihuro",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2102676
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"0fac724ae77f75ca713fe2d48c21039a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1292918315,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1292918315,
+    "wof:lastmodified":1536610827,
+    "wof:name":"Tawaihuro",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.07824,
+    -9.30335,
+    161.07824,
+    -9.30335
+],
+  "geometry": {"coordinates":[161.07823999999999,-9.30335],"type":"Point"}
+}

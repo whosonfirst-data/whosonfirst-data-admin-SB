@@ -1,0 +1,65 @@
+{
+  "id": 1343680007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.43333,-9.61667,160.43333,-9.61667",
+    "geom:latitude":-9.61667,
+    "geom:longitude":160.43333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mbumbualala",
+    "gn:country_code":"SB",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105752,
+    "gn:latitude":-9.61667,
+    "gn:longitude":160.43333,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Mbumbualala",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105752
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"15dea41e43bf97406090ede1bc62708f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1343680007,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1343680007,
+    "wof:lastmodified":1536927571,
+    "wof:name":"Mbumbualala",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.43333,
+    -9.61667,
+    160.43333,
+    -9.61667
+],
+  "geometry": {"coordinates":[160.43333000000001,-9.61667],"type":"Point"}
+}

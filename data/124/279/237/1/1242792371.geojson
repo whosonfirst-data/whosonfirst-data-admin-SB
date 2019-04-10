@@ -1,0 +1,65 @@
+{
+  "id": 1242792371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.09009,-9.30855,161.09009,-9.30855",
+    "geom:latitude":-9.30855,
+    "geom:longitude":161.09009,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Manawai",
+    "gn:country_code":"SB",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2106449,
+    "gn:latitude":-9.30855,
+    "gn:longitude":161.09009,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Manawai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106449
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"4f85df9508752679309e3fd6d7aaa285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1242792371,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1242792371,
+    "wof:lastmodified":1536754239,
+    "wof:name":"Manawai",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.09009,
+    -9.30855,
+    161.09009,
+    -9.30855
+],
+  "geometry": {"coordinates":[161.09009,-9.30855],"type":"Point"}
+}

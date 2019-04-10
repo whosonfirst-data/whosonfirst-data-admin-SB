@@ -1,0 +1,68 @@
+{
+  "id": 1293607063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.99659,-9.81578,159.99659,-9.81578",
+    "geom:latitude":-9.81578,
+    "geom:longitude":159.99659,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ngaliamate",
+    "gn:country_code":"SB",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105164,
+    "gn:latitude":-9.81578,
+    "gn:longitude":159.99659,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ngaliamate",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Viso",
+        "Ngaliamate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105164
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"89b7605184a66ec39ea175f3716ab0f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1293607063,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293607063,
+    "wof:lastmodified":1537699363,
+    "wof:name":"Ngaliamate",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.99659,
+    -9.81578,
+    159.99659,
+    -9.81578
+],
+  "geometry": {"coordinates":[159.99659,-9.81578],"type":"Point"}
+}

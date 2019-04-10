@@ -1,0 +1,64 @@
+{
+  "id": 1210034535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.91491,-9.79511,159.91491,-9.79511",
+    "geom:latitude":-9.79511,
+    "geom:longitude":159.91491,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ghorambau",
+    "gn:country_code":"SB",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108895,
+    "gn:latitude":-9.79511,
+    "gn:longitude":159.91491,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Ghorambau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108895
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"beb533f7fe90d4bb58e3d8a24ea773f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1210034535,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1210034535,
+    "wof:lastmodified":1536387086,
+    "wof:name":"Ghorambau",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.91491000000005,
+    -9.79511,
+    159.91491000000005,
+    -9.79511
+],
+  "geometry": {"coordinates":[159.91491000000005,-9.79511],"type":"Point"}
+}

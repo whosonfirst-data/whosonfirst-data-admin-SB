@@ -1,0 +1,64 @@
+{
+  "id": 1259498201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"157.25063,-8.32477,157.25063,-8.32477",
+    "geom:latitude":-8.32477,
+    "geom:longitude":157.25063,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Rapa",
+    "gn:country_code":"SB",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2104066,
+    "gn:latitude":-8.32477,
+    "gn:longitude":157.25063,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Rapa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104066
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"e9e8d9d2cf5b3c8163c279218e10ac3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1259498201,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259498201,
+    "wof:lastmodified":1536836532,
+    "wof:name":"Rapa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    157.25063,
+    -8.32477,
+    157.25063,
+    -8.32477
+],
+  "geometry": {"coordinates":[157.25063,-8.32477],"type":"Point"}
+}

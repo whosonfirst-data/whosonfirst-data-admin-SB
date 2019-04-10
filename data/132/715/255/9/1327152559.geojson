@@ -1,0 +1,65 @@
+{
+  "id": 1327152559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"157.05,-7.16667,157.05,-7.16667",
+    "geom:latitude":-7.16667,
+    "geom:longitude":157.05,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Balu",
+    "gn:country_code":"SB",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109643,
+    "gn:latitude":-7.16667,
+    "gn:longitude":157.05,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Balu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109643
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"92269767eda1237b98ded96c3ccd2107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1327152559,
+            "region_id":85677105
+        }
+    ],
+    "wof:id":1327152559,
+    "wof:lastmodified":1537081687,
+    "wof:name":"Balu",
+    "wof:parent_id":85677105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    157.05,
+    -7.16667,
+    157.05,
+    -7.16667
+],
+  "geometry": {"coordinates":[157.05000000000001,-7.16667],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1310223117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.68025,-9.25429,159.68025,-9.25429",
+    "geom:latitude":-9.25429,
+    "geom:longitude":159.68025,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Veuru",
+    "gn:country_code":"SB",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101913,
+    "gn:latitude":-9.25429,
+    "gn:longitude":159.68025,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Veuru",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101913
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"8f0b2722ae0450ae09b2c619bcb573c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1310223117,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310223117,
+    "wof:lastmodified":1536825898,
+    "wof:name":"Veuru",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.68025,
+    -9.25429,
+    159.68025,
+    -9.25429
+],
+  "geometry": {"coordinates":[159.68025,-9.25429],"type":"Point"}
+}

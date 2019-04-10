@@ -1,0 +1,234 @@
+{
+  "id": 85677081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.055515,
+    "geom:area_square_m":672343797.205285,
+    "geom:bbox":"159.777354363,-11.8458798159,160.582204623,-11.2828101541",
+    "geom:latitude":-11.640074,
+    "geom:longitude":160.250039,
+    "iso:country":"SB",
+    "label:eng_x_preferred_longname":[
+        "Rennell and Bellona Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "lbl:latitude":-11.59629,
+    "lbl:longitude":160.161944,
+    "mps:latitude":-11.59629,
+    "mps:longitude":160.161944,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.0,
+    "name:cat_x_preferred":[
+        "Rennell i Bellona"
+    ],
+    "name:deu_x_preferred":[
+        "Rennell und Bellona"
+    ],
+    "name:eng_x_preferred":[
+        "Makira"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0631\u0646\u0627\u0644 \u0648 \u0628\u0644\u0648\u0646\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Rennell ja Bellona"
+    ],
+    "name:fra_x_preferred":[
+        "Province de Rennell et Bellona"
+    ],
+    "name:glg_x_preferred":[
+        "Rennell e Bellona"
+    ],
+    "name:hrv_x_preferred":[
+        "Rennell i Bellona"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Rennell dan Bellona"
+    ],
+    "name:ita_x_preferred":[
+        "Provincia di Rennell e Bellona"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30f3\u30cd\u30eb\u30fb\u30d9\u30ed\u30fc\u30ca\u5dde"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d4\u10dc\u10d4\u10da\u10d8 \u10d3\u10d0 \u10d1\u10d4\u10da\u10dd\u10dc\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ub80c\ub12c\ubca8\ub85c\ub098 \uc8fc"
+    ],
+    "name:lit_x_preferred":[
+        "Renelo ir Belonos provincija"
+    ],
+    "name:nld_x_preferred":[
+        "Rennell-Bellona"
+    ],
+    "name:pol_x_preferred":[
+        "Prowincja Rennell i Bellona"
+    ],
+    "name:por_x_preferred":[
+        "Prov\u00edncia de Rennell e Bellona"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u043d\u043d\u0435\u043b\u043b \u0438 \u0411\u0435\u043b\u043b\u043e\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Rennell y Bellona"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u06cc\u0646\u0644 \u0627\u0648\u0631 \u0628\u06cc\u0644\u0648\u0646\u0627 \u0635\u0648\u0628\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "T\u1ec9nh Rennell v\u00e0 Bellona"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u7d0d\u723e\u548c\u8c9d\u7f85\u7d0d\u7701"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SLB",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"SLB-1261",
+    "ne:adm1_code":"SLB-1261",
+    "ne:admin":"Solomon Islands",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"SB.RB",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1261",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BP10",
+    "ne:fips_alt":"BP13",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Solomon Islands",
+    "ne:gn_a1_code":"SB.13",
+    "ne:gn_id":"7280293",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Rennell and Bellona",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BP13",
+    "ne:gns_id":"11656549",
+    "ne:gns_lang":"kor",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Rennell and Bellona",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SLB",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SB-",
+    "ne:iso_a2":"SB",
+    "ne:labelrank":"6",
+    "ne:latitude":"-11.62040000000",
+    "ne:longitude":"160.27300000000",
+    "ne:mapcolor13":6,
+    "ne:mapcolor9":1,
+    "ne:name":"Rennell and Bellona",
+    "ne:name_alt":"",
+    "ne:name_len":19,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"RB",
+    "ne:provnum_ne":"4",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"6",
+    "ne:sov_a3":"SLB",
+    "ne:sub_code":"",
+    "ne:type":"Province",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":-2344841,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Solomon Islands",
+    "qs:a0_lc":"SB",
+    "qs:a1":"Rennell and Bellona",
+    "qs:a1_lc":"SLB-1261",
+    "qs:adm0":"Solomon Islands",
+    "qs:adm0_a3":"SLB",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Province",
+    "qs:woeid":2344841,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2009-11-22",
+    "statoids:area_km":"671",
+    "statoids:area_mi":"259",
+    "statoids:as_of_date":"2009-11-22",
+    "statoids:capital":"Tigoa",
+    "statoids:country":"SB",
+    "statoids:gec":"BP13",
+    "statoids:hasc":"SB.RB",
+    "statoids:iso":"RB",
+    "statoids:name":"Rennell and Bellona",
+    "statoids:population":"3041",
+    "statoids:timezone":"+11",
+    "statoids:type":"province",
+    "unlc:subdivision":"SB-RB",
+    "wd:wordcount":1018,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BP13",
+        "gn:id":7280293,
+        "gp:id":-2344841,
+        "hasc:id":"SB.RB",
+        "iso:id":"SB-RB",
+        "unlc:id":"SB-RB",
+        "wd:id":"Q1051475"
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"e9838c824bfd1e312b793388af0d508a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "region_id":85677081
+        }
+    ],
+    "wof:id":85677081,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550510,
+    "wof:name":"Rennell and Bellona",
+    "wof:parent_id":85632591,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"province",
+    "wof:population":3041,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:shortcode":"RB",
+    "wof:subdivision":"SB-RB",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.77735436311343,
+    -11.84587981590073,
+    160.58220462294503,
+    -11.28281015406532
+],
+  "geometry": {"coordinates":[[[[160.05241946718468,-11.49521249805827],[160.06348717539288,-11.49602629997372],[160.08716881598809,-11.49480559710059],[160.09669030001737,-11.4992001279835],[160.11670983199326,-11.5166968727624],[160.13738040478188,-11.52988046631043],[160.19336998843426,-11.5563290339577],[160.2229923840913,-11.57838307072211],[160.25847415515818,-11.59547291454334],[160.28744550910301,-11.61736419110451],[160.30811608189174,-11.62664153347993],[160.35279381568216,-11.63982512792728],[160.3938908214044,-11.65781015331589],[160.50367272191863,-11.73601653393587],[160.56446373831091,-11.7730445282823],[160.58220462294503,-11.79485442429223],[160.55884850365555,-11.8112118467493],[160.54688561298076,-11.81129322640123],[160.53809655031557,-11.80836354004526],[160.52963300895624,-11.8068173158664],[160.51783287938395,-11.8112118467493],[160.51246178548308,-11.81812916482903],[160.50456790528472,-11.83831145610878],[160.49732506589919,-11.84587981590073],[160.48316491023252,-11.8449846325347],[160.47095787880312,-11.83171965843542],[160.46013431134941,-11.81503671647124],[160.44955488375092,-11.80437590832145],[160.43433678541442,-11.81096770599481],[160.42847741000458,-11.8112118467493],[160.422618035494,-11.80852629934918],[160.38526451894245,-11.78378671698334],[160.38005618614409,-11.7770321591068],[160.36890709738475,-11.73455169030819],[160.36011803471956,-11.71689218442674],[160.33969160178606,-11.7013485656837],[160.32935631584132,-11.69833749787716],[160.30811608189174,-11.69703541445278],[160.29810631635348,-11.69451262815522],[160.28581790527221,-11.68694426836322],[160.2833764977272,-11.68084075309821],[160.28516686266062,-11.6747372378332],[160.28516686266062,-11.66716887804125],[160.28394615978755,-11.65732187270623],[160.28484134225425,-11.64950937305906],[160.28207441520215,-11.64185963271581],[160.27076256623945,-11.63298919039875],[160.26246178508336,-11.62916432067681],[160.25180097693362,-11.62615325287027],[160.24057050942156,-11.62468840834333],[160.23047936333205,-11.62615325287027],[160.22584069079528,-11.63103606616147],[160.216319206766,-11.64804452853213],[160.20997154984718,-11.65349700298424],[160.20101972697887,-11.6552059873664],[160.18930097705856,-11.65536874756958],[160.1684676440666,-11.65349700298424],[160.15121504004208,-11.64714934696474],[160.1124780613136,-11.62607187231902],[160.09262129044032,-11.61939869589304],[160.09766686303533,-11.60906340904904],[160.10075931139318,-11.60507577912387],[160.0825301443507,-11.59221770598231],[160.06641686354749,-11.59351978940668],[160.05274498849053,-11.60076262789289],[160.04135175897659,-11.60507577912387],[160.02369225399434,-11.60068124734164],[160.01059004009835,-11.58945077893026],[159.98194420745926,-11.55429452916911],[159.97779381643159,-11.54021575315443],[159.9729110040397,-11.53337981562595],[159.9655054053502,-11.52581145583395],[159.96338951911105,-11.52060312303564],[159.96924889452089,-11.50318775790868],[159.97608483204942,-11.49138762743701],[159.99610436312594,-11.47307708074266],[160.00326582106084,-11.46111419096707],[160.00668378982516,-11.4651018208923],[160.01010175948863,-11.46648528396861],[160.0136824884562,-11.46721770533281],[160.01758873783001,-11.46851978965651],[160.03199303515055,-11.48357512778989],[160.04175865993432,-11.49049244586962],[160.05241946718468,-11.49521249805827]]],[[[159.85108483229919,-11.30771249753371],[159.85320071673971,-11.32447682094846],[159.82992597710222,-11.31536223787691],[159.81055748773792,-11.31047942458571],[159.79330488371352,-11.30242278328478],[159.77735436311343,-11.28362395598072],[159.78532962296379,-11.28281015406532],[159.79200280028908,-11.28394947638719],[159.7983504572079,-11.28655364413532],[159.80469811322746,-11.29045989350925],[159.82227623765834,-11.29265715850102],[159.83936608237889,-11.29762135144415],[159.85108483229919,-11.30771249753371]]]],"type":"MultiPolygon"}
+}

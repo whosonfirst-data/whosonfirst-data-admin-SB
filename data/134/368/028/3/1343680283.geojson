@@ -1,0 +1,65 @@
+{
+  "id": 1343680283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.27739,-9.50028,160.27739,-9.50028",
+    "geom:latitude":-9.50028,
+    "geom:longitude":160.27739,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mbeghotadhi",
+    "gn:country_code":"SB",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2106017,
+    "gn:latitude":-9.50028,
+    "gn:longitude":160.27739,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Mbeghotadhi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106017
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"ab60b5669975cb19be015264e8744c1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1343680283,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1343680283,
+    "wof:lastmodified":1536927162,
+    "wof:name":"Mbeghotadhi",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.27739,
+    -9.50028,
+    160.27739,
+    -9.50028
+],
+  "geometry": {"coordinates":[160.27739,-9.50028],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209019081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.98195,-9.74391,161.98195,-9.74391",
+    "geom:latitude":-9.74391,
+    "geom:longitude":161.98195,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Aroaha",
+    "gn:country_code":"SB",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109754,
+    "gn:latitude":-9.74391,
+    "gn:longitude":161.98195,
+    "gn:modification_date":"2015-04-11",
+    "gn:name":"Aroaha",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109754
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"dc6840d35ef88b43e36974d7bc16c62b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209019081
+        }
+    ],
+    "wof:id":1209019081,
+    "wof:lastmodified":1536300202,
+    "wof:name":"Aroaha",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.98195,
+    -9.74391,
+    161.98195,
+    -9.74391
+],
+  "geometry": {"coordinates":[161.98195000000001,-9.74391],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1276672475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.69398,-8.32871,160.69398,-8.32871",
+    "geom:latitude":-8.32871,
+    "geom:longitude":160.69398,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Aimela",
+    "gn:country_code":"SB",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109939,
+    "gn:latitude":-8.32871,
+    "gn:longitude":160.69398,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Aimela",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109939
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"d3e1c648ffc4e8c3978574ba235aba1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1276672475,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276672475,
+    "wof:lastmodified":1536820336,
+    "wof:name":"Aimela",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.69398,
+    -8.32871,
+    160.69398,
+    -8.32871
+],
+  "geometry": {"coordinates":[160.69398000000001,-8.32871],"type":"Point"}
+}

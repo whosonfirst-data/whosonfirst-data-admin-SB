@@ -1,0 +1,65 @@
+{
+  "id": 1292921725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.15,-8.96667,161.15,-8.96667",
+    "geom:latitude":-8.96667,
+    "geom:longitude":161.15,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Malou",
+    "gn:country_code":"SB",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2106497,
+    "gn:latitude":-8.96667,
+    "gn:longitude":161.15,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Malou",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106497
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"a49d1bef8500ff279812d9016b962d30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1292921725,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1292921725,
+    "wof:lastmodified":1536605587,
+    "wof:name":"Malou",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.15,
+    -8.96667,
+    161.15,
+    -8.96667
+],
+  "geometry": {"coordinates":[161.15000000000001,-8.96667],"type":"Point"}
+}

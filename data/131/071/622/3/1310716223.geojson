@@ -1,0 +1,61 @@
+{
+  "id": 1310716223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.8036,-8.52782,159.8036,-8.52782",
+    "geom:latitude":-8.52782,
+    "geom:longitude":159.8036,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kokote",
+    "gn:country_code":"SB",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107697,
+    "gn:latitude":-8.52782,
+    "gn:longitude":159.8036,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Kokote",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107697
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"141349ff1ba074282a398260d1f63753",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310716223,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310716223,
+    "wof:lastmodified":1536610258,
+    "wof:name":"Kokote",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.8036,
+    -8.52782,
+    159.8036,
+    -8.52782
+],
+  "geometry": {"coordinates":[159.80359999999999,-8.52782],"type":"Point"}
+}

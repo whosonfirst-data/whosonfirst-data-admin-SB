@@ -1,0 +1,61 @@
+{
+  "id": 1226257615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"155.72598,-6.96011,155.72598,-6.96011",
+    "geom:latitude":-6.96011,
+    "geom:longitude":155.72598,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kamaleai",
+    "gn:country_code":"SB",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108127,
+    "gn:latitude":-6.96011,
+    "gn:longitude":155.72598,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Kamaleai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108127
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"b8e30e48ac62dceeea27ea88e2b281bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226257615,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226257615,
+    "wof:lastmodified":1536916966,
+    "wof:name":"Kamaleai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    155.72598,
+    -6.96011,
+    155.72598,
+    -6.96011
+],
+  "geometry": {"coordinates":[155.72597999999999,-6.96011],"type":"Point"}
+}

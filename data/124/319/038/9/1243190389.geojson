@@ -1,0 +1,66 @@
+{
+  "id": 1243190389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.89148,-11.59198,166.89148,-11.59198",
+    "geom:latitude":-11.59198,
+    "geom:longitude":166.89148,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lavaka",
+    "gn:country_code":"SB",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178748,
+    "gn:latitude":-11.59198,
+    "gn:longitude":166.89148,
+    "gn:modification_date":"2016-04-15",
+    "gn:name":"Lavaka",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arambu",
+        "Lavaka",
+        "Lovoko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178748
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"3ba4ab0248bf053a1b302ef274da71b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243190389,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243190389,
+    "wof:lastmodified":1537699394,
+    "wof:name":"Lavaka",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.89148,
+    -11.59198,
+    166.89148,
+    -11.59198
+],
+  "geometry": {"coordinates":[166.89148,-11.59198],"type":"Point"}
+}

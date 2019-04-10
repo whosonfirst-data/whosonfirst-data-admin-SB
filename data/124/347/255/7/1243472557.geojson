@@ -1,0 +1,64 @@
+{
+  "id": 1243472557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.68497,-9.25319,159.68497,-9.25319",
+    "geom:latitude":-9.25319,
+    "geom:longitude":159.68497,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tina",
+    "gn:country_code":"SB",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2102579,
+    "gn:latitude":-9.25319,
+    "gn:longitude":159.68497,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Tina",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2102579
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"bbafee8fa966d2f26040b7c1fda36598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1243472557,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243472557,
+    "wof:lastmodified":1536768365,
+    "wof:name":"Tina",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.68497,
+    -9.25319,
+    159.68497,
+    -9.25319
+],
+  "geometry": {"coordinates":[159.68496999999999,-9.25319],"type":"Point"}
+}

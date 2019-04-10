@@ -1,0 +1,65 @@
+{
+  "id": 1209525605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"157.19048,-8.03923,157.19048,-8.03923",
+    "geom:latitude":-8.03923,
+    "geom:longitude":157.19048,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sulimuni",
+    "gn:country_code":"SB",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2103258,
+    "gn:latitude":-8.03923,
+    "gn:longitude":157.19048,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sulimuni",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Surimuni",
+        "Sulimuni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2103258
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"5a7f03e19f95dfebab42ba2711670978",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209525605
+        }
+    ],
+    "wof:id":1209525605,
+    "wof:lastmodified":1537699355,
+    "wof:name":"Sulimuni",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    157.19048,
+    -8.03923,
+    157.19048,
+    -8.03923
+],
+  "geometry": {"coordinates":[157.19048000000001,-8.03923],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226766023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.7,-9.66667,159.7,-9.66667",
+    "geom:latitude":-9.66667,
+    "geom:longitude":159.7,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Imomoru",
+    "gn:country_code":"SB",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108325,
+    "gn:latitude":-9.66667,
+    "gn:longitude":159.7,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Imomoru",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanabogo",
+        "Imomoru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108325
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"155549b1a061b0726abb3c64f6fb07ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1226766023,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226766023,
+    "wof:lastmodified":1537699381,
+    "wof:name":"Imomoru",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.7,
+    -9.66667,
+    159.7,
+    -9.66667
+],
+  "geometry": {"coordinates":[159.69999999999999,-9.66667],"type":"Point"}
+}

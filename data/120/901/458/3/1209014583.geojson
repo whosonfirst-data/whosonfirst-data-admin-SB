@@ -1,0 +1,61 @@
+{
+  "id": 1209014583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.23668,-9.2339,161.23668,-9.2339",
+    "geom:latitude":-9.2339,
+    "geom:longitude":161.23668,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Oonerohoroho",
+    "gn:country_code":"SB",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2104645,
+    "gn:latitude":-9.2339,
+    "gn:longitude":161.23668,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Oonerohoroho",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104645
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"a091ed5ca1ae05f38409d5deb66cdad0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209014583
+        }
+    ],
+    "wof:id":1209014583,
+    "wof:lastmodified":1536300337,
+    "wof:name":"Oonerohoroho",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.23668,
+    -9.2339,
+    161.23668,
+    -9.2339
+],
+  "geometry": {"coordinates":[161.23668000000001,-9.2339],"type":"Point"}
+}

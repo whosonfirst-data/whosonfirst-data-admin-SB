@@ -1,0 +1,65 @@
+{
+  "id": 1293210593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.58954,-9.73995,160.58954,-9.73995",
+    "geom:latitude":-9.73995,
+    "geom:longitude":160.58954,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Na Mbambasa",
+    "gn:country_code":"SB",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105457,
+    "gn:latitude":-9.73995,
+    "gn:longitude":160.58954,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Na Mbambasa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105457
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"09fea7733bd8b4527c807e607271c50b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1293210593,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1293210593,
+    "wof:lastmodified":1536689240,
+    "wof:name":"Na Mbambasa",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.58954,
+    -9.73995,
+    160.58954,
+    -9.73995
+],
+  "geometry": {"coordinates":[160.58954,-9.73995],"type":"Point"}
+}

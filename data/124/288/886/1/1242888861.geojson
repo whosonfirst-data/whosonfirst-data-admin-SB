@@ -1,0 +1,65 @@
+{
+  "id": 1242888861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.18655,-9.31753,161.18655,-9.31753",
+    "geom:latitude":-9.31753,
+    "geom:longitude":161.18655,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Suruni'oi",
+    "gn:country_code":"SB",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2103198,
+    "gn:latitude":-9.31753,
+    "gn:longitude":161.18655,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Suruni\u2019oi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2103198
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"cd0024de03960ddb67b6cca681834bf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1242888861,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1242888861,
+    "wof:lastmodified":1536612802,
+    "wof:name":"Suruni'oi",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.18655,
+    -9.31753,
+    161.18655,
+    -9.31753
+],
+  "geometry": {"coordinates":[161.18655000000001,-9.31753],"type":"Point"}
+}

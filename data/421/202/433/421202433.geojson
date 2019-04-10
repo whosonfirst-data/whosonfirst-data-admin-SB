@@ -1,0 +1,74 @@
+{
+  "id": 421202433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"159.93333,-9.43333,159.93333,-9.43333",
+    "geom:latitude":-9.43333,
+    "geom:longitude":159.93333,
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"SB",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":2108410,
+    "qs:gn_pop":0,
+    "qs:name":"Huhuru",
+    "qs:name_adm0":"Solomon Islands",
+    "qs:name_adm1":"Guadalcanal",
+    "qs:photos":361,
+    "qs:photos_1k":73,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":361,
+    "qs:photos_sr":6,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":222523,
+    "qs:woe_adm0":23424766,
+    "qs:woe_id":1018499,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108410,
+        "gp:id":1018499,
+        "qs:id":222523
+    },
+    "wof:country":"SB",
+    "wof:created":1459010117,
+    "wof:geomhash":"de8abe7493515486918d134a611c3734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":-1,
+            "neighbourhood_id":421202433,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":421202433,
+    "wof:lastmodified":1531858801,
+    "wof:name":"Huhuru",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.93333,
+    -9.43333,
+    159.93333,
+    -9.43333
+],
+  "geometry": {"coordinates":[159.93333000000001,-9.43333],"type":"Point"}
+}

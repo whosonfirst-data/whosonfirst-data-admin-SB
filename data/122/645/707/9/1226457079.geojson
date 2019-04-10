@@ -1,0 +1,66 @@
+{
+  "id": 1226457079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.83727,-9.34493,159.83727,-9.34493",
+    "geom:latitude":-9.34493,
+    "geom:longitude":159.83727,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ruaniu",
+    "gn:country_code":"SB",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2103826,
+    "gn:latitude":-9.34493,
+    "gn:longitude":159.83727,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Ruaniu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2103826,
+        "wk:page":"Ruaniu"
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"0f4c3528b797b8e79248d280bd542ad3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1226457079,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1226457079,
+    "wof:lastmodified":1537573271,
+    "wof:name":"Ruaniu",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.83727,
+    -9.34493,
+    159.83727,
+    -9.34493
+],
+  "geometry": {"coordinates":[159.83726999999999,-9.34493],"type":"Point"}
+}

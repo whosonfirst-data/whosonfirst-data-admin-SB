@@ -1,0 +1,64 @@
+{
+  "id": 1327249693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"156.55,-6.83333,156.55,-6.83333",
+    "geom:latitude":-6.83333,
+    "geom:longitude":156.55,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Posaposara",
+    "gn:country_code":"SB",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2104189,
+    "gn:latitude":-6.83333,
+    "gn:longitude":156.55,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Posaposara",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104189
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"39db2a2f13b82eca79491b583b0cdbaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1327249693,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327249693,
+    "wof:lastmodified":1536945018,
+    "wof:name":"Posaposara",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    156.55,
+    -6.83333,
+    156.55,
+    -6.83333
+],
+  "geometry": {"coordinates":[156.55000000000001,-6.83333],"type":"Point"}
+}

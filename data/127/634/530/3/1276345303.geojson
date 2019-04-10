@@ -1,0 +1,69 @@
+{
+  "id": 1276345303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.09873,-9.53238,160.09873,-9.53238",
+    "geom:latitude":-9.53238,
+    "geom:longitude":160.09873,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Vatunandi",
+    "gn:country_code":"SB",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2102023,
+    "gn:latitude":-9.53238,
+    "gn:longitude":160.09873,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vatunandi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Komureo",
+        "Vatunandi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2102023
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"be3ee179cfc93478099411203b068634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1276345303,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1276345303,
+    "wof:lastmodified":1537699350,
+    "wof:name":"Vatunandi",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.09873000000005,
+    -9.53238,
+    160.09873000000005,
+    -9.53238
+],
+  "geometry": {"coordinates":[160.09873000000005,-9.53238],"type":"Point"}
+}

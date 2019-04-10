@@ -1,0 +1,64 @@
+{
+  "id": 1293408347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.65871,-8.45431,160.65871,-8.45431",
+    "geom:latitude":-8.45431,
+    "geom:longitude":160.65871,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lolofoe",
+    "gn:country_code":"SB",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2106785,
+    "gn:latitude":-8.45431,
+    "gn:longitude":160.65871,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Lolofoe",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106785
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"d58cb8e91f049831fbbafaaabd2b4209",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1293408347,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293408347,
+    "wof:lastmodified":1536901211,
+    "wof:name":"Lolofoe",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.65871,
+    -8.45431,
+    160.65871,
+    -8.45431
+],
+  "geometry": {"coordinates":[160.65871000000001,-8.45431],"type":"Point"}
+}

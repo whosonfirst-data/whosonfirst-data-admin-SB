@@ -1,0 +1,65 @@
+{
+  "id": 1243464357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.47885,-9.54708,161.47885,-9.54708",
+    "geom:latitude":-9.54708,
+    "geom:longitude":161.47885,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Rorongo",
+    "gn:country_code":"SB",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2103852,
+    "gn:latitude":-9.54708,
+    "gn:longitude":161.47885,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Rorongo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2103852
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"824965bfcb17e554067737542838d432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1243464357,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1243464357,
+    "wof:lastmodified":1536780129,
+    "wof:name":"Rorongo",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.47885,
+    -9.54708,
+    161.47885,
+    -9.54708
+],
+  "geometry": {"coordinates":[161.47884999999999,-9.54708],"type":"Point"}
+}

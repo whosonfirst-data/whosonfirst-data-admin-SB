@@ -1,0 +1,69 @@
+{
+  "id": 1293701379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.59418,-9.76218,160.59418,-9.76218",
+    "geom:latitude":-9.76218,
+    "geom:longitude":160.59418,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mbumbulonga",
+    "gn:country_code":"SB",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105742,
+    "gn:latitude":-9.76218,
+    "gn:longitude":160.59418,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mbumbulonga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Na Vuvuti",
+        "Mbumbulonga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105742
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"8551611eb97cd6992efbedc3d7c20f98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1293701379,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1293701379,
+    "wof:lastmodified":1537699366,
+    "wof:name":"Mbumbulonga",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.59418,
+    -9.76218,
+    160.59418,
+    -9.76218
+],
+  "geometry": {"coordinates":[160.59417999999999,-9.76218],"type":"Point"}
+}

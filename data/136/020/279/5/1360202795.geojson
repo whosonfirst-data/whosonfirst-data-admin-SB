@@ -1,0 +1,65 @@
+{
+  "id": 1360202795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.69357,-8.40631,160.69357,-8.40631",
+    "geom:latitude":-8.40631,
+    "geom:longitude":160.69357,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nggwauafa",
+    "gn:country_code":"SB",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105006,
+    "gn:latitude":-8.40631,
+    "gn:longitude":160.69357,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Nggwauafa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105006
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"0923e98c49f3a0105f9679db309b582e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1360202795,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1360202795,
+    "wof:lastmodified":1536776461,
+    "wof:name":"Nggwauafa",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.69357,
+    -8.40631,
+    160.69357,
+    -8.40631
+],
+  "geometry": {"coordinates":[160.69356999999999,-8.40631],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1226558317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"158.66138,-7.77845,158.66138,-7.77845",
+    "geom:latitude":-7.77845,
+    "geom:longitude":158.66138,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Allardyce",
+    "gn:country_code":"SB",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8439997,
+    "gn:latitude":-7.77845,
+    "gn:longitude":158.66138,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Allardyce",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8439997
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"a4b41359bb776bf9203df8eacc034459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1226558317,
+            "region_id":85677095
+        }
+    ],
+    "wof:id":1226558317,
+    "wof:lastmodified":1536979297,
+    "wof:name":"Allardyce",
+    "wof:parent_id":85677095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.66138,
+    -7.77845,
+    158.66138,
+    -7.77845
+],
+  "geometry": {"coordinates":[158.66138000000001,-7.77845],"type":"Point"}
+}

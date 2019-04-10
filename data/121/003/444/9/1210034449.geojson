@@ -1,0 +1,65 @@
+{
+  "id": 1210034449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.23736,-9.46758,160.23736,-9.46758",
+    "geom:latitude":-9.46758,
+    "geom:longitude":160.23736,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Komuvadha",
+    "gn:country_code":"SB",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107368,
+    "gn:latitude":-9.46758,
+    "gn:longitude":160.23736,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Komuvadha",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107368
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"f547fa9e5052b81cee0e7d52e3a44c09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1210034449,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1210034449,
+    "wof:lastmodified":1536387124,
+    "wof:name":"Komuvadha",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.23736,
+    -9.46758,
+    160.23736,
+    -9.46758
+],
+  "geometry": {"coordinates":[160.23736,-9.46758],"type":"Point"}
+}

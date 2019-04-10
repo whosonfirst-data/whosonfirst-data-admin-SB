@@ -1,0 +1,68 @@
+{
+  "id": 1360203007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.75398,-8.96551,160.75398,-8.96551",
+    "geom:latitude":-8.96551,
+    "geom:longitude":160.75398,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mbuma",
+    "gn:country_code":"SB",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105753,
+    "gn:latitude":-8.96551,
+    "gn:longitude":160.75398,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mbuma",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manabuma Mission",
+        "Mbuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105753
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"c1bd853be30310322362bf0ca1e34393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1360203007,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360203007,
+    "wof:lastmodified":1537699366,
+    "wof:name":"Mbuma",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.75398,
+    -8.96551,
+    160.75398,
+    -8.96551
+],
+  "geometry": {"coordinates":[160.75398000000001,-8.96551],"type":"Point"}
+}

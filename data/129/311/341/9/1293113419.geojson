@@ -1,0 +1,65 @@
+{
+  "id": 1293113419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.77585,-9.72847,159.77585,-9.72847",
+    "geom:latitude":-9.72847,
+    "geom:longitude":159.77585,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kuekue",
+    "gn:country_code":"SB",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2107218,
+    "gn:latitude":-9.72847,
+    "gn:longitude":159.77585,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Kuekue",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107218
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"60a44f6ccd5d6b1b0da8d487dcfbc8a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1293113419,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1293113419,
+    "wof:lastmodified":1536828354,
+    "wof:name":"Kuekue",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.77585,
+    -9.72847,
+    159.77585,
+    -9.72847
+],
+  "geometry": {"coordinates":[159.77584999999999,-9.72847],"type":"Point"}
+}

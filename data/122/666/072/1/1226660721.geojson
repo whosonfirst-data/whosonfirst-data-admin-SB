@@ -1,0 +1,65 @@
+{
+  "id": 1226660721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"157.30073,-7.3871,157.30073,-7.3871",
+    "geom:latitude":-7.3871,
+    "geom:longitude":157.30073,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Keala",
+    "gn:country_code":"SB",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107965,
+    "gn:latitude":-7.3871,
+    "gn:longitude":157.30073,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Keala",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kiala",
+        "Keala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107965
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"0b14ed1d55addcfa33442333c7b68261",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226660721,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226660721,
+    "wof:lastmodified":1537699380,
+    "wof:name":"Keala",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    157.30073000000004,
+    -7.3871,
+    157.30073000000004,
+    -7.3871
+],
+  "geometry": {"coordinates":[157.30073000000004,-7.3871],"type":"Point"}
+}

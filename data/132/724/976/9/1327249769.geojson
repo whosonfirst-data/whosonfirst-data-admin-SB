@@ -1,0 +1,64 @@
+{
+  "id": 1327249769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.58822,-8.33389,160.58822,-8.33389",
+    "geom:latitude":-8.33389,
+    "geom:longitude":160.58822,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Andandaiesi",
+    "gn:country_code":"SB",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109844,
+    "gn:latitude":-8.33389,
+    "gn:longitude":160.58822,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Andandaiesi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109844
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"0a333982514089cab2ed73112fdcc6ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1327249769,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327249769,
+    "wof:lastmodified":1536944914,
+    "wof:name":"Andandaiesi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.58822,
+    -8.33389,
+    160.58822,
+    -8.33389
+],
+  "geometry": {"coordinates":[160.58822000000001,-8.33389],"type":"Point"}
+}

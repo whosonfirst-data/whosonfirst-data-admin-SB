@@ -1,0 +1,64 @@
+{
+  "id": 1344043747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.28016,-11.65602,160.28016,-11.65602",
+    "geom:latitude":-11.65602,
+    "geom:longitude":160.28016,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Lavanggu",
+    "gn:country_code":"SB",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178747,
+    "gn:latitude":-11.65602,
+    "gn:longitude":160.28016,
+    "gn:modification_date":"2013-11-17",
+    "gn:name":"Lavanggu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178747
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"78f4d8a209a8d60012d5d4079a82a4b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1344043747,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344043747,
+    "wof:lastmodified":1536899776,
+    "wof:name":"Lavanggu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.28016000000005,
+    -11.65602,
+    160.28016000000005,
+    -11.65602
+],
+  "geometry": {"coordinates":[160.28016000000005,-11.65602],"type":"Point"}
+}

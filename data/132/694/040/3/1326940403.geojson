@@ -1,0 +1,64 @@
+{
+  "id": 1326940403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.2,-9.03333,161.2,-9.03333",
+    "geom:latitude":-9.03333,
+    "geom:longitude":161.2,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Poepoe",
+    "gn:country_code":"SB",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2104262,
+    "gn:latitude":-9.03333,
+    "gn:longitude":161.2,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Poepoe",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104262
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"0b46476e909494cf3bfeefa801eb98f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1326940403,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326940403,
+    "wof:lastmodified":1536892616,
+    "wof:name":"Poepoe",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.2,
+    -9.03333,
+    161.2,
+    -9.03333
+],
+  "geometry": {"coordinates":[161.19999999999999,-9.03333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1277092415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.9476,-8.77226,160.9476,-8.77226",
+    "geom:latitude":-8.77226,
+    "geom:longitude":160.9476,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kwai",
+    "gn:country_code":"SB",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107097,
+    "gn:latitude":-8.77226,
+    "gn:longitude":160.9476,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Kwai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107097
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"2503e5ccc14501cedfb1f6069984be15",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1277092415,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277092415,
+    "wof:lastmodified":1536753666,
+    "wof:name":"Kwai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.9476,
+    -8.77226,
+    160.9476,
+    -8.77226
+],
+  "geometry": {"coordinates":[160.94759999999999,-8.77226],"type":"Point"}
+}

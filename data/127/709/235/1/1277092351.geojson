@@ -1,0 +1,65 @@
+{
+  "id": 1277092351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.15772,-9.24821,161.15772,-9.24821",
+    "geom:latitude":-9.24821,
+    "geom:longitude":161.15772,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Wairaraha",
+    "gn:country_code":"SB",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2101666,
+    "gn:latitude":-9.24821,
+    "gn:longitude":161.15772,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Wairaraha",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101666
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"c8b5914ce9f7f57585823d4311498957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1277092351,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1277092351,
+    "wof:lastmodified":1536753759,
+    "wof:name":"Wairaraha",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.15771999999996,
+    -9.24821,
+    161.15771999999996,
+    -9.24821
+],
+  "geometry": {"coordinates":[161.15771999999996,-9.24821],"type":"Point"}
+}

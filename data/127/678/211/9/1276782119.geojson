@@ -1,0 +1,65 @@
+{
+  "id": 1276782119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.53859,-8.12923,159.53859,-8.12923",
+    "geom:latitude":-8.12923,
+    "geom:longitude":159.53859,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Gnulahaghe",
+    "gn:country_code":"SB",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108853,
+    "gn:latitude":-8.12923,
+    "gn:longitude":159.53859,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Gnulahaghe",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108853
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"bbd9615b7384a98c5f40f25da280ef57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1276782119,
+            "region_id":85677095
+        }
+    ],
+    "wof:id":1276782119,
+    "wof:lastmodified":1536674546,
+    "wof:name":"Gnulahaghe",
+    "wof:parent_id":85677095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.53859,
+    -8.12923,
+    159.53859,
+    -8.12923
+],
+  "geometry": {"coordinates":[159.53859,-8.12923],"type":"Point"}
+}

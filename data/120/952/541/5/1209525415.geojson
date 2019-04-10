@@ -1,0 +1,66 @@
+{
+  "id": 1209525415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.48366,-9.53026,160.48366,-9.53026",
+    "geom:latitude":-9.53026,
+    "geom:longitude":160.48366,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Luvunambuli",
+    "gn:country_code":"SB",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2106666,
+    "gn:latitude":-9.53026,
+    "gn:longitude":160.48366,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Luvunambuli",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lugunabuli",
+        "Luvunbuli",
+        "Luvunambuli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106666
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"7cf4fd05b2b69b4c59d8afbb35556214",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209525415
+        }
+    ],
+    "wof:id":1209525415,
+    "wof:lastmodified":1537699372,
+    "wof:name":"Luvunambuli",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.48366,
+    -9.53026,
+    160.48366,
+    -9.53026
+],
+  "geometry": {"coordinates":[160.48365999999999,-9.53026],"type":"Point"}
+}

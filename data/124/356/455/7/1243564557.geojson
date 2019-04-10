@@ -1,0 +1,65 @@
+{
+  "id": 1243564557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.30314,-9.80951,160.30314,-9.80951",
+    "geom:latitude":-9.80951,
+    "geom:longitude":160.30314,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ngalimarasa",
+    "gn:country_code":"SB",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105138,
+    "gn:latitude":-9.80951,
+    "gn:longitude":160.30314,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Ngalimarasa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105138
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"bc3f177b0e49f6913f5542dd34b10adb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1243564557,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1243564557,
+    "wof:lastmodified":1536633887,
+    "wof:name":"Ngalimarasa",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.30313999999996,
+    -9.80951,
+    160.30313999999996,
+    -9.80951
+],
+  "geometry": {"coordinates":[160.30313999999996,-9.80951],"type":"Point"}
+}

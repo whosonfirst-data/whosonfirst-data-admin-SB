@@ -1,0 +1,65 @@
+{
+  "id": 1327152683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"158.10264,-8.53194,158.10264,-8.53194",
+    "geom:latitude":-8.53194,
+    "geom:longitude":158.10264,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mbisuana",
+    "gn:country_code":"SB",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105899,
+    "gn:latitude":-8.53194,
+    "gn:longitude":158.10264,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Mbisuana",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105899
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"a58e83daeba3d6e0bccf847af2762ad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1327152683,
+            "region_id":85677103
+        }
+    ],
+    "wof:id":1327152683,
+    "wof:lastmodified":1537081511,
+    "wof:name":"Mbisuana",
+    "wof:parent_id":85677103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.10263999999995,
+    -8.53194,
+    158.10263999999995,
+    -8.53194
+],
+  "geometry": {"coordinates":[158.10263999999995,-8.53194],"type":"Point"}
+}

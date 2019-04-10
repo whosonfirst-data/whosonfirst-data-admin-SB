@@ -1,0 +1,65 @@
+{
+  "id": 1293181207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.2013,-9.22389,161.2013,-9.22389",
+    "geom:latitude":-9.22389,
+    "geom:longitude":161.2013,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Taro'a",
+    "gn:country_code":"SB",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2102779,
+    "gn:latitude":-9.22389,
+    "gn:longitude":161.2013,
+    "gn:modification_date":"2017-01-12",
+    "gn:name":"Taro\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2102779
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"9b8fc1a76f81282267395bb7d259436b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1293181207,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1293181207,
+    "wof:lastmodified":1536731991,
+    "wof:name":"Taro'a",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.2013,
+    -9.22389,
+    161.2013,
+    -9.22389
+],
+  "geometry": {"coordinates":[161.2013,-9.22389],"type":"Point"}
+}

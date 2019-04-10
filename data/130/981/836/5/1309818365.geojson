@@ -1,0 +1,65 @@
+{
+  "id": 1309818365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"155.75,-7.1,155.75,-7.1",
+    "geom:latitude":-7.1,
+    "geom:longitude":155.75,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sobelia",
+    "gn:country_code":"SB",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2103380,
+    "gn:latitude":-7.1,
+    "gn:longitude":155.75,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Sobelia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2103380
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"84d956b3c94f59a0be42f7136ac626af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1309818365,
+            "region_id":85677103
+        }
+    ],
+    "wof:id":1309818365,
+    "wof:lastmodified":1536913319,
+    "wof:name":"Sobelia",
+    "wof:parent_id":85677103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    155.75,
+    -7.1,
+    155.75,
+    -7.1
+],
+  "geometry": {"coordinates":[155.75,-7.1],"type":"Point"}
+}

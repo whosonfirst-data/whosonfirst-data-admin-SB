@@ -1,0 +1,64 @@
+{
+  "id": 1327348151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"157.77624,-7.47687,157.77624,-7.47687",
+    "geom:latitude":-7.47687,
+    "geom:longitude":157.77624,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nikomaroro",
+    "gn:country_code":"SB",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2104974,
+    "gn:latitude":-7.47687,
+    "gn:longitude":157.77624,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Nikomaroro",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104974
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"c23d363bc7272302652249e7aa5fa0d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1327348151,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327348151,
+    "wof:lastmodified":1536802399,
+    "wof:name":"Nikomaroro",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    157.77624,
+    -7.47687,
+    157.77624,
+    -7.47687
+],
+  "geometry": {"coordinates":[157.77624,-7.47687],"type":"Point"}
+}

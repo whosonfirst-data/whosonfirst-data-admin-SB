@@ -1,0 +1,66 @@
+{
+  "id": 1292918195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.23333,-9.11667,161.23333,-9.11667",
+    "geom:latitude":-9.11667,
+    "geom:longitude":161.23333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Paena",
+    "gn:cc2":"SB",
+    "gn:country_code":"SB",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2104577,
+    "gn:latitude":-9.11667,
+    "gn:longitude":161.23333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Paena",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Rororia",
+        "Paena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104577
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"b5c4f8fc410bebb802735961ea3c3781",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1292918195,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1292918195,
+    "wof:lastmodified":1537699360,
+    "wof:name":"Paena",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.23333,
+    -9.11667,
+    161.23333,
+    -9.11667
+],
+  "geometry": {"coordinates":[161.23333,-9.11667],"type":"Point"}
+}

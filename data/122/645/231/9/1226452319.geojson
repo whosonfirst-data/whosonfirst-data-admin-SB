@@ -1,0 +1,66 @@
+{
+  "id": 1226452319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.3,-9.41667,160.3,-9.41667",
+    "geom:latitude":-9.41667,
+    "geom:longitude":160.3,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sandikepi",
+    "gn:cc2":"SB",
+    "gn:country_code":"SB",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2103684,
+    "gn:latitude":-9.41667,
+    "gn:longitude":160.3,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sandikepi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seragala",
+        "Sandikepi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2103684
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"dfd56d93a8011b39cede6a066abf90ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226452319,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226452319,
+    "wof:lastmodified":1537699357,
+    "wof:name":"Sandikepi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.3,
+    -9.41667,
+    160.3,
+    -9.41667
+],
+  "geometry": {"coordinates":[160.30000000000001,-9.41667],"type":"Point"}
+}

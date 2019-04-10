@@ -1,0 +1,64 @@
+{
+  "id": 1293015215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.41128,-9.86806,160.41128,-9.86806",
+    "geom:latitude":-9.86806,
+    "geom:longitude":160.41128,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Haimarao",
+    "gn:country_code":"SB",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108764,
+    "gn:latitude":-9.86806,
+    "gn:longitude":160.41128,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Haimarao",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108764
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"73fe22f77cfa82310b9eafa7d55d95a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1293015215,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293015215,
+    "wof:lastmodified":1536970468,
+    "wof:name":"Haimarao",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.41128,
+    -9.86806,
+    160.41128,
+    -9.86806
+],
+  "geometry": {"coordinates":[160.41128,-9.86806],"type":"Point"}
+}

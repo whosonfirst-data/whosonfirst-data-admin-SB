@@ -1,0 +1,68 @@
+{
+  "id": 1210024115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.95018,-9.19216,160.95018,-9.19216",
+    "geom:latitude":-9.19216,
+    "geom:longitude":160.95018,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Afutara",
+    "gn:country_code":"SB",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109972,
+    "gn:latitude":-9.19216,
+    "gn:longitude":160.95018,
+    "gn:modification_date":"2013-04-09",
+    "gn:name":"Afutara",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Afutara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109972
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"ba196797224ac8a0cfb407ebb293ee29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1210024115,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1210024115,
+    "wof:lastmodified":1537699389,
+    "wof:name":"Afutara",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.95018000000005,
+    -9.19216,
+    160.95018000000005,
+    -9.19216
+],
+  "geometry": {"coordinates":[160.95018000000005,-9.19216],"type":"Point"}
+}

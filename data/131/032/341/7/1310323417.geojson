@@ -1,0 +1,69 @@
+{
+  "id": 1310323417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.13933,-9.06936,160.13933,-9.06936",
+    "geom:latitude":-9.06936,
+    "geom:longitude":160.13933,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lologhana",
+    "gn:country_code":"SB",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2106782,
+    "gn:latitude":-9.06936,
+    "gn:longitude":160.13933,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lologhana",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lologana",
+        "Lologhana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106782
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"99059d2c59696f6938057cc89d566326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1310323417,
+            "region_id":85677085
+        }
+    ],
+    "wof:id":1310323417,
+    "wof:lastmodified":1537699373,
+    "wof:name":"Lologhana",
+    "wof:parent_id":85677085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.13933,
+    -9.06936,
+    160.13933,
+    -9.06936
+],
+  "geometry": {"coordinates":[160.13933,-9.06936],"type":"Point"}
+}

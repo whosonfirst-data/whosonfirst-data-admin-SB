@@ -1,0 +1,64 @@
+{
+  "id": 1343680229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.62537,-8.16417,159.62537,-8.16417",
+    "geom:latitude":-8.16417,
+    "geom:longitude":159.62537,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"T'holana",
+    "gn:country_code":"SB",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2102593,
+    "gn:latitude":-8.16417,
+    "gn:longitude":159.62537,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"T\u2019holana",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2102593
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"ee9c9e698eea7a53395228140637ff90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1343680229,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343680229,
+    "wof:lastmodified":1536927242,
+    "wof:name":"T'holana",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.62537,
+    -8.16417,
+    159.62537,
+    -8.16417
+],
+  "geometry": {"coordinates":[159.62537,-8.16417],"type":"Point"}
+}

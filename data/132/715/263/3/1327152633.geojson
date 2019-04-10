@@ -1,0 +1,65 @@
+{
+  "id": 1327152633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"162.05568,-10.62663,162.05568,-10.62663",
+    "geom:latitude":-10.62663,
+    "geom:longitude":162.05568,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Namaturi",
+    "gn:country_code":"SB",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178634,
+    "gn:latitude":-10.62663,
+    "gn:longitude":162.05568,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Namaturi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178634
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"069268a1871554f9121fddb535e95140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1327152633,
+            "region_id":85677109
+        }
+    ],
+    "wof:id":1327152633,
+    "wof:lastmodified":1537081586,
+    "wof:name":"Namaturi",
+    "wof:parent_id":85677109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    162.05568,
+    -10.62663,
+    162.05568,
+    -10.62663
+],
+  "geometry": {"coordinates":[162.05568,-10.62663],"type":"Point"}
+}

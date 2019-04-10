@@ -1,0 +1,68 @@
+{
+  "id": 1326544625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"156.58624,-6.87,156.58624,-6.87",
+    "geom:latitude":-6.87,
+    "geom:longitude":156.58624,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zavare",
+    "gn:country_code":"SB",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101573,
+    "gn:latitude":-6.87,
+    "gn:longitude":156.58624,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Zavare",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zavari",
+        "Zavare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101573
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"05579ffe236969320c257eed98f74440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1326544625,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326544625,
+    "wof:lastmodified":1537699348,
+    "wof:name":"Zavare",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    156.58624,
+    -6.87,
+    156.58624,
+    -6.87
+],
+  "geometry": {"coordinates":[156.58624,-6.87],"type":"Point"}
+}

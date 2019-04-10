@@ -1,0 +1,68 @@
+{
+  "id": 1326548129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"156.53669,-8.0368,156.53669,-8.0368",
+    "geom:latitude":-8.0368,
+    "geom:longitude":156.53669,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mondo",
+    "gn:country_code":"SB",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105619,
+    "gn:latitude":-8.0368,
+    "gn:longitude":156.53669,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mondo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Geeura",
+        "Mondo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105619
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"862964d43ac4c33d3fe43130a1e32a7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1326548129,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326548129,
+    "wof:lastmodified":1537699365,
+    "wof:name":"Mondo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    156.53669,
+    -8.0368,
+    156.53669,
+    -8.0368
+],
+  "geometry": {"coordinates":[156.53668999999999,-8.0368],"type":"Point"}
+}

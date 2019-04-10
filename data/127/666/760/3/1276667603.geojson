@@ -1,0 +1,65 @@
+{
+  "id": 1276667603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.85,-8.76667,160.85,-8.76667",
+    "geom:latitude":-8.76667,
+    "geom:longitude":160.85,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Taulalamu",
+    "gn:country_code":"SB",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2102725,
+    "gn:latitude":-8.76667,
+    "gn:longitude":160.85,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Taulalamu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2102725
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"f19767ffbd3affe752dead99ca1647e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1276667603,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1276667603,
+    "wof:lastmodified":1536826860,
+    "wof:name":"Taulalamu",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.85,
+    -8.76667,
+    160.85,
+    -8.76667
+],
+  "geometry": {"coordinates":[160.84999999999999,-8.76667],"type":"Point"}
+}

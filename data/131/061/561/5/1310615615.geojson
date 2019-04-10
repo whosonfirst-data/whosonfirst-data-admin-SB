@@ -1,0 +1,61 @@
+{
+  "id": 1310615615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.2,-9.41667,161.2,-9.41667",
+    "geom:latitude":-9.41667,
+    "geom:longitude":161.2,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Oiawaa",
+    "gn:country_code":"SB",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2104752,
+    "gn:latitude":-9.41667,
+    "gn:longitude":161.2,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Oiawaa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104752
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"111923761c8244ed4552afbcc116a2a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310615615,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310615615,
+    "wof:lastmodified":1536758167,
+    "wof:name":"Oiawaa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.2,
+    -9.41667,
+    161.2,
+    -9.41667
+],
+  "geometry": {"coordinates":[161.19999999999999,-9.41667],"type":"Point"}
+}

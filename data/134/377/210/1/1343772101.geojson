@@ -1,0 +1,68 @@
+{
+  "id": 1343772101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.24415,-9.28843,161.24415,-9.28843",
+    "geom:latitude":-9.28843,
+    "geom:longitude":161.24415,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Maasupa",
+    "gn:country_code":"SB",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2106650,
+    "gn:latitude":-9.28843,
+    "gn:longitude":161.24415,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Maasupa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Takataka",
+        "Maasupa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106650
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"7cf052d71a349e1f8110dc534f97d8a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1343772101,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343772101,
+    "wof:lastmodified":1537699372,
+    "wof:name":"Maasupa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.24415,
+    -9.28843,
+    161.24415,
+    -9.28843
+],
+  "geometry": {"coordinates":[161.24414999999999,-9.28843],"type":"Point"}
+}

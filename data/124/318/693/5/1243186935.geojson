@@ -1,0 +1,65 @@
+{
+  "id": 1243186935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.75433,-9.73011,160.75433,-9.73011",
+    "geom:latitude":-9.73011,
+    "geom:longitude":160.75433,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Niukasu",
+    "gn:country_code":"SB",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2104951,
+    "gn:latitude":-9.73011,
+    "gn:longitude":160.75433,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Niukasu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104951
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"81d96302374544d6785b9dfa76d5039e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1243186935,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1243186935,
+    "wof:lastmodified":1536682551,
+    "wof:name":"Niukasu",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.75433,
+    -9.73011,
+    160.75433,
+    -9.73011
+],
+  "geometry": {"coordinates":[160.75433000000001,-9.73011],"type":"Point"}
+}

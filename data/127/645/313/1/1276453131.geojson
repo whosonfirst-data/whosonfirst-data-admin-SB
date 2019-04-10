@@ -1,0 +1,65 @@
+{
+  "id": 1276453131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.98333,-9.8,159.98333,-9.8",
+    "geom:latitude":-9.8,
+    "geom:longitude":159.98333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ngalilambelambe",
+    "gn:country_code":"SB",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105141,
+    "gn:latitude":-9.8,
+    "gn:longitude":159.98333,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Ngalilambelambe",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105141
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"642f46dc1c3434a571663ae1fa876834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1276453131,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1276453131,
+    "wof:lastmodified":1536615743,
+    "wof:name":"Ngalilambelambe",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.98333,
+    -9.8,
+    159.98333,
+    -9.8
+],
+  "geometry": {"coordinates":[159.98333,-9.8],"type":"Point"}
+}

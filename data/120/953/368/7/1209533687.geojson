@@ -1,0 +1,65 @@
+{
+  "id": 1209533687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.09758,-8.96249,160.09758,-8.96249",
+    "geom:latitude":-8.96249,
+    "geom:longitude":160.09758,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ravu Sondu Kosi",
+    "gn:country_code":"SB",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2103988,
+    "gn:latitude":-8.96249,
+    "gn:longitude":160.09758,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ravu Sondu Kosi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ravu",
+        "Ravu Sondu Kosi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2103988
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"e9611b119ac00a9150df92f11350749e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209533687
+        }
+    ],
+    "wof:id":1209533687,
+    "wof:lastmodified":1537699358,
+    "wof:name":"Ravu Sondu Kosi",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.09758,
+    -8.96249,
+    160.09758,
+    -8.96249
+],
+  "geometry": {"coordinates":[160.09757999999999,-8.96249],"type":"Point"}
+}

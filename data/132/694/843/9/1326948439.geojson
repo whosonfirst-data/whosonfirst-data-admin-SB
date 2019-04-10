@@ -1,0 +1,65 @@
+{
+  "id": 1326948439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.19599,-9.45103,160.19599,-9.45103",
+    "geom:latitude":-9.45103,
+    "geom:longitude":160.19599,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mangautu",
+    "gn:country_code":"SB",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2106417,
+    "gn:latitude":-9.45103,
+    "gn:longitude":160.19599,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Mangautu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106417
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"e9165fce7c5b9ddcd539ac17a72e29c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1326948439,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1326948439,
+    "wof:lastmodified":1536880764,
+    "wof:name":"Mangautu",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.19599,
+    -9.45103,
+    160.19599,
+    -9.45103
+],
+  "geometry": {"coordinates":[160.19598999999999,-9.45103],"type":"Point"}
+}

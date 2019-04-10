@@ -1,0 +1,67 @@
+{
+  "id": 1292921687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.66667,-9.61667,159.66667,-9.61667",
+    "geom:latitude":-9.61667,
+    "geom:longitude":159.66667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ghaivale",
+    "gn:cc2":"SB",
+    "gn:country_code":"SB",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108982,
+    "gn:latitude":-9.61667,
+    "gn:longitude":159.66667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ghaivale",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Awale",
+        "Gauale",
+        "Ghaivale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108982
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"d09dfeb021b63635c6268764a87370e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1292921687,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1292921687,
+    "wof:lastmodified":1537699384,
+    "wof:name":"Ghaivale",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.66666999999995,
+    -9.61667,
+    159.66666999999995,
+    -9.61667
+],
+  "geometry": {"coordinates":[159.66666999999995,-9.61667],"type":"Point"}
+}

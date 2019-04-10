@@ -1,0 +1,65 @@
+{
+  "id": 1293798453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.01555,-9.80403,160.01555,-9.80403",
+    "geom:latitude":-9.80403,
+    "geom:longitude":160.01555,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kolokundukundu",
+    "gn:country_code":"SB",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107575,
+    "gn:latitude":-9.80403,
+    "gn:longitude":160.01555,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Kolokundukundu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107575
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"c2f867d94b1e0560a394c85f19178925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1293798453,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1293798453,
+    "wof:lastmodified":1536834744,
+    "wof:name":"Kolokundukundu",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.01555,
+    -9.80403,
+    160.01555,
+    -9.80403
+],
+  "geometry": {"coordinates":[160.01554999999999,-9.80403],"type":"Point"}
+}

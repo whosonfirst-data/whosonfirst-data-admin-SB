@@ -1,0 +1,65 @@
+{
+  "id": 1276667657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.8,-8.51667,159.8,-8.51667",
+    "geom:latitude":-8.51667,
+    "geom:longitude":159.8,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Havila",
+    "gn:country_code":"SB",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2108615,
+    "gn:latitude":-8.51667,
+    "gn:longitude":159.8,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Havila",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108615
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"d82ab2c120586dc3f9ba48788899d3b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1276667657,
+            "region_id":85677095
+        }
+    ],
+    "wof:id":1276667657,
+    "wof:lastmodified":1536826787,
+    "wof:name":"Havila",
+    "wof:parent_id":85677095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.8,
+    -8.51667,
+    159.8,
+    -8.51667
+],
+  "geometry": {"coordinates":[159.80000000000001,-8.51667],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1293497499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.59725,-9.35271,159.59725,-9.35271",
+    "geom:latitude":-9.35271,
+    "geom:longitude":159.59725,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kakalaka",
+    "gn:country_code":"SB",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108186,
+    "gn:latitude":-9.35271,
+    "gn:longitude":159.59725,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Kakalaka",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108186
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"adf6e9e05b26f2ee5cc6944ccdc3542e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1293497499,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293497499,
+    "wof:lastmodified":1536773170,
+    "wof:name":"Kakalaka",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.59725,
+    -9.35271,
+    159.59725,
+    -9.35271
+],
+  "geometry": {"coordinates":[159.59725,-9.35271],"type":"Point"}
+}

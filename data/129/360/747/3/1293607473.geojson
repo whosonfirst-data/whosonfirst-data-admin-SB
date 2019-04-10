@@ -1,0 +1,65 @@
+{
+  "id": 1293607473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.7,-9.65,159.7,-9.65",
+    "geom:latitude":-9.65,
+    "geom:longitude":159.7,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lauta",
+    "gn:country_code":"SB",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2106921,
+    "gn:latitude":-9.65,
+    "gn:longitude":159.7,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Lauta",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106921
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"684dfc86ac874009c91f154f8a3804b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1293607473,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1293607473,
+    "wof:lastmodified":1536611618,
+    "wof:name":"Lauta",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.7,
+    -9.65,
+    159.7,
+    -9.65
+],
+  "geometry": {"coordinates":[159.69999999999999,-9.65],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1276458305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"157.09234,-8.15488,157.09234,-8.15488",
+    "geom:latitude":-8.15488,
+    "geom:longitude":157.09234,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mbomboe",
+    "gn:country_code":"SB",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105834,
+    "gn:latitude":-8.15488,
+    "gn:longitude":157.09234,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mbomboe",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bomboe Village",
+        "Bomboe",
+        "Mbomboe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105834
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"dcf47a95e2c9ca5e11f0bddfca6b4c63",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276458305,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276458305,
+    "wof:lastmodified":1537699367,
+    "wof:name":"Mbomboe",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    157.09233999999995,
+    -8.15488,
+    157.09233999999995,
+    -8.15488
+],
+  "geometry": {"coordinates":[157.09233999999995,-8.15488],"type":"Point"}
+}

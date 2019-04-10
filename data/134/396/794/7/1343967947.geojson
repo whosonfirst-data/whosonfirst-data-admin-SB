@@ -1,0 +1,65 @@
+{
+  "id": 1343967947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.92621,-10.58204,161.92621,-10.58204",
+    "geom:latitude":-10.58204,
+    "geom:longitude":161.92621,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mamarunangari",
+    "gn:country_code":"SB",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440746,
+    "gn:latitude":-10.58204,
+    "gn:longitude":161.92621,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Mamarunangari",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440746
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"00b4c7fa300f713441785fc7d35f423b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1343967947,
+            "region_id":85677109
+        }
+    ],
+    "wof:id":1343967947,
+    "wof:lastmodified":1537008381,
+    "wof:name":"Mamarunangari",
+    "wof:parent_id":85677109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.92621,
+    -10.58204,
+    161.92621,
+    -10.58204
+],
+  "geometry": {"coordinates":[161.92621,-10.58204],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1343772507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"156.53599,-8.24547,156.53599,-8.24547",
+    "geom:latitude":-8.24547,
+    "geom:longitude":156.53599,
+    "gn:asciiname":"Kocho",
+    "gn:country_code":"SB",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9781026,
+    "gn:latitude":-8.24547,
+    "gn:longitude":156.53599,
+    "gn:modification_date":"2014-10-15",
+    "gn:name":"Kocho",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9781026
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"4e7d4b539482bec76c884ee6893c33ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343772507,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343772507,
+    "wof:lastmodified":1536793742,
+    "wof:name":"Kocho",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    156.53599,
+    -8.24547,
+    156.53599,
+    -8.24547
+],
+  "geometry": {"coordinates":[156.53599,-8.24547],"type":"Point"}
+}

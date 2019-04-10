@@ -1,0 +1,64 @@
+{
+  "id": 1226161003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"158.01586,-8.5022,158.01586,-8.5022",
+    "geom:latitude":-8.5022,
+    "geom:longitude":158.01586,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Chea",
+    "gn:country_code":"SB",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109411,
+    "gn:latitude":-8.5022,
+    "gn:longitude":158.01586,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Chea",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109411
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"5559ed19248c5c1a6e9bfb23da412ae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1226161003,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226161003,
+    "wof:lastmodified":1537053424,
+    "wof:name":"Chea",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.01586,
+    -8.5022,
+    158.01586,
+    -8.5022
+],
+  "geometry": {"coordinates":[158.01586,-8.5022],"type":"Point"}
+}

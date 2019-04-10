@@ -1,0 +1,64 @@
+{
+  "id": 1276995827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.34496,-9.41218,160.34496,-9.41218",
+    "geom:latitude":-9.41218,
+    "geom:longitude":160.34496,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Korambu",
+    "gn:country_code":"SB",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107300,
+    "gn:latitude":-9.41218,
+    "gn:longitude":160.34496,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Korambu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107300
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"300848d0c908443e961fa4a63a69cd78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1276995827,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276995827,
+    "wof:lastmodified":1536885058,
+    "wof:name":"Korambu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.34496,
+    -9.41218,
+    160.34496,
+    -9.41218
+],
+  "geometry": {"coordinates":[160.34495999999999,-9.41218],"type":"Point"}
+}

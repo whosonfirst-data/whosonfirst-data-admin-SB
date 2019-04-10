@@ -1,0 +1,61 @@
+{
+  "id": 1309703005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.98774,-9.72767,161.98774,-9.72767",
+    "geom:latitude":-9.72767,
+    "geom:longitude":161.98774,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Moli Village",
+    "gn:country_code":"SB",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10227007,
+    "gn:latitude":-9.72767,
+    "gn:longitude":161.98774,
+    "gn:modification_date":"2015-04-11",
+    "gn:name":"Moli Village",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10227007
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"e3887638dfe76a9fcd5acf4f11309785",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1309703005,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309703005,
+    "wof:lastmodified":1537076261,
+    "wof:name":"Moli Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.98774,
+    -9.72767,
+    161.98774,
+    -9.72767
+],
+  "geometry": {"coordinates":[161.98774,-9.72767],"type":"Point"}
+}

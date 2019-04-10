@@ -1,0 +1,66 @@
+{
+  "id": 1309722161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"158.19892,-8.66695,158.19892,-8.66695",
+    "geom:latitude":-8.66695,
+    "geom:longitude":158.19892,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mbili",
+    "gn:country_code":"SB",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105926,
+    "gn:latitude":-8.66695,
+    "gn:longitude":158.19892,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mbili",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bili Village",
+        "Bili",
+        "Mbili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105926
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"3668fde4675d02aab09770d89656b9e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1309722161,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309722161,
+    "wof:lastmodified":1537699368,
+    "wof:name":"Mbili",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.19892,
+    -8.66695,
+    158.19892,
+    -8.66695
+],
+  "geometry": {"coordinates":[158.19891999999999,-8.66695],"type":"Point"}
+}

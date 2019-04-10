@@ -1,0 +1,65 @@
+{
+  "id": 1309924009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.80153,-8.50858,160.80153,-8.50858",
+    "geom:latitude":-8.50858,
+    "geom:longitude":160.80153,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Auangisia",
+    "gn:country_code":"SB",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109704,
+    "gn:latitude":-8.50858,
+    "gn:longitude":160.80153,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Auangisia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109704
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"32fa5f66f2f73fa7843f32f900f9bbe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1309924009,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1309924009,
+    "wof:lastmodified":1536760926,
+    "wof:name":"Auangisia",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.80153,
+    -8.50858,
+    160.80153,
+    -8.50858
+],
+  "geometry": {"coordinates":[160.80153000000001,-8.50858],"type":"Point"}
+}

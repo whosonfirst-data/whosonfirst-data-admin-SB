@@ -1,0 +1,64 @@
+{
+  "id": 1210030905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"156.71667,-6.96667,156.71667,-6.96667",
+    "geom:latitude":-6.96667,
+    "geom:longitude":156.71667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kombae",
+    "gn:country_code":"SB",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107445,
+    "gn:latitude":-6.96667,
+    "gn:longitude":156.71667,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Kombae",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107445
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"4b887905f4a594b8e6526527bc7ef147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1210030905,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1210030905,
+    "wof:lastmodified":1536388612,
+    "wof:name":"Kombae",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    156.71667,
+    -6.96667,
+    156.71667,
+    -6.96667
+],
+  "geometry": {"coordinates":[156.71666999999999,-6.96667],"type":"Point"}
+}

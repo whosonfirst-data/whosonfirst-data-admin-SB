@@ -1,0 +1,65 @@
+{
+  "id": 1344071573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.2453,-9.68819,160.2453,-9.68819",
+    "geom:latitude":-9.68819,
+    "geom:longitude":160.2453,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Manjavo",
+    "gn:country_code":"SB",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2106384,
+    "gn:latitude":-9.68819,
+    "gn:longitude":160.2453,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Manjavo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106384
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"99a290776c24af1bc4488e246b25b44c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1344071573,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1344071573,
+    "wof:lastmodified":1536858154,
+    "wof:name":"Manjavo",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.2453,
+    -9.68819,
+    160.2453,
+    -9.68819
+],
+  "geometry": {"coordinates":[160.24529999999999,-9.68819],"type":"Point"}
+}

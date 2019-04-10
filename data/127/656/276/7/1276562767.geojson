@@ -1,0 +1,65 @@
+{
+  "id": 1276562767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.20792,-9.80365,160.20792,-9.80365",
+    "geom:latitude":-9.80365,
+    "geom:longitude":160.20792,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mbembe",
+    "gn:country_code":"SB",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105988,
+    "gn:latitude":-9.80365,
+    "gn:longitude":160.20792,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Mbembe",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105988
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"4d1568c01ba25d5d4bce839720892587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1276562767,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1276562767,
+    "wof:lastmodified":1536968334,
+    "wof:name":"Mbembe",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.20792,
+    -9.80365,
+    160.20792,
+    -9.80365
+],
+  "geometry": {"coordinates":[160.20792,-9.80365],"type":"Point"}
+}

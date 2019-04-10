@@ -1,0 +1,61 @@
+{
+  "id": 1343876473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.66181,-8.46247,159.66181,-8.46247",
+    "geom:latitude":-8.46247,
+    "geom:longitude":159.66181,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kirighi",
+    "gn:country_code":"SB",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107824,
+    "gn:latitude":-8.46247,
+    "gn:longitude":159.66181,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Kirighi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107824
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"195664607d1905cc88ca2b4e19de2c39",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343876473,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343876473,
+    "wof:lastmodified":1536642770,
+    "wof:name":"Kirighi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.66181,
+    -8.46247,
+    159.66181,
+    -8.46247
+],
+  "geometry": {"coordinates":[159.66181,-8.46247],"type":"Point"}
+}

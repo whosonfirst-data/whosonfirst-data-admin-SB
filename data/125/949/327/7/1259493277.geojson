@@ -1,0 +1,61 @@
+{
+  "id": 1259493277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"156.76027,-7.02931,156.76027,-7.02931",
+    "geom:latitude":-7.02931,
+    "geom:longitude":156.76027,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Vavundu",
+    "gn:country_code":"SB",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101976,
+    "gn:latitude":-7.02931,
+    "gn:longitude":156.76027,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Vavundu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101976
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"be88389a7eef488df0bee97d9c962dbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259493277,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259493277,
+    "wof:lastmodified":1536843570,
+    "wof:name":"Vavundu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    156.76027,
+    -7.02931,
+    156.76027,
+    -7.02931
+],
+  "geometry": {"coordinates":[156.76026999999999,-7.02931],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1277088845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"158.07339,-8.52132,158.07339,-8.52132",
+    "geom:latitude":-8.52132,
+    "geom:longitude":158.07339,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Telina",
+    "gn:country_code":"SB",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2102643,
+    "gn:latitude":-8.52132,
+    "gn:longitude":158.07339,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Telina",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2102643
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"8607fe5249b22754b871175659fa0021",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1277088845,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277088845,
+    "wof:lastmodified":1536758898,
+    "wof:name":"Telina",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.07339,
+    -8.52132,
+    158.07339,
+    -8.52132
+],
+  "geometry": {"coordinates":[158.07338999999999,-8.52132],"type":"Point"}
+}

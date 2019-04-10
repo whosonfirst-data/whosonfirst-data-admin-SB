@@ -1,0 +1,65 @@
+{
+  "id": 1293798417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.52403,-9.849,160.52403,-9.849",
+    "geom:latitude":-9.849,
+    "geom:longitude":160.52403,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mbuturua",
+    "gn:country_code":"SB",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105703,
+    "gn:latitude":-9.849,
+    "gn:longitude":160.52403,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Mbuturua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105703
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"da5670895b0b143e10c90f15b5783664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1293798417,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1293798417,
+    "wof:lastmodified":1536834791,
+    "wof:name":"Mbuturua",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.52403,
+    -9.849,
+    160.52403,
+    -9.849
+],
+  "geometry": {"coordinates":[160.52403000000001,-9.849],"type":"Point"}
+}

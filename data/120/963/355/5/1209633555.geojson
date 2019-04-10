@@ -1,0 +1,61 @@
+{
+  "id": 1209633555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.12722,-9.6059,160.12722,-9.6059",
+    "geom:latitude":-9.6059,
+    "geom:longitude":160.12722,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Gold Ridge",
+    "gn:country_code":"SB",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108848,
+    "gn:latitude":-9.6059,
+    "gn:longitude":160.12722,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gold Ridge",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108848
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"4d5e9de60a9b735efa12f70e46b77c0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209633555
+        }
+    ],
+    "wof:id":1209633555,
+    "wof:lastmodified":1536281114,
+    "wof:name":"Gold Ridge",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.12722,
+    -9.6059,
+    160.12722,
+    -9.6059
+],
+  "geometry": {"coordinates":[160.12721999999999,-9.6059],"type":"Point"}
+}

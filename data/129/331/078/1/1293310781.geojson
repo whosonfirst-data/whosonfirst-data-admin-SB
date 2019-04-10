@@ -1,0 +1,65 @@
+{
+  "id": 1293310781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"162.05013,-10.52511,162.05013,-10.52511",
+    "geom:latitude":-10.52511,
+    "geom:longitude":162.05013,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Wango",
+    "gn:country_code":"SB",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178406,
+    "gn:latitude":-10.52511,
+    "gn:longitude":162.05013,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Wango",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178406
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"bb45a42ac97dacd6d8ac8158ecbbb73d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1293310781,
+            "region_id":85677109
+        }
+    ],
+    "wof:id":1293310781,
+    "wof:lastmodified":1537040105,
+    "wof:name":"Wango",
+    "wof:parent_id":85677109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    162.05013,
+    -10.52511,
+    162.05013,
+    -10.52511
+],
+  "geometry": {"coordinates":[162.05013,-10.52511],"type":"Point"}
+}

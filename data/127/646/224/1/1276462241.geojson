@@ -1,0 +1,61 @@
+{
+  "id": 1276462241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.0,-9.1,160.0,-9.1",
+    "geom:latitude":-9.1,
+    "geom:longitude":160.0,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Valechacha",
+    "gn:country_code":"SB",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2102171,
+    "gn:latitude":-9.1,
+    "gn:longitude":160.0,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Valechacha",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2102171
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"d5ad66d8c5ac3a5927336904ea78c026",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276462241,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276462241,
+    "wof:lastmodified":1536602925,
+    "wof:name":"Valechacha",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.0,
+    -9.1,
+    160.0,
+    -9.1
+],
+  "geometry": {"coordinates":[160.0,-9.1],"type":"Point"}
+}

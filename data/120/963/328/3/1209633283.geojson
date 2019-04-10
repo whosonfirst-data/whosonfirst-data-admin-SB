@@ -1,0 +1,61 @@
+{
+  "id": 1209633283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.01082,-9.79001,160.01082,-9.79001",
+    "geom:latitude":-9.79001,
+    "geom:longitude":160.01082,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Votumasoghata",
+    "gn:country_code":"SB",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2101818,
+    "gn:latitude":-9.79001,
+    "gn:longitude":160.01082,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Votumasoghata",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101818
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"8520e0492a5e6723bf18e19a40638752",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209633283
+        }
+    ],
+    "wof:id":1209633283,
+    "wof:lastmodified":1536281123,
+    "wof:name":"Votumasoghata",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.01082,
+    -9.79001,
+    160.01082,
+    -9.79001
+],
+  "geometry": {"coordinates":[160.01082,-9.79001],"type":"Point"}
+}

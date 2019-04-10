@@ -1,0 +1,65 @@
+{
+  "id": 1343967971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"156.73512,-7.70691,156.73512,-7.70691",
+    "geom:latitude":-7.70691,
+    "geom:longitude":156.73512,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kokolope",
+    "gn:country_code":"SB",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107720,
+    "gn:latitude":-7.70691,
+    "gn:longitude":156.73512,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Kokolope",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107720
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"660ba91292738fab7c173f7842f9b7dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1343967971,
+            "region_id":85677103
+        }
+    ],
+    "wof:id":1343967971,
+    "wof:lastmodified":1537008344,
+    "wof:name":"Kokolope",
+    "wof:parent_id":85677103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    156.73512,
+    -7.70691,
+    156.73512,
+    -7.70691
+],
+  "geometry": {"coordinates":[156.73511999999999,-7.70691],"type":"Point"}
+}

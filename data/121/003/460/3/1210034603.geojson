@@ -1,0 +1,68 @@
+{
+  "id": 1210034603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.84599,-9.79423,159.84599,-9.79423",
+    "geom:latitude":-9.79423,
+    "geom:longitude":159.84599,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Savuna",
+    "gn:country_code":"SB",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2103581,
+    "gn:latitude":-9.79423,
+    "gn:longitude":159.84599,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Savuna",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabonau",
+        "Savuna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2103581
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"a562034259053e52f4c8c08847e824db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1210034603,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1210034603,
+    "wof:lastmodified":1537699356,
+    "wof:name":"Savuna",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.84599,
+    -9.79423,
+    159.84599,
+    -9.79423
+],
+  "geometry": {"coordinates":[159.84599,-9.79423],"type":"Point"}
+}

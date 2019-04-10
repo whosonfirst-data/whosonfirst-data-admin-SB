@@ -1,0 +1,61 @@
+{
+  "id": 1209924187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"156.5,-7.69167,156.5,-7.69167",
+    "geom:latitude":-7.69167,
+    "geom:longitude":156.5,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Reva",
+    "gn:country_code":"SB",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2113935,
+    "gn:latitude":-7.69167,
+    "gn:longitude":156.5,
+    "gn:modification_date":"1998-01-23",
+    "gn:name":"Reva",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2113935
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"34b9fbfd5627167cd99223e3fa4b67a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1209924187,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209924187,
+    "wof:lastmodified":1536395642,
+    "wof:name":"Reva",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    156.5,
+    -7.69167,
+    156.5,
+    -7.69167
+],
+  "geometry": {"coordinates":[156.5,-7.69167],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1226762257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"157.33333,-8.6,157.33333,-8.6",
+    "geom:latitude":-8.6,
+    "geom:longitude":157.33333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Visale",
+    "gn:country_code":"SB",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101875,
+    "gn:latitude":-8.6,
+    "gn:longitude":157.33333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Visale",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101875,
+        "wk:page":"Visale"
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"425737ff178243b5bc26b4893e23cd72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1226762257,
+            "region_id":85677103
+        }
+    ],
+    "wof:id":1226762257,
+    "wof:lastmodified":1537573270,
+    "wof:name":"Visale",
+    "wof:parent_id":85677103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    157.33333000000005,
+    -8.6,
+    157.33333000000005,
+    -8.6
+],
+  "geometry": {"coordinates":[157.33333000000005,-8.6],"type":"Point"}
+}

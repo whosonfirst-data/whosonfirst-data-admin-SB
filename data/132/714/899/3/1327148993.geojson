@@ -1,0 +1,65 @@
+{
+  "id": 1327148993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.73064,-8.80856,160.73064,-8.80856",
+    "geom:latitude":-8.80856,
+    "geom:longitude":160.73064,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ura",
+    "gn:country_code":"SB",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2102255,
+    "gn:latitude":-8.80856,
+    "gn:longitude":160.73064,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Ura",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2102255
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"eca54dc00186a44e7f9c098278590d02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1327148993,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1327148993,
+    "wof:lastmodified":1537086750,
+    "wof:name":"Ura",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.73064,
+    -8.80856,
+    160.73064,
+    -8.80856
+],
+  "geometry": {"coordinates":[160.73063999999999,-8.80856],"type":"Point"}
+}

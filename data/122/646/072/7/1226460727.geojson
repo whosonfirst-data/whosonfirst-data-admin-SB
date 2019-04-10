@@ -1,0 +1,65 @@
+{
+  "id": 1226460727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"156.78684,-7.76216,156.78684,-7.76216",
+    "geom:latitude":-7.76216,
+    "geom:longitude":156.78684,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Biporo",
+    "gn:country_code":"SB",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2113930,
+    "gn:latitude":-7.76216,
+    "gn:longitude":156.78684,
+    "gn:modification_date":"1998-01-23",
+    "gn:name":"Biporo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2113930
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"7cd979f0d2ac24329ead913ae3e1b85e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1226460727,
+            "region_id":85677103
+        }
+    ],
+    "wof:id":1226460727,
+    "wof:lastmodified":1536621840,
+    "wof:name":"Biporo",
+    "wof:parent_id":85677103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    156.78683999999996,
+    -7.76216,
+    156.78683999999996,
+    -7.76216
+],
+  "geometry": {"coordinates":[156.78683999999996,-7.76216],"type":"Point"}
+}

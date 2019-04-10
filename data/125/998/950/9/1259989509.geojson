@@ -1,0 +1,65 @@
+{
+  "id": 1259989509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.15581,-9.79092,160.15581,-9.79092",
+    "geom:latitude":-9.79092,
+    "geom:longitude":160.15581,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kerepukavala",
+    "gn:country_code":"SB",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2107900,
+    "gn:latitude":-9.79092,
+    "gn:longitude":160.15581,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Kerepukavala",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107900
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"4b545597a54b64e5116d9fe6e8723aec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1259989509,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1259989509,
+    "wof:lastmodified":1536624411,
+    "wof:name":"Kerepukavala",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.15581,
+    -9.79092,
+    160.15581,
+    -9.79092
+],
+  "geometry": {"coordinates":[160.15581,-9.79092],"type":"Point"}
+}

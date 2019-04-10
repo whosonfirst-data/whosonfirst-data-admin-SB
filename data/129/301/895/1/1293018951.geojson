@@ -1,0 +1,65 @@
+{
+  "id": 1293018951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"165.85,-10.68333,165.85,-10.68333",
+    "geom:latitude":-10.68333,
+    "geom:longitude":165.85,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Menelu",
+    "gn:country_code":"SB",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178669,
+    "gn:latitude":-10.68333,
+    "gn:longitude":165.85,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Menelu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178669
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"dfae2cf71ed9270e2dcc5e393263d2af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1293018951,
+            "region_id":85677099
+        }
+    ],
+    "wof:id":1293018951,
+    "wof:lastmodified":1536965327,
+    "wof:name":"Menelu",
+    "wof:parent_id":85677099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    165.85,
+    -10.68333,
+    165.85,
+    -10.68333
+],
+  "geometry": {"coordinates":[165.84999999999999,-10.68333],"type":"Point"}
+}

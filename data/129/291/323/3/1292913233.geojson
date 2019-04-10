@@ -1,0 +1,65 @@
+{
+  "id": 1292913233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.36371,-9.74813,160.36371,-9.74813",
+    "geom:latitude":-9.74813,
+    "geom:longitude":160.36371,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ngalivungambau",
+    "gn:country_code":"SB",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2105096,
+    "gn:latitude":-9.74813,
+    "gn:longitude":160.36371,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Ngalivungambau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105096
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"112142018082f6291b7400f45283029b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1292913233,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1292913233,
+    "wof:lastmodified":1536618606,
+    "wof:name":"Ngalivungambau",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.36371,
+    -9.74813,
+    160.36371,
+    -9.74813
+],
+  "geometry": {"coordinates":[160.36371,-9.74813],"type":"Point"}
+}

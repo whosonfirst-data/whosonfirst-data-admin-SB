@@ -1,0 +1,65 @@
+{
+  "id": 1243187031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.71667,-8.33333,160.71667,-8.33333",
+    "geom:latitude":-8.33333,
+    "geom:longitude":160.71667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mbolaau",
+    "gn:country_code":"SB",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105848,
+    "gn:latitude":-8.33333,
+    "gn:longitude":160.71667,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Mbolaau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105848
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"42f652064c9a0572610a7232c4b24f66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1243187031,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1243187031,
+    "wof:lastmodified":1536682407,
+    "wof:name":"Mbolaau",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.71667,
+    -8.33333,
+    160.71667,
+    -8.33333
+],
+  "geometry": {"coordinates":[160.71666999999999,-8.33333],"type":"Point"}
+}

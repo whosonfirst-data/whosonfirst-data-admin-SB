@@ -1,0 +1,65 @@
+{
+  "id": 1209019091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.93271,-8.7806,160.93271,-8.7806",
+    "geom:latitude":-8.7806,
+    "geom:longitude":160.93271,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Faumamanu",
+    "gn:country_code":"SB",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109130,
+    "gn:latitude":-8.7806,
+    "gn:longitude":160.93271,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Faumamanu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Faumamanu Itolo",
+        "Faumamanu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109130
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"1e53ca01c7cb46d8806661cc1e1f1e8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209019091
+        }
+    ],
+    "wof:id":1209019091,
+    "wof:lastmodified":1537699385,
+    "wof:name":"Faumamanu",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.93271,
+    -8.7806,
+    160.93271,
+    -8.7806
+],
+  "geometry": {"coordinates":[160.93270999999999,-8.7806],"type":"Point"}
+}

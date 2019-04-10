@@ -1,0 +1,65 @@
+{
+  "id": 1343373737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.84512,-9.73693,159.84512,-9.73693",
+    "geom:latitude":-9.73693,
+    "geom:longitude":159.84512,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Matanambamba",
+    "gn:country_code":"SB",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2106249,
+    "gn:latitude":-9.73693,
+    "gn:longitude":159.84512,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Matanambamba",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106249
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"c1d545fba1c985f71208df4cf0db4075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1343373737,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1343373737,
+    "wof:lastmodified":1536870155,
+    "wof:name":"Matanambamba",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.84512,
+    -9.73693,
+    159.84512,
+    -9.73693
+],
+  "geometry": {"coordinates":[159.84512000000001,-9.73693],"type":"Point"}
+}

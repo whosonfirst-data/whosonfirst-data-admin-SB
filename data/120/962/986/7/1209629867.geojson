@@ -1,0 +1,61 @@
+{
+  "id": 1209629867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"157.97772,-8.50866,157.97772,-8.50866",
+    "geom:latitude":-8.50866,
+    "geom:longitude":157.97772,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sasaghana",
+    "gn:country_code":"SB",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2103627,
+    "gn:latitude":-8.50866,
+    "gn:longitude":157.97772,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Sasaghana",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2103627
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"895bfe1f92f27bd7f3b02d7c27ca7c9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209629867
+        }
+    ],
+    "wof:id":1209629867,
+    "wof:lastmodified":1536281225,
+    "wof:name":"Sasaghana",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    157.97772,
+    -8.50866,
+    157.97772,
+    -8.50866
+],
+  "geometry": {"coordinates":[157.97772000000001,-8.50866],"type":"Point"}
+}

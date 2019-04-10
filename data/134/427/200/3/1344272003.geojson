@@ -1,0 +1,64 @@
+{
+  "id": 1344272003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"158.44046,-7.5635,158.44046,-7.5635",
+    "geom:latitude":-7.5635,
+    "geom:longitude":158.44046,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kia",
+    "gn:country_code":"SB",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107873,
+    "gn:latitude":-7.5635,
+    "gn:longitude":158.44046,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Kia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107873
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"78c1e0a9172a58194b910bacf6542164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1344272003,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344272003,
+    "wof:lastmodified":1537064529,
+    "wof:name":"Kia",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.44046,
+    -7.5635,
+    158.44046,
+    -7.5635
+],
+  "geometry": {"coordinates":[158.44046,-7.5635],"type":"Point"}
+}

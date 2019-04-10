@@ -1,0 +1,64 @@
+{
+  "id": 1344154187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.70721,-10.24182,161.70721,-10.24182",
+    "geom:latitude":-10.24182,
+    "geom:longitude":161.70721,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Pore Village",
+    "gn:country_code":"SB",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9794241,
+    "gn:latitude":-10.24182,
+    "gn:longitude":161.70721,
+    "gn:modification_date":"2014-10-29",
+    "gn:name":"Pore Village",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9794241
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"0d56b978dabda402dc2372b7c8d0f630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1344154187,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344154187,
+    "wof:lastmodified":1536740232,
+    "wof:name":"Pore Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.70721,
+    -10.24182,
+    161.70721,
+    -10.24182
+],
+  "geometry": {"coordinates":[161.70721,-10.24182],"type":"Point"}
+}

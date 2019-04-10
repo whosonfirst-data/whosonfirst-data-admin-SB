@@ -1,0 +1,61 @@
+{
+  "id": 1242687711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.33894,-7.98465,159.33894,-7.98465",
+    "geom:latitude":-7.98465,
+    "geom:longitude":159.33894,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Banisokeo",
+    "gn:country_code":"SB",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2109636,
+    "gn:latitude":-7.98465,
+    "gn:longitude":159.33894,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Banisokeo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109636
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"0222629ab9cc8533a734c70b55083de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242687711,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242687711,
+    "wof:lastmodified":1536905291,
+    "wof:name":"Banisokeo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.33893999999995,
+    -7.98465,
+    159.33893999999995,
+    -7.98465
+],
+  "geometry": {"coordinates":[159.33893999999995,-7.98465],"type":"Point"}
+}

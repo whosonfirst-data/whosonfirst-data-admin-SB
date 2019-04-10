@@ -1,0 +1,65 @@
+{
+  "id": 1293015317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.21914,-9.21628,161.21914,-9.21628",
+    "geom:latitude":-9.21628,
+    "geom:longitude":161.21914,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Riohiasi",
+    "gn:country_code":"SB",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2103908,
+    "gn:latitude":-9.21628,
+    "gn:longitude":161.21914,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Riohiasi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2103908
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"22ed4a9ea1ec0786f563bb9bcfd810d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1293015317,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1293015317,
+    "wof:lastmodified":1536970325,
+    "wof:name":"Riohiasi",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.21913999999995,
+    -9.21628,
+    161.21913999999995,
+    -9.21628
+],
+  "geometry": {"coordinates":[161.21913999999995,-9.21628],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310315299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.46667,-11.3,166.46667,-11.3",
+    "geom:latitude":-11.3,
+    "geom:longitude":166.46667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Apakho",
+    "gn:cc2":"SB",
+    "gn:country_code":"SB",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178871,
+    "gn:latitude":-11.3,
+    "gn:longitude":166.46667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Apakh\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asimboa",
+        "Aujivigno",
+        "Gnapwongo",
+        "Apakh\u00f6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178871
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"3de0c9da661a1e65f8f860117a8a79b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1310315299,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310315299,
+    "wof:lastmodified":1537699396,
+    "wof:name":"Apakho",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.46667,
+    -11.3,
+    166.46667,
+    -11.3
+],
+  "geometry": {"coordinates":[166.46666999999999,-11.3],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1310115889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.61265,-8.14015,159.61265,-8.14015",
+    "geom:latitude":-8.14015,
+    "geom:longitude":159.61265,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tasia",
+    "gn:country_code":"SB",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2102767,
+    "gn:latitude":-8.14015,
+    "gn:longitude":159.61265,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Tasia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2102767
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"7902fe9646a4cfee986b882b3a2522d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310115889,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310115889,
+    "wof:lastmodified":1536980731,
+    "wof:name":"Tasia",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.61265,
+    -8.14015,
+    159.61265,
+    -8.14015
+],
+  "geometry": {"coordinates":[159.61265,-8.14015],"type":"Point"}
+}

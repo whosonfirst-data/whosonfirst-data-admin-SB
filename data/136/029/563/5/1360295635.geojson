@@ -1,0 +1,61 @@
+{
+  "id": 1360295635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.43333,-10.35,161.43333,-10.35",
+    "geom:latitude":-10.35,
+    "geom:longitude":161.43333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tawaraha",
+    "gn:country_code":"SB",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178482,
+    "gn:latitude":-10.35,
+    "gn:longitude":161.43333,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Tawaraha",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178482
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"b0b58665e33ecddfeabe07e29c27cf5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1360295635,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360295635,
+    "wof:lastmodified":1536640916,
+    "wof:name":"Tawaraha",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.43333,
+    -10.35,
+    161.43333,
+    -10.35
+],
+  "geometry": {"coordinates":[161.43333000000001,-10.35],"type":"Point"}
+}

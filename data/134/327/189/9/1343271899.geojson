@@ -1,0 +1,65 @@
+{
+  "id": 1343271899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.83475,-9.14779,159.83475,-9.14779",
+    "geom:latitude":-9.14779,
+    "geom:longitude":159.83475,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nggareka",
+    "gn:country_code":"SB",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105077,
+    "gn:latitude":-9.14779,
+    "gn:longitude":159.83475,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Nggareka",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105077
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"e4d4a1d5c719edb7d4920fa16c91eef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1343271899,
+            "region_id":85677085
+        }
+    ],
+    "wof:id":1343271899,
+    "wof:lastmodified":1537017590,
+    "wof:name":"Nggareka",
+    "wof:parent_id":85677085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.83475,
+    -9.14779,
+    159.83475,
+    -9.14779
+],
+  "geometry": {"coordinates":[159.83475000000001,-9.14779],"type":"Point"}
+}

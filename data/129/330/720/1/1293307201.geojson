@@ -1,0 +1,65 @@
+{
+  "id": 1293307201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.65818,-9.65054,160.65818,-9.65054",
+    "geom:latitude":-9.65054,
+    "geom:longitude":160.65818,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Waimbonombono",
+    "gn:country_code":"SB",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101688,
+    "gn:latitude":-9.65054,
+    "gn:longitude":160.65818,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Waimbonombono",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101688
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"13a4e3fb6f3f43f5306f7b8434be129e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1293307201,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1293307201,
+    "wof:lastmodified":1537045003,
+    "wof:name":"Waimbonombono",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.65818000000004,
+    -9.65054,
+    160.65818000000004,
+    -9.65054
+],
+  "geometry": {"coordinates":[160.65818000000004,-9.65054],"type":"Point"}
+}

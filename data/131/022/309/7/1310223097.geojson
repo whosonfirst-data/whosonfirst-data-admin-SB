@@ -1,0 +1,65 @@
+{
+  "id": 1310223097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.43732,-9.46887,160.43732,-9.46887",
+    "geom:latitude":-9.46887,
+    "geom:longitude":160.43732,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Komunidhimbo",
+    "gn:country_code":"SB",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107394,
+    "gn:latitude":-9.46887,
+    "gn:longitude":160.43732,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Komunidhimbo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107394
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"6fb2a7015e15f975f328113eb520f25d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1310223097,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1310223097,
+    "wof:lastmodified":1536825926,
+    "wof:name":"Komunidhimbo",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.43732,
+    -9.46887,
+    160.43732,
+    -9.46887
+],
+  "geometry": {"coordinates":[160.43732,-9.46887],"type":"Point"}
+}

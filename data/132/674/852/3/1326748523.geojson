@@ -1,0 +1,65 @@
+{
+  "id": 1326748523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.15,-9.81667,160.15,-9.81667",
+    "geom:latitude":-9.81667,
+    "geom:longitude":160.15,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nggounatogha",
+    "gn:country_code":"SB",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2105031,
+    "gn:latitude":-9.81667,
+    "gn:longitude":160.15,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Nggounatogha",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105031
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"570fcefcbebf59ea70c5c5a459f73908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1326748523,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1326748523,
+    "wof:lastmodified":1536672164,
+    "wof:name":"Nggounatogha",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.15,
+    -9.81667,
+    160.15,
+    -9.81667
+],
+  "geometry": {"coordinates":[160.15000000000001,-9.81667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310323357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"156.96841,-8.06086,156.96841,-8.06086",
+    "geom:latitude":-8.06086,
+    "geom:longitude":156.96841,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Vavanga",
+    "gn:country_code":"SB",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101982,
+    "gn:latitude":-8.06086,
+    "gn:longitude":156.96841,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vavanga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vangavanga",
+        "Vavanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101982
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"f70bf81f9da41dd7dbe1e4c1d2b6c109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1310323357,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310323357,
+    "wof:lastmodified":1537699350,
+    "wof:name":"Vavanga",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    156.96841,
+    -8.06086,
+    156.96841,
+    -8.06086
+],
+  "geometry": {"coordinates":[156.96841000000001,-8.06086],"type":"Point"}
+}

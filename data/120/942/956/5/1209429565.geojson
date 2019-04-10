@@ -1,0 +1,65 @@
+{
+  "id": 1209429565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.65782,-9.65861,160.65782,-9.65861",
+    "geom:latitude":-9.65861,
+    "geom:longitude":160.65782,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kioramo",
+    "gn:country_code":"SB",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107829,
+    "gn:latitude":-9.65861,
+    "gn:longitude":160.65782,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kioramo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Obaum",
+        "Kioramo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107829
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"1223b22b5f4bb5c060b7740e73155c10",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209429565
+        }
+    ],
+    "wof:id":1209429565,
+    "wof:lastmodified":1537699379,
+    "wof:name":"Kioramo",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.65782,
+    -9.65861,
+    160.65782,
+    -9.65861
+],
+  "geometry": {"coordinates":[160.65781999999999,-9.65861],"type":"Point"}
+}

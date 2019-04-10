@@ -1,0 +1,65 @@
+{
+  "id": 1226161281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.21394,-9.28403,161.21394,-9.28403",
+    "geom:latitude":-9.28403,
+    "geom:longitude":161.21394,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Waraniuwo",
+    "gn:country_code":"SB",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2101629,
+    "gn:latitude":-9.28403,
+    "gn:longitude":161.21394,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Waraniuwo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101629
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"af39b1316ba243a27d8fb7234c29a1a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1226161281,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1226161281,
+    "wof:lastmodified":1537053046,
+    "wof:name":"Waraniuwo",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.21393999999995,
+    -9.28403,
+    161.21393999999995,
+    -9.28403
+],
+  "geometry": {"coordinates":[161.21393999999995,-9.28403],"type":"Point"}
+}

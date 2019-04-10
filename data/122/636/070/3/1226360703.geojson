@@ -1,0 +1,65 @@
+{
+  "id": 1226360703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.81667,-8.45,159.81667,-8.45",
+    "geom:latitude":-8.45,
+    "geom:longitude":159.81667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kerepei",
+    "gn:country_code":"SB",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2113788,
+    "gn:latitude":-8.45,
+    "gn:longitude":159.81667,
+    "gn:modification_date":"1997-02-20",
+    "gn:name":"Kerepei",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2113788
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"fca24b17244cba25682e2d745861a92b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1226360703,
+            "region_id":85677095
+        }
+    ],
+    "wof:id":1226360703,
+    "wof:lastmodified":1536768434,
+    "wof:name":"Kerepei",
+    "wof:parent_id":85677095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.81667,
+    -8.45,
+    159.81667,
+    -8.45
+],
+  "geometry": {"coordinates":[159.81666999999999,-8.45],"type":"Point"}
+}

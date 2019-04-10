@@ -1,0 +1,65 @@
+{
+  "id": 1327351795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.06543,-8.94882,161.06543,-8.94882",
+    "geom:latitude":-8.94882,
+    "geom:longitude":161.06543,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Fula'ambu",
+    "gn:country_code":"SB",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109052,
+    "gn:latitude":-8.94882,
+    "gn:longitude":161.06543,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Fula\u2019ambu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109052
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"4e4b64b3fd31c4baf742f2c4c3e507b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1327351795,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1327351795,
+    "wof:lastmodified":1536797402,
+    "wof:name":"Fula'ambu",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.06543,
+    -8.94882,
+    161.06543,
+    -8.94882
+],
+  "geometry": {"coordinates":[161.06542999999999,-8.94882],"type":"Point"}
+}

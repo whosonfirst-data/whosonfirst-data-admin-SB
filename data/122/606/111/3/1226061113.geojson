@@ -1,0 +1,65 @@
+{
+  "id": 1226061113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.48333,-9.53333,161.48333,-9.53333",
+    "geom:latitude":-9.53333,
+    "geom:longitude":161.48333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Angali",
+    "gn:country_code":"SB",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109837,
+    "gn:latitude":-9.53333,
+    "gn:longitude":161.48333,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Angali",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109837
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"de81bcc839f96f32b41b38ad9bf43765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1226061113,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1226061113,
+    "wof:lastmodified":1536703296,
+    "wof:name":"Angali",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.48333,
+    -9.53333,
+    161.48333,
+    -9.53333
+],
+  "geometry": {"coordinates":[161.48333,-9.53333],"type":"Point"}
+}

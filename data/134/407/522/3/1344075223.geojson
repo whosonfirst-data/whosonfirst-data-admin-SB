@@ -1,0 +1,70 @@
+{
+  "id": 1344075223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.21936,-9.07926,159.21936,-9.07926",
+    "geom:latitude":-9.07926,
+    "geom:longitude":159.21936,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Yandina",
+    "gn:country_code":"SB",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101593,
+    "gn:latitude":-9.07926,
+    "gn:longitude":159.21936,
+    "gn:modification_date":"2015-04-09",
+    "gn:name":"Yandina",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andina",
+        "Yandina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101593,
+        "wk:page":"Yandina%2C_Solomon_Islands"
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"a086f5472072b459205e597f9d4be7ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1344075223,
+            "region_id":85677085
+        }
+    ],
+    "wof:id":1344075223,
+    "wof:lastmodified":1537699348,
+    "wof:name":"Yandina",
+    "wof:parent_id":85677085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.21936000000005,
+    -9.07926,
+    159.21936000000005,
+    -9.07926
+],
+  "geometry": {"coordinates":[159.21936000000005,-9.07926],"type":"Point"}
+}

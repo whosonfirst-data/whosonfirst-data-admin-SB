@@ -1,0 +1,64 @@
+{
+  "id": 1226352557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.81836,-9.79339,159.81836,-9.79339",
+    "geom:latitude":-9.79339,
+    "geom:longitude":159.81836,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Peonamacho",
+    "gn:country_code":"SB",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2104368,
+    "gn:latitude":-9.79339,
+    "gn:longitude":159.81836,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Peonamacho",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104368
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"4a5f7fafe187f6af5a3de0f811dd15fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1226352557,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226352557,
+    "wof:lastmodified":1536780064,
+    "wof:name":"Peonamacho",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.81836,
+    -9.79339,
+    159.81836,
+    -9.79339
+],
+  "geometry": {"coordinates":[159.81836000000001,-9.79339],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1259994481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"156.73333,-7.68333,156.73333,-7.68333",
+    "geom:latitude":-7.68333,
+    "geom:longitude":156.73333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Horaniu",
+    "gn:country_code":"SB",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2113936,
+    "gn:latitude":-7.68333,
+    "gn:longitude":156.73333,
+    "gn:modification_date":"1998-01-23",
+    "gn:name":"Horaniu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2113936
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"0576966c8473e0d0ae618c839cb109fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259994481,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259994481,
+    "wof:lastmodified":1536616984,
+    "wof:name":"Horaniu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    156.73333,
+    -7.68333,
+    156.73333,
+    -7.68333
+],
+  "geometry": {"coordinates":[156.73333,-7.68333],"type":"Point"}
+}

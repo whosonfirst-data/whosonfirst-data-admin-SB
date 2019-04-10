@@ -1,0 +1,68 @@
+{
+  "id": 1226460567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.17752,-9.40984,160.17752,-9.40984",
+    "geom:latitude":-9.40984,
+    "geom:longitude":160.17752,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Papanggu",
+    "gn:country_code":"SB",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2104507,
+    "gn:latitude":-9.40984,
+    "gn:longitude":160.17752,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Papanggu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Papangu",
+        "Papanggu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104507
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"277fe684555e26e8484e98b6cb62a0be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1226460567,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226460567,
+    "wof:lastmodified":1537699360,
+    "wof:name":"Papanggu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.17752,
+    -9.40984,
+    160.17752,
+    -9.40984
+],
+  "geometry": {"coordinates":[160.17751999999999,-9.40984],"type":"Point"}
+}

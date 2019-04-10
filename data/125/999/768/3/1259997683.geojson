@@ -1,0 +1,65 @@
+{
+  "id": 1259997683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.83866,-9.12714,159.83866,-9.12714",
+    "geom:latitude":-9.12714,
+    "geom:longitude":159.83866,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Paimbeta",
+    "gn:country_code":"SB",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2104561,
+    "gn:latitude":-9.12714,
+    "gn:longitude":159.83866,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Paimbeta",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104561
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"ebc9b3b6df3ececa20be54cbf7bea535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1259997683,
+            "region_id":85677085
+        }
+    ],
+    "wof:id":1259997683,
+    "wof:lastmodified":1536612182,
+    "wof:name":"Paimbeta",
+    "wof:parent_id":85677085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.83866,
+    -9.12714,
+    159.83866,
+    -9.12714
+],
+  "geometry": {"coordinates":[159.83866,-9.12714],"type":"Point"}
+}

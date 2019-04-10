@@ -1,0 +1,66 @@
+{
+  "id": 1209530147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.43446,-9.51943,160.43446,-9.51943",
+    "geom:latitude":-9.51943,
+    "geom:longitude":160.43446,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ghombua",
+    "gn:country_code":"SB",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108899,
+    "gn:latitude":-9.51943,
+    "gn:longitude":160.43446,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ghombua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gembua",
+        "Gombua",
+        "Ghombua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108899
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"2c56485f8a9cb5ccd1783f6e3ad7e021",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209530147
+        }
+    ],
+    "wof:id":1209530147,
+    "wof:lastmodified":1537699384,
+    "wof:name":"Ghombua",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.43446,
+    -9.51943,
+    160.43446,
+    -9.51943
+],
+  "geometry": {"coordinates":[160.43446,-9.51943],"type":"Point"}
+}

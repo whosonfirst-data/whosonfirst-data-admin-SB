@@ -1,0 +1,66 @@
+{
+  "id": 1209530275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.5957,-8.40358,160.5957,-8.40358",
+    "geom:latitude":-8.40358,
+    "geom:longitude":160.5957,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mbita'ama",
+    "gn:country_code":"SB",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105898,
+    "gn:latitude":-8.40358,
+    "gn:longitude":160.5957,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mbita\u2019ama",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bitama",
+        "Belama",
+        "Mbita\u2019ama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105898
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"3e9da124cb5c318f50d84303a591f9a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209530275
+        }
+    ],
+    "wof:id":1209530275,
+    "wof:lastmodified":1537699367,
+    "wof:name":"Mbita'ama",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.5957,
+    -8.40358,
+    160.5957,
+    -8.40358
+],
+  "geometry": {"coordinates":[160.59569999999999,-8.40358],"type":"Point"}
+}

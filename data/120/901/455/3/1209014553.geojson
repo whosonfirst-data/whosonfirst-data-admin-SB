@@ -1,0 +1,61 @@
+{
+  "id": 1209014553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.37554,-9.81626,160.37554,-9.81626",
+    "geom:latitude":-9.81626,
+    "geom:longitude":160.37554,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Checheche",
+    "gn:country_code":"SB",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109409,
+    "gn:latitude":-9.81626,
+    "gn:longitude":160.37554,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Checheche",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109409
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"a760c4cf5bd397c0f3cfa0c25fa25fbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209014553
+        }
+    ],
+    "wof:id":1209014553,
+    "wof:lastmodified":1536300338,
+    "wof:name":"Checheche",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.37554,
+    -9.81626,
+    160.37554,
+    -9.81626
+],
+  "geometry": {"coordinates":[160.37554,-9.81626],"type":"Point"}
+}

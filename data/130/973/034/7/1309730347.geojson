@@ -1,0 +1,65 @@
+{
+  "id": 1309730347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.67298,-9.91263,160.67298,-9.91263",
+    "geom:latitude":-9.91263,
+    "geom:longitude":160.67298,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Visanaoru",
+    "gn:country_code":"SB",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101873,
+    "gn:latitude":-9.91263,
+    "gn:longitude":160.67298,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Visanaoru",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101873
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"9be28e45e4f13fe5966298fe177d8c29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1309730347,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1309730347,
+    "wof:lastmodified":1537038216,
+    "wof:name":"Visanaoru",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.67298,
+    -9.91263,
+    160.67298,
+    -9.91263
+],
+  "geometry": {"coordinates":[160.67298,-9.91263],"type":"Point"}
+}

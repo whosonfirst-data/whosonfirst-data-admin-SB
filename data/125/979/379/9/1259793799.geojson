@@ -1,0 +1,61 @@
+{
+  "id": 1259793799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.096,-8.12733,159.096,-8.12733",
+    "geom:latitude":-8.12733,
+    "geom:longitude":159.096,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Furona",
+    "gn:country_code":"SB",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109033,
+    "gn:latitude":-8.12733,
+    "gn:longitude":159.096,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Furona",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109033
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"9ca63911a580dc5a39d7097bff5d3794",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259793799,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259793799,
+    "wof:lastmodified":1536908505,
+    "wof:name":"Furona",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.096,
+    -8.12733,
+    159.096,
+    -8.12733
+],
+  "geometry": {"coordinates":[159.096,-8.12733],"type":"Point"}
+}

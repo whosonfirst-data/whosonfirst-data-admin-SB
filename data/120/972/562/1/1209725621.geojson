@@ -1,0 +1,65 @@
+{
+  "id": 1209725621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.14749,-9.58191,160.14749,-9.58191",
+    "geom:latitude":-9.58191,
+    "geom:longitude":160.14749,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Charihaivati",
+    "gn:country_code":"SB",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109456,
+    "gn:latitude":-9.58191,
+    "gn:longitude":160.14749,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Charihaivati",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109456
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"c89d61d910aea1876e12cab88c817a1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1209725621,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1209725621,
+    "wof:lastmodified":1536384063,
+    "wof:name":"Charihaivati",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.14749,
+    -9.58191,
+    160.14749,
+    -9.58191
+],
+  "geometry": {"coordinates":[160.14749,-9.58191],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1327245977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"158.86984,-7.96393,158.86984,-7.96393",
+    "geom:latitude":-7.96393,
+    "geom:longitude":158.86984,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Dedeu",
+    "gn:country_code":"SB",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109283,
+    "gn:latitude":-7.96393,
+    "gn:longitude":158.86984,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Dedeu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109283
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"d7ccfe3f7899e43723332010326a8b20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1327245977,
+            "region_id":85677095
+        }
+    ],
+    "wof:id":1327245977,
+    "wof:lastmodified":1536950116,
+    "wof:name":"Dedeu",
+    "wof:parent_id":85677095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.86983999999995,
+    -7.96393,
+    158.86983999999995,
+    -7.96393
+],
+  "geometry": {"coordinates":[158.86983999999995,-7.96393],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1276243359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.59886,-9.5238,159.59886,-9.5238",
+    "geom:latitude":-9.5238,
+    "geom:longitude":159.59886,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Rauvalu",
+    "gn:country_code":"SB",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2104000,
+    "gn:latitude":-9.5238,
+    "gn:longitude":159.59886,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Rauvalu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104000
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"cd22414078a4d07de4807c6b0cb770ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1276243359,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276243359,
+    "wof:lastmodified":1536899163,
+    "wof:name":"Rauvalu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.59886,
+    -9.5238,
+    159.59886,
+    -9.5238
+],
+  "geometry": {"coordinates":[159.59886,-9.5238],"type":"Point"}
+}

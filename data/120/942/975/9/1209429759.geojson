@@ -1,0 +1,61 @@
+{
+  "id": 1209429759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.40859,-9.57877,161.40859,-9.57877",
+    "geom:latitude":-9.57877,
+    "geom:longitude":161.40859,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ahenawai",
+    "gn:country_code":"SB",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109961,
+    "gn:latitude":-9.57877,
+    "gn:longitude":161.40859,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Ahenawai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109961
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"87e072e46944d7d6e64d743f00a39dea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209429759
+        }
+    ],
+    "wof:id":1209429759,
+    "wof:lastmodified":1536287270,
+    "wof:name":"Ahenawai",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.40859,
+    -9.57877,
+    161.40859,
+    -9.57877
+],
+  "geometry": {"coordinates":[161.40859,-9.57877],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225962311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.07548,-9.59128,160.07548,-9.59128",
+    "geom:latitude":-9.59128,
+    "geom:longitude":160.07548,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Taombo",
+    "gn:country_code":"SB",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2102843,
+    "gn:latitude":-9.59128,
+    "gn:longitude":160.07548,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Taombo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Belana",
+        "Talamu",
+        "Taombo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2102843
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"3a3851d7beed49a338987366c512576b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1225962311,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1225962311,
+    "wof:lastmodified":1537699353,
+    "wof:name":"Taombo",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.07548,
+    -9.59128,
+    160.07548,
+    -9.59128
+],
+  "geometry": {"coordinates":[160.07548,-9.59128],"type":"Point"}
+}

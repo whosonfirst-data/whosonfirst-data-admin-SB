@@ -1,0 +1,65 @@
+{
+  "id": 1326940339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.72002,-8.31534,159.72002,-8.31534",
+    "geom:latitude":-8.31534,
+    "geom:longitude":159.72002,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sarase'ele",
+    "gn:country_code":"SB",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2103645,
+    "gn:latitude":-8.31534,
+    "gn:longitude":159.72002,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Sarase\u2019ele",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2103645
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"08faa1872d7b823de7aa330126fe80ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1326940339,
+            "region_id":85677095
+        }
+    ],
+    "wof:id":1326940339,
+    "wof:lastmodified":1536892714,
+    "wof:name":"Sarase'ele",
+    "wof:parent_id":85677095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.72002,
+    -8.31534,
+    159.72002,
+    -8.31534
+],
+  "geometry": {"coordinates":[159.72002000000001,-8.31534],"type":"Point"}
+}

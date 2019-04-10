@@ -1,0 +1,65 @@
+{
+  "id": 1243082155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.76158,-8.46958,159.76158,-8.46958",
+    "geom:latitude":-8.46958,
+    "geom:longitude":159.76158,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mahagha",
+    "gn:country_code":"SB",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2106618,
+    "gn:latitude":-8.46958,
+    "gn:longitude":159.76158,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Mahagha",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106618
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"6b6034ccd334bc2ab1e70222bdd0d5aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1243082155,
+            "region_id":85677095
+        }
+    ],
+    "wof:id":1243082155,
+    "wof:lastmodified":1536832555,
+    "wof:name":"Mahagha",
+    "wof:parent_id":85677095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.76158,
+    -8.46958,
+    159.76158,
+    -8.46958
+],
+  "geometry": {"coordinates":[159.76158000000001,-8.46958],"type":"Point"}
+}

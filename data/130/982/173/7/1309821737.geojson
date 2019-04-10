@@ -1,0 +1,65 @@
+{
+  "id": 1309821737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.78333,-11.28333,159.78333,-11.28333",
+    "geom:latitude":-11.28333,
+    "geom:longitude":159.78333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Matahenua",
+    "gn:country_code":"SB",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178676,
+    "gn:latitude":-11.28333,
+    "gn:longitude":159.78333,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Matahenua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178676
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"cdce6888b7e23bde636120d8adc5b52b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1309821737,
+            "region_id":85677081
+        }
+    ],
+    "wof:id":1309821737,
+    "wof:lastmodified":1536908411,
+    "wof:name":"Matahenua",
+    "wof:parent_id":85677081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.78333,
+    -11.28333,
+    159.78333,
+    -11.28333
+],
+  "geometry": {"coordinates":[159.78333000000001,-11.28333],"type":"Point"}
+}

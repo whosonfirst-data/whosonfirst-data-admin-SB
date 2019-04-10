@@ -1,0 +1,69 @@
+{
+  "id": 1243187039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"156.58926,-6.66015,156.58926,-6.66015",
+    "geom:latitude":-6.66015,
+    "geom:longitude":156.58926,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mbanimbani",
+    "gn:country_code":"SB",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2106078,
+    "gn:latitude":-6.66015,
+    "gn:longitude":156.58926,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mbanimbani",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Banimbari",
+        "Mbanimbani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106078
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"795bebb7c4c5ac96f1e2a0a275754113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1243187039,
+            "region_id":85677105
+        }
+    ],
+    "wof:id":1243187039,
+    "wof:lastmodified":1537699369,
+    "wof:name":"Mbanimbani",
+    "wof:parent_id":85677105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    156.58926,
+    -6.66015,
+    156.58926,
+    -6.66015
+],
+  "geometry": {"coordinates":[156.58926,-6.66015],"type":"Point"}
+}

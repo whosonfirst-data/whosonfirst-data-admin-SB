@@ -1,0 +1,65 @@
+{
+  "id": 1259493385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.34699,-9.4791,160.34699,-9.4791",
+    "geom:latitude":-9.4791,
+    "geom:longitude":160.34699,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Vadhalutu",
+    "gn:country_code":"SB",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2102213,
+    "gn:latitude":-9.4791,
+    "gn:longitude":160.34699,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Vadhalutu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2102213
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"2f8b6c8cc2037ca0e74c396651a8d2b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1259493385,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1259493385,
+    "wof:lastmodified":1536843420,
+    "wof:name":"Vadhalutu",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.34698999999995,
+    -9.4791,
+    160.34698999999995,
+    -9.4791
+],
+  "geometry": {"coordinates":[160.34698999999995,-9.4791],"type":"Point"}
+}

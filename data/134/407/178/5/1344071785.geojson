@@ -1,0 +1,64 @@
+{
+  "id": 1344071785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.6435,-9.57573,159.6435,-9.57573",
+    "geom:latitude":-9.57573,
+    "geom:longitude":159.6435,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Manganakao",
+    "gn:country_code":"SB",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2106422,
+    "gn:latitude":-9.57573,
+    "gn:longitude":159.6435,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Manganakao",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106422
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"eccc30821888d9444b4966144a929398",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1344071785,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344071785,
+    "wof:lastmodified":1536857863,
+    "wof:name":"Manganakao",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.6435,
+    -9.57573,
+    159.6435,
+    -9.57573
+],
+  "geometry": {"coordinates":[159.64349999999999,-9.57573],"type":"Point"}
+}

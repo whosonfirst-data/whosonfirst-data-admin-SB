@@ -1,0 +1,65 @@
+{
+  "id": 1260197557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.0571,-9.47599,160.0571,-9.47599",
+    "geom:latitude":-9.47599,
+    "geom:longitude":160.0571,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Aroaro",
+    "gn:country_code":"SB",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109752,
+    "gn:latitude":-9.47599,
+    "gn:longitude":160.0571,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Aroaro",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109752
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"f20c8e762caba291c7c3578421421af1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1260197557,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1260197557,
+    "wof:lastmodified":1536827565,
+    "wof:name":"Aroaro",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.0571,
+    -9.47599,
+    160.0571,
+    -9.47599
+],
+  "geometry": {"coordinates":[160.05709999999999,-9.47599],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1242792301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.83333,-9.85,160.83333,-9.85",
+    "geom:latitude":-9.85,
+    "geom:longitude":160.83333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tarariwa",
+    "gn:country_code":"SB",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2102795,
+    "gn:latitude":-9.85,
+    "gn:longitude":160.83333,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Tarariwa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2102795
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"5c17c08e8ff5995b48aeaabe27c65594",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242792301,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242792301,
+    "wof:lastmodified":1536754347,
+    "wof:name":"Tarariwa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.83333000000005,
+    -9.85,
+    160.83333000000005,
+    -9.85
+],
+  "geometry": {"coordinates":[160.83333000000005,-9.85],"type":"Point"}
+}

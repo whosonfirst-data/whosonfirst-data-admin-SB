@@ -1,0 +1,63 @@
+{
+  "id": 1343873639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.16859,-9.12265,159.16859,-9.12265",
+    "geom:latitude":-9.12265,
+    "geom:longitude":159.16859,
+    "gn:asciiname":"Suun",
+    "gn:country_code":"SB",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10177612,
+    "gn:latitude":-9.12265,
+    "gn:longitude":159.16859,
+    "gn:modification_date":"2015-04-09",
+    "gn:name":"Suun",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10177612
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"f9b5508f36fb63e3892b1ad5afd2edb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1343873639,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343873639,
+    "wof:lastmodified":1536647078,
+    "wof:name":"Suun",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.16859,
+    -9.12265,
+    159.16859,
+    -9.12265
+],
+  "geometry": {"coordinates":[159.16858999999999,-9.12265],"type":"Point"}
+}

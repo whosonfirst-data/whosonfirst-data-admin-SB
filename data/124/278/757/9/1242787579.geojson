@@ -1,0 +1,61 @@
+{
+  "id": 1242787579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"156.79416,-7.06854,156.79416,-7.06854",
+    "geom:latitude":-7.06854,
+    "geom:longitude":156.79416,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sarivona",
+    "gn:country_code":"SB",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2103635,
+    "gn:latitude":-7.06854,
+    "gn:longitude":156.79416,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Sarivona",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2103635
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"5e6450245e6d647cd1b01526644c5f91",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242787579,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242787579,
+    "wof:lastmodified":1536761341,
+    "wof:name":"Sarivona",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    156.79416,
+    -7.06854,
+    156.79416,
+    -7.06854
+],
+  "geometry": {"coordinates":[156.79416000000001,-7.06854],"type":"Point"}
+}

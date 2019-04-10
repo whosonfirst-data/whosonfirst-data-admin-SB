@@ -1,0 +1,65 @@
+{
+  "id": 1209530341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.38884,-9.12153,160.38884,-9.12153",
+    "geom:latitude":-9.12153,
+    "geom:longitude":160.38884,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ghole",
+    "gn:country_code":"SB",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108904,
+    "gn:latitude":-9.12153,
+    "gn:longitude":160.38884,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ghole",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gole",
+        "Ghole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108904
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"30a2510e825492725d92331474492539",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209530341
+        }
+    ],
+    "wof:id":1209530341,
+    "wof:lastmodified":1537699384,
+    "wof:name":"Ghole",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.38884,
+    -9.12153,
+    160.38884,
+    -9.12153
+],
+  "geometry": {"coordinates":[160.38883999999999,-9.12153],"type":"Point"}
+}

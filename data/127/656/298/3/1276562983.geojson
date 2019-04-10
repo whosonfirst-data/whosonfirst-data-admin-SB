@@ -1,0 +1,69 @@
+{
+  "id": 1276562983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.24454,-9.19107,160.24454,-9.19107",
+    "geom:latitude":-9.19107,
+    "geom:longitude":160.24454,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Koilovala",
+    "gn:country_code":"SB",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107753,
+    "gn:latitude":-9.19107,
+    "gn:longitude":160.24454,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koilovala",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koilovata",
+        "Koilovala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107753
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"a4db77491c9431593a930558113d3693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1276562983,
+            "region_id":85677085
+        }
+    ],
+    "wof:id":1276562983,
+    "wof:lastmodified":1537699379,
+    "wof:name":"Koilovala",
+    "wof:parent_id":85677085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.24454,
+    -9.19107,
+    160.24454,
+    -9.19107
+],
+  "geometry": {"coordinates":[160.24454,-9.19107],"type":"Point"}
+}

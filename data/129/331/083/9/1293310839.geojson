@@ -1,0 +1,61 @@
+{
+  "id": 1293310839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.81854,-8.32668,160.81854,-8.32668",
+    "geom:latitude":-8.32668,
+    "geom:longitude":160.81854,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Dikona'ara",
+    "gn:country_code":"SB",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109272,
+    "gn:latitude":-8.32668,
+    "gn:longitude":160.81854,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Dikona\u2019ara",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109272
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"6f68dc130bf7495aa397ce9c8b1579b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293310839,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293310839,
+    "wof:lastmodified":1537040024,
+    "wof:name":"Dikona'ara",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.81853999999996,
+    -8.32668,
+    160.81853999999996,
+    -8.32668
+],
+  "geometry": {"coordinates":[160.81853999999996,-8.32668],"type":"Point"}
+}

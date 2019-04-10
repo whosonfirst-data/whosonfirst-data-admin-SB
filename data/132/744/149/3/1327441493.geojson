@@ -1,0 +1,61 @@
+{
+  "id": 1327441493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"157.10634,-8.28608,157.10634,-8.28608",
+    "geom:latitude":-8.28608,
+    "geom:longitude":157.10634,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Imana",
+    "gn:country_code":"SB",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108328,
+    "gn:latitude":-8.28608,
+    "gn:longitude":157.10634,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Imana",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108328
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"e232cc341943735219a0a476e344ffd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327441493,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327441493,
+    "wof:lastmodified":1536667623,
+    "wof:name":"Imana",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    157.10634,
+    -8.28608,
+    157.10634,
+    -8.28608
+],
+  "geometry": {"coordinates":[157.10633999999999,-8.28608],"type":"Point"}
+}

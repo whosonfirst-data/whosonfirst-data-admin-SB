@@ -1,0 +1,65 @@
+{
+  "id": 1309818507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.17595,-9.55154,160.17595,-9.55154",
+    "geom:latitude":-9.55154,
+    "geom:longitude":160.17595,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tambelusu",
+    "gn:country_code":"SB",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2102961,
+    "gn:latitude":-9.55154,
+    "gn:longitude":160.17595,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Tambelusu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2102961
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"e04805bf95204a65ab94d2779e1fd5f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1309818507,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1309818507,
+    "wof:lastmodified":1536913101,
+    "wof:name":"Tambelusu",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.17595,
+    -9.55154,
+    160.17595,
+    -9.55154
+],
+  "geometry": {"coordinates":[160.17595,-9.55154],"type":"Point"}
+}

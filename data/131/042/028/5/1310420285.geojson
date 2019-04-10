@@ -1,0 +1,65 @@
+{
+  "id": 1310420285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.70086,-8.31303,160.70086,-8.31303",
+    "geom:latitude":-8.31303,
+    "geom:longitude":160.70086,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Gouulu",
+    "gn:country_code":"SB",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108838,
+    "gn:latitude":-8.31303,
+    "gn:longitude":160.70086,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Gouulu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108838
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"cea08e8a29ede560ee07468b42b7ac21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1310420285,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1310420285,
+    "wof:lastmodified":1537038215,
+    "wof:name":"Gouulu",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.70086,
+    -8.31303,
+    160.70086,
+    -8.31303
+],
+  "geometry": {"coordinates":[160.70086000000001,-8.31303],"type":"Point"}
+}

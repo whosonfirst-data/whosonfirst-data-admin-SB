@@ -1,0 +1,64 @@
+{
+  "id": 1226260765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.19664,-9.81302,160.19664,-9.81302",
+    "geom:latitude":-9.81302,
+    "geom:longitude":160.19664,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Maghati",
+    "gn:country_code":"SB",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2106626,
+    "gn:latitude":-9.81302,
+    "gn:longitude":160.19664,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Maghati",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106626
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"6b22998f2974459dd374cd47ee14f1ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1226260765,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226260765,
+    "wof:lastmodified":1536912377,
+    "wof:name":"Maghati",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.19664,
+    -9.81302,
+    160.19664,
+    -9.81302
+],
+  "geometry": {"coordinates":[160.19664,-9.81302],"type":"Point"}
+}

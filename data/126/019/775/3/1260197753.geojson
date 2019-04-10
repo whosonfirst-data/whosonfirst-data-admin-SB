@@ -1,0 +1,64 @@
+{
+  "id": 1260197753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"156.84255,-8.09274,156.84255,-8.09274",
+    "geom:latitude":-8.09274,
+    "geom:longitude":156.84255,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Logha",
+    "gn:country_code":"SB",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2106815,
+    "gn:latitude":-8.09274,
+    "gn:longitude":156.84255,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Logha",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106815
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"8c85e59f670025e504b90b7eb8300fd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1260197753,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260197753,
+    "wof:lastmodified":1536827286,
+    "wof:name":"Logha",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    156.84255,
+    -8.09274,
+    156.84255,
+    -8.09274
+],
+  "geometry": {"coordinates":[156.84254999999999,-8.09274],"type":"Point"}
+}

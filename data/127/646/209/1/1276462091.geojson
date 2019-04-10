@@ -1,0 +1,65 @@
+{
+  "id": 1276462091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.49334,-9.64647,161.49334,-9.64647",
+    "geom:latitude":-9.64647,
+    "geom:longitude":161.49334,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Waihii",
+    "gn:country_code":"SB",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101699,
+    "gn:latitude":-9.64647,
+    "gn:longitude":161.49334,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Waihii",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101699
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"bf5ddb4e3092edd34268f1e30226e286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1276462091,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1276462091,
+    "wof:lastmodified":1536603136,
+    "wof:name":"Waihii",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.49334,
+    -9.64647,
+    161.49334,
+    -9.64647
+],
+  "geometry": {"coordinates":[161.49333999999999,-9.64647],"type":"Point"}
+}

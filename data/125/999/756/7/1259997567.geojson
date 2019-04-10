@@ -1,0 +1,65 @@
+{
+  "id": 1259997567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.73333,-9.66667,159.73333,-9.66667",
+    "geom:latitude":-9.66667,
+    "geom:longitude":159.73333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Komukomu",
+    "gn:country_code":"SB",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107407,
+    "gn:latitude":-9.66667,
+    "gn:longitude":159.73333,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Komukomu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107407
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"5575ab7be2bb6a06305f6a5215d0acdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1259997567,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1259997567,
+    "wof:lastmodified":1536612366,
+    "wof:name":"Komukomu",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.73333,
+    -9.66667,
+    159.73333,
+    -9.66667
+],
+  "geometry": {"coordinates":[159.73333,-9.66667],"type":"Point"}
+}

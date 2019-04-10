@@ -1,0 +1,65 @@
+{
+  "id": 1260192865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.06928,-8.94512,161.06928,-8.94512",
+    "geom:latitude":-8.94512,
+    "geom:longitude":161.06928,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nggwaloa",
+    "gn:country_code":"SB",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105008,
+    "gn:latitude":-8.94512,
+    "gn:longitude":161.06928,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Nggwaloa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105008
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"96a5ada40fc41e543b26df887311a0eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1260192865,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1260192865,
+    "wof:lastmodified":1536833971,
+    "wof:name":"Nggwaloa",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.06928,
+    -8.94512,
+    161.06928,
+    -8.94512
+],
+  "geometry": {"coordinates":[161.06927999999999,-8.94512],"type":"Point"}
+}

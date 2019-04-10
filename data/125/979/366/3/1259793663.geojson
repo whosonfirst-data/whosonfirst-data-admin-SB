@@ -1,0 +1,65 @@
+{
+  "id": 1259793663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.70957,-8.73599,160.70957,-8.73599",
+    "geom:latitude":-8.73599,
+    "geom:longitude":160.70957,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Gwaidae'dae",
+    "gn:country_code":"SB",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108818,
+    "gn:latitude":-8.73599,
+    "gn:longitude":160.70957,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Gwaidae\u2019dae",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108818
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"1cda8b6e2b8d7b51626878152f6935f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1259793663,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1259793663,
+    "wof:lastmodified":1536908707,
+    "wof:name":"Gwaidae'dae",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.70957,
+    -8.73599,
+    160.70957,
+    -8.73599
+],
+  "geometry": {"coordinates":[160.70957000000001,-8.73599],"type":"Point"}
+}

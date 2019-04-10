@@ -1,0 +1,65 @@
+{
+  "id": 1225863187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.39882,-9.81272,160.39882,-9.81272",
+    "geom:latitude":-9.81272,
+    "geom:longitude":160.39882,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nggunggu",
+    "gn:country_code":"SB",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2105018,
+    "gn:latitude":-9.81272,
+    "gn:longitude":160.39882,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Nggunggu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105018
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"f49638824f358f6cdf2a4edf29f07edc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1225863187,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1225863187,
+    "wof:lastmodified":1536987714,
+    "wof:name":"Nggunggu",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.39882,
+    -9.81272,
+    160.39882,
+    -9.81272
+],
+  "geometry": {"coordinates":[160.39882,-9.81272],"type":"Point"}
+}

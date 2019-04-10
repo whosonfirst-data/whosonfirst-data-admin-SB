@@ -1,0 +1,65 @@
+{
+  "id": 1242695971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.15476,-9.65164,160.15476,-9.65164",
+    "geom:latitude":-9.65164,
+    "geom:longitude":160.15476,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Rerere",
+    "gn:country_code":"SB",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2103939,
+    "gn:latitude":-9.65164,
+    "gn:longitude":160.15476,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Rerere",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2103939
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"40d3854ad9dc0c77953f1e799e3670b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1242695971,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1242695971,
+    "wof:lastmodified":1536892979,
+    "wof:name":"Rerere",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.15476,
+    -9.65164,
+    160.15476,
+    -9.65164
+],
+  "geometry": {"coordinates":[160.15476000000001,-9.65164],"type":"Point"}
+}

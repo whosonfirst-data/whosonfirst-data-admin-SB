@@ -1,0 +1,61 @@
+{
+  "id": 1326539857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.57639,-9.66942,161.57639,-9.66942",
+    "geom:latitude":-9.66942,
+    "geom:longitude":161.57639,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"A'ulupeine",
+    "gn:country_code":"SB",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109695,
+    "gn:latitude":-9.66942,
+    "gn:longitude":161.57639,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"A\u2019ulupeine",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109695
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"cccc5c494f3f762db9aeac77ecaf0288",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1326539857,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326539857,
+    "wof:lastmodified":1536972539,
+    "wof:name":"A'ulupeine",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.57639,
+    -9.66942,
+    161.57639,
+    -9.66942
+],
+  "geometry": {"coordinates":[161.57639,-9.66942],"type":"Point"}
+}

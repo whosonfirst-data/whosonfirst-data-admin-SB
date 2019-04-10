@@ -1,0 +1,68 @@
+{
+  "id": 1293010825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"165.93333,-10.66667,165.93333,-10.66667",
+    "geom:latitude":-10.66667,
+    "geom:longitude":165.93333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lueselemba",
+    "gn:country_code":"SB",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178741,
+    "gn:latitude":-10.66667,
+    "gn:longitude":165.93333,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Lueselemba",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lausalemba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178741
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"223b507efcc782d11280f2ccfefb383c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1293010825,
+            "region_id":85677099
+        }
+    ],
+    "wof:id":1293010825,
+    "wof:lastmodified":1537699394,
+    "wof:name":"Lueselemba",
+    "wof:parent_id":85677099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    165.93333,
+    -10.66667,
+    165.93333,
+    -10.66667
+],
+  "geometry": {"coordinates":[165.93333000000001,-10.66667],"type":"Point"}
+}

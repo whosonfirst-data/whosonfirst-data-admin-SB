@@ -1,0 +1,68 @@
+{
+  "id": 1327343687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.70088,-9.25235,159.70088,-9.25235",
+    "geom:latitude":-9.25235,
+    "geom:longitude":159.70088,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Savaolu",
+    "gn:country_code":"SB",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2103592,
+    "gn:latitude":-9.25235,
+    "gn:longitude":159.70088,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Savaolu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uclava",
+        "Savaolu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2103592
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"0f7911a5484504406c97ca577e022fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1327343687,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327343687,
+    "wof:lastmodified":1537699356,
+    "wof:name":"Savaolu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.70088,
+    -9.25235,
+    159.70088,
+    -9.25235
+],
+  "geometry": {"coordinates":[159.70088000000001,-9.25235],"type":"Point"}
+}

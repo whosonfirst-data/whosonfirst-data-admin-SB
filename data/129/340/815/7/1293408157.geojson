@@ -1,0 +1,64 @@
+{
+  "id": 1293408157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.83886,-9.83932,160.83886,-9.83932",
+    "geom:latitude":-9.83932,
+    "geom:longitude":160.83886,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kakaru",
+    "gn:country_code":"SB",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108172,
+    "gn:latitude":-9.83932,
+    "gn:longitude":160.83886,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Kakaru",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108172
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"837e90cfb5aa6a5316ae685a82274fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1293408157,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293408157,
+    "wof:lastmodified":1536901492,
+    "wof:name":"Kakaru",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.83886,
+    -9.83932,
+    160.83886,
+    -9.83932
+],
+  "geometry": {"coordinates":[160.83886000000001,-9.83932],"type":"Point"}
+}

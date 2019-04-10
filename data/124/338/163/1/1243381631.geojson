@@ -1,0 +1,61 @@
+{
+  "id": 1243381631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.31005,-10.25249,166.31005,-10.25249",
+    "geom:latitude":-10.25249,
+    "geom:longitude":166.31005,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ngananumala",
+    "gn:country_code":"SB",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8553918,
+    "gn:latitude":-10.25249,
+    "gn:longitude":166.31005,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Ngananumala",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8553918
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"acc9143c86aeec16964165fd5bfbe38a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243381631,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243381631,
+    "wof:lastmodified":1536899043,
+    "wof:name":"Ngananumala",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.31005,
+    -10.25249,
+    166.31005,
+    -10.25249
+],
+  "geometry": {"coordinates":[166.31004999999999,-10.25249],"type":"Point"}
+}

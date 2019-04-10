@@ -1,0 +1,69 @@
+{
+  "id": 1243182371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.23762,-9.80902,160.23762,-9.80902",
+    "geom:latitude":-9.80902,
+    "geom:longitude":160.23762,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Charanggao",
+    "gn:country_code":"SB",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109464,
+    "gn:latitude":-9.80902,
+    "gn:longitude":160.23762,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Charanggao",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karivasa",
+        "Charanggao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109464
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"9f864f13ed39997e327f00150071ed93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1243182371,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1243182371,
+    "wof:lastmodified":1537699387,
+    "wof:name":"Charanggao",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.23762,
+    -9.80902,
+    160.23762,
+    -9.80902
+],
+  "geometry": {"coordinates":[160.23761999999999,-9.80902],"type":"Point"}
+}

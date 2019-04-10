@@ -1,0 +1,65 @@
+{
+  "id": 1225859539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"157.11474,-8.29324,157.11474,-8.29324",
+    "geom:latitude":-8.29324,
+    "geom:longitude":157.11474,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mbuni",
+    "gn:country_code":"SB",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105730,
+    "gn:latitude":-8.29324,
+    "gn:longitude":157.11474,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Mbuni",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105730
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"d0c8eb1b4014d5f2028a0c34972b4d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1225859539,
+            "region_id":85677103
+        }
+    ],
+    "wof:id":1225859539,
+    "wof:lastmodified":1536992884,
+    "wof:name":"Mbuni",
+    "wof:parent_id":85677103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    157.11473999999995,
+    -8.29324,
+    157.11473999999995,
+    -8.29324
+],
+  "geometry": {"coordinates":[157.11473999999995,-8.29324],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1309915781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.48773,-11.27515,166.48773,-11.27515",
+    "geom:latitude":-11.27515,
+    "geom:longitude":166.48773,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Amba",
+    "gn:country_code":"SB",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178879,
+    "gn:latitude":-11.27515,
+    "gn:longitude":166.48773,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Amba",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178879
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"1a8ae13c2d70679d1895575a74f4ede7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1309915781,
+            "region_id":85677099
+        }
+    ],
+    "wof:id":1309915781,
+    "wof:lastmodified":1536773100,
+    "wof:name":"Amba",
+    "wof:parent_id":85677099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.48773,
+    -11.27515,
+    166.48773,
+    -11.27515
+],
+  "geometry": {"coordinates":[166.48773,-11.27515],"type":"Point"}
+}

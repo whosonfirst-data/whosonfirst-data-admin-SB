@@ -1,0 +1,64 @@
+{
+  "id": 1242688069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.81667,-11.68333,166.81667,-11.68333",
+    "geom:latitude":-11.68333,
+    "geom:longitude":166.81667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ngambe (Ambi)",
+    "gn:country_code":"SB",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178878,
+    "gn:latitude":-11.68333,
+    "gn:longitude":166.81667,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Ngambe (Ambi)",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178878
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"1ae4cf4819db03a6ea4c0b825bd50944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1242688069,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242688069,
+    "wof:lastmodified":1536904755,
+    "wof:name":"Ngambe (Ambi)",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.81667,
+    -11.68333,
+    166.81667,
+    -11.68333
+],
+  "geometry": {"coordinates":[166.81666999999999,-11.68333],"type":"Point"}
+}

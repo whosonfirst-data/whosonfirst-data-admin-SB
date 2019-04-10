@@ -1,0 +1,65 @@
+{
+  "id": 1343377351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.15881,-9.56472,160.15881,-9.56472",
+    "geom:latitude":-9.56472,
+    "geom:longitude":160.15881,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Old Case",
+    "gn:country_code":"SB",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2104717,
+    "gn:latitude":-9.56472,
+    "gn:longitude":160.15881,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Old Case",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104717
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"6c73b3547a3a40faa666cdb9af416309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1343377351,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1343377351,
+    "wof:lastmodified":1536864793,
+    "wof:name":"Old Case",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.15881000000005,
+    -9.56472,
+    160.15881000000005,
+    -9.56472
+],
+  "geometry": {"coordinates":[160.15881000000005,-9.56472],"type":"Point"}
+}

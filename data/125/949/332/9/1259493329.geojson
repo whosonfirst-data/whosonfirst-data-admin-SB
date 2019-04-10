@@ -1,0 +1,65 @@
+{
+  "id": 1259493329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.038,-9.28605,161.038,-9.28605",
+    "geom:latitude":-9.28605,
+    "geom:longitude":161.038,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Haa'apu",
+    "gn:country_code":"SB",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108797,
+    "gn:latitude":-9.28605,
+    "gn:longitude":161.038,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Haa\u2019apu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108797
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"ac8c0e25864ef44e6879cfc71e838f36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1259493329,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1259493329,
+    "wof:lastmodified":1536843498,
+    "wof:name":"Haa'apu",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.03799999999995,
+    -9.28605,
+    161.03799999999995,
+    -9.28605
+],
+  "geometry": {"coordinates":[161.03799999999995,-9.28605],"type":"Point"}
+}

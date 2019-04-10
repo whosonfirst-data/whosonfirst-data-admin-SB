@@ -1,0 +1,69 @@
+{
+  "id": 1293400105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.54298,-10.27847,161.54298,-10.27847",
+    "geom:latitude":-10.27847,
+    "geom:longitude":161.54298,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Etemwarore",
+    "gn:country_code":"SB",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2178826,
+    "gn:latitude":-10.27847,
+    "gn:longitude":161.54298,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Etemwarore",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Etamarorai",
+        "Etemwarore"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178826
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"a141e16dc5b61fa697d6e53a69bbdd2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1293400105,
+            "region_id":85677109
+        }
+    ],
+    "wof:id":1293400105,
+    "wof:lastmodified":1537699395,
+    "wof:name":"Etemwarore",
+    "wof:parent_id":85677109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.54298,
+    -10.27847,
+    161.54298,
+    -10.27847
+],
+  "geometry": {"coordinates":[161.54298,-10.27847],"type":"Point"}
+}

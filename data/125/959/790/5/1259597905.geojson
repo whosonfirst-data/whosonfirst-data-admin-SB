@@ -1,0 +1,69 @@
+{
+  "id": 1259597905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"162.05412,-10.48308,162.05412,-10.48308",
+    "geom:latitude":-10.48308,
+    "geom:longitude":162.05412,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Werobungia",
+    "gn:country_code":"SB",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178394,
+    "gn:latitude":-10.48308,
+    "gn:longitude":162.05412,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Werobungia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Verabuni",
+        "Werobungia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178394
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"67a7a887c99bfeef6661e0ce18bf3307",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1259597905,
+            "region_id":85677109
+        }
+    ],
+    "wof:id":1259597905,
+    "wof:lastmodified":1537699389,
+    "wof:name":"Werobungia",
+    "wof:parent_id":85677109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    162.05411999999995,
+    -10.48308,
+    162.05411999999995,
+    -10.48308
+],
+  "geometry": {"coordinates":[162.05411999999995,-10.48308],"type":"Point"}
+}

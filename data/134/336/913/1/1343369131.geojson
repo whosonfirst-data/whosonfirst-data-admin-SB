@@ -1,0 +1,65 @@
+{
+  "id": 1343369131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.63586,-9.28488,159.63586,-9.28488",
+    "geom:latitude":-9.28488,
+    "geom:longitude":159.63586,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Maravovo",
+    "gn:country_code":"SB",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2106317,
+    "gn:latitude":-9.28488,
+    "gn:longitude":159.63586,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Maravovo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106317,
+        "wk:page":"Maravovo"
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"b31c9c1d73e0c4d280458a205b39f139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1343369131,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343369131,
+    "wof:lastmodified":1537573273,
+    "wof:name":"Maravovo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.63586,
+    -9.28488,
+    159.63586,
+    -9.28488
+],
+  "geometry": {"coordinates":[159.63586000000001,-9.28488],"type":"Point"}
+}

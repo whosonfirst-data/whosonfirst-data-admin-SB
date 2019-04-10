@@ -1,0 +1,66 @@
+{
+  "id": 1209530519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.11217,-9.17253,161.11217,-9.17253",
+    "geom:latitude":-9.17253,
+    "geom:longitude":161.11217,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Oiniha'a",
+    "gn:country_code":"SB",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2104745,
+    "gn:latitude":-9.17253,
+    "gn:longitude":161.11217,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Oiniha\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oinihari",
+        "Oiniha\u2019a",
+        "Ainiha\u2019a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104745
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"0182e927c331ae96ea534f61b16334f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209530519
+        }
+    ],
+    "wof:id":1209530519,
+    "wof:lastmodified":1537699361,
+    "wof:name":"Oiniha'a",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.11217,
+    -9.17253,
+    161.11217,
+    -9.17253
+],
+  "geometry": {"coordinates":[161.11216999999999,-9.17253],"type":"Point"}
+}

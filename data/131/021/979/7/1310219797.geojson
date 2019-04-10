@@ -1,0 +1,65 @@
+{
+  "id": 1310219797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.64709,-8.19292,159.64709,-8.19292",
+    "geom:latitude":-8.19292,
+    "geom:longitude":159.64709,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Hofi",
+    "gn:country_code":"SB",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108533,
+    "gn:latitude":-8.19292,
+    "gn:longitude":159.64709,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Hofi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108533
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"4a8585a780fc6551aafe329333abd91b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1310219797,
+            "region_id":85677095
+        }
+    ],
+    "wof:id":1310219797,
+    "wof:lastmodified":1536830584,
+    "wof:name":"Hofi",
+    "wof:parent_id":85677095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.64709,
+    -8.19292,
+    159.64709,
+    -8.19292
+],
+  "geometry": {"coordinates":[159.64708999999999,-8.19292],"type":"Point"}
+}

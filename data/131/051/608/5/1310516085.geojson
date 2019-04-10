@@ -1,0 +1,64 @@
+{
+  "id": 1310516085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.58333,-8.33333,160.58333,-8.33333",
+    "geom:latitude":-8.33333,
+    "geom:longitude":160.58333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Takaniano",
+    "gn:country_code":"SB",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2103064,
+    "gn:latitude":-8.33333,
+    "gn:longitude":160.58333,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Takaniano",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2103064
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"97ff44c9693bab238af4e290c642d561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1310516085,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310516085,
+    "wof:lastmodified":1536901624,
+    "wof:name":"Takaniano",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.58333000000005,
+    -8.33333,
+    160.58333000000005,
+    -8.33333
+],
+  "geometry": {"coordinates":[160.58333000000005,-8.33333],"type":"Point"}
+}

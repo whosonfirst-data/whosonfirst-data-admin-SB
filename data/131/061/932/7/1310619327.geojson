@@ -1,0 +1,61 @@
+{
+  "id": 1310619327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.98976,-9.72746,161.98976,-9.72746",
+    "geom:latitude":-9.72746,
+    "geom:longitude":161.98976,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Moli",
+    "gn:country_code":"SB",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105631,
+    "gn:latitude":-9.72746,
+    "gn:longitude":161.98976,
+    "gn:modification_date":"2015-04-11",
+    "gn:name":"Moli",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105631
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"cbcac26ce0946beebb4e53057e38d289",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310619327,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310619327,
+    "wof:lastmodified":1536752709,
+    "wof:name":"Moli",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.98976000000005,
+    -9.72746,
+    161.98976000000005,
+    -9.72746
+],
+  "geometry": {"coordinates":[161.98976000000005,-9.72746],"type":"Point"}
+}

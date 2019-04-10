@@ -1,0 +1,65 @@
+{
+  "id": 1260201669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.79242,-8.3695,160.79242,-8.3695",
+    "geom:latitude":-8.3695,
+    "geom:longitude":160.79242,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Takwa",
+    "gn:country_code":"SB",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2103035,
+    "gn:latitude":-8.3695,
+    "gn:longitude":160.79242,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Takwa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2103035
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"d517a3c03b020104a0a93b566687e730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1260201669,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1260201669,
+    "wof:lastmodified":1536822130,
+    "wof:name":"Takwa",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.79242,
+    -8.3695,
+    160.79242,
+    -8.3695
+],
+  "geometry": {"coordinates":[160.79241999999999,-8.3695],"type":"Point"}
+}

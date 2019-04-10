@@ -1,0 +1,66 @@
+{
+  "id": 1343575823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.25,-10.31667,166.25,-10.31667",
+    "geom:latitude":-10.31667,
+    "geom:longitude":166.25,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nenbo",
+    "gn:cc2":"SB",
+    "gn:country_code":"SB",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178598,
+    "gn:latitude":-10.31667,
+    "gn:longitude":166.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nenbo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Namom Blou",
+        "Nenbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178598
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"64b09073af6a86b6460614a409d02ca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343575823,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343575823,
+    "wof:lastmodified":1537699391,
+    "wof:name":"Nenbo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.25,
+    -10.31667,
+    166.25,
+    -10.31667
+],
+  "geometry": {"coordinates":[166.25,-10.31667],"type":"Point"}
+}

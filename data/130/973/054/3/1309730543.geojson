@@ -1,0 +1,65 @@
+{
+  "id": 1309730543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.28333,-9.36667,161.28333,-9.36667",
+    "geom:latitude":-9.36667,
+    "geom:longitude":161.28333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Oteiora",
+    "gn:country_code":"SB",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2104605,
+    "gn:latitude":-9.36667,
+    "gn:longitude":161.28333,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Oteiora",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104605
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"2ae6013634a8ae91458d478cac6cbeda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1309730543,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1309730543,
+    "wof:lastmodified":1537037938,
+    "wof:name":"Oteiora",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.28333,
+    -9.36667,
+    161.28333,
+    -9.36667
+],
+  "geometry": {"coordinates":[161.28333000000001,-9.36667],"type":"Point"}
+}

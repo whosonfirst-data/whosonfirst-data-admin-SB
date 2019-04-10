@@ -1,0 +1,68 @@
+{
+  "id": 1276354623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"162.01508,-10.79035,162.01508,-10.79035",
+    "geom:latitude":-10.79035,
+    "geom:longitude":162.01508,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Maraoni",
+    "gn:country_code":"SB",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178688,
+    "gn:latitude":-10.79035,
+    "gn:longitude":162.01508,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Maraoni",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marauni",
+        "Maraoni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178688
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"5b5ea0a5845963630c9a420898da111c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1276354623,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276354623,
+    "wof:lastmodified":1537699393,
+    "wof:name":"Maraoni",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    162.01508,
+    -10.79035,
+    162.01508,
+    -10.79035
+],
+  "geometry": {"coordinates":[162.01508000000001,-10.79035],"type":"Point"}
+}

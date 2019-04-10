@@ -1,0 +1,65 @@
+{
+  "id": 1225954273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.25,-10.26667,166.25,-10.26667",
+    "geom:latitude":-10.26667,
+    "geom:longitude":166.25,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Namania",
+    "gn:country_code":"SB",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178638,
+    "gn:latitude":-10.26667,
+    "gn:longitude":166.25,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Namania",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178638
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"ced2e0eaebc8cecb96ae4ad4f14f7b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1225954273,
+            "region_id":85677099
+        }
+    ],
+    "wof:id":1225954273,
+    "wof:lastmodified":1536855695,
+    "wof:name":"Namania",
+    "wof:parent_id":85677099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.25,
+    -10.26667,
+    166.25,
+    -10.26667
+],
+  "geometry": {"coordinates":[166.25,-10.26667],"type":"Point"}
+}

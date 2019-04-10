@@ -1,0 +1,61 @@
+{
+  "id": 1209633331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.02313,-9.2494,161.02313,-9.2494",
+    "geom:latitude":-9.2494,
+    "geom:longitude":161.02313,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Houri",
+    "gn:country_code":"SB",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108442,
+    "gn:latitude":-9.2494,
+    "gn:longitude":161.02313,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Houri",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108442
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"e2b3df7dd7d0bb80a654f9abeec22185",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209633331
+        }
+    ],
+    "wof:id":1209633331,
+    "wof:lastmodified":1536281121,
+    "wof:name":"Houri",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.02313,
+    -9.2494,
+    161.02313,
+    -9.2494
+],
+  "geometry": {"coordinates":[161.02313000000001,-9.2494],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1193025985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"158.02685,-8.75418,158.02685,-8.75418",
+    "geom:latitude":-8.75418,
+    "geom:longitude":158.02685,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Vura",
+    "gn:country_code":"SB",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101772,
+    "gn:latitude":-8.75418,
+    "gn:longitude":158.02685,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Vura",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101772
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"4f9c709bd7961b32b4e30382b68dd56f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1193025985,
+            "region_id":85677103
+        }
+    ],
+    "wof:id":1193025985,
+    "wof:lastmodified":1536367841,
+    "wof:name":"Vura",
+    "wof:parent_id":85677103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.02685,
+    -8.75418,
+    158.02685,
+    -8.75418
+],
+  "geometry": {"coordinates":[158.02685,-8.75418],"type":"Point"}
+}

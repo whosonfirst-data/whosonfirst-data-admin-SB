@@ -1,0 +1,65 @@
+{
+  "id": 1327048429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"155.85995,-7.0526,155.85995,-7.0526",
+    "geom:latitude":-7.0526,
+    "geom:longitude":155.85995,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Harehare",
+    "gn:country_code":"SB",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108667,
+    "gn:latitude":-7.0526,
+    "gn:longitude":155.85995,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Harehare",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108667
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"f25232d1a7151db8dad2665222e8e466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1327048429,
+            "region_id":85677103
+        }
+    ],
+    "wof:id":1327048429,
+    "wof:lastmodified":1536737287,
+    "wof:name":"Harehare",
+    "wof:parent_id":85677103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    155.85995,
+    -7.0526,
+    155.85995,
+    -7.0526
+],
+  "geometry": {"coordinates":[155.85995,-7.0526],"type":"Point"}
+}

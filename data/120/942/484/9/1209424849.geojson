@@ -1,0 +1,61 @@
+{
+  "id": 1209424849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.65393,-10.61452,161.65393,-10.61452",
+    "geom:latitude":-10.61452,
+    "geom:longitude":161.65393,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Maroghu",
+    "gn:country_code":"SB",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178685,
+    "gn:latitude":-10.61452,
+    "gn:longitude":161.65393,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Maroghu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178685
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"e4e0697e444976ffa7dbc29cdd1c713e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209424849
+        }
+    ],
+    "wof:id":1209424849,
+    "wof:lastmodified":1536287413,
+    "wof:name":"Maroghu",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.65393,
+    -10.61452,
+    161.65393,
+    -10.61452
+],
+  "geometry": {"coordinates":[161.65393,-10.61452],"type":"Point"}
+}

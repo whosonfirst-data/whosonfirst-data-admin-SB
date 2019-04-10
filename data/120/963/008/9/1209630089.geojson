@@ -1,0 +1,61 @@
+{
+  "id": 1209630089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.08333,-9.26667,161.08333,-9.26667",
+    "geom:latitude":-9.26667,
+    "geom:longitude":161.08333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Herani'asuhe",
+    "gn:country_code":"SB",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2108589,
+    "gn:latitude":-9.26667,
+    "gn:longitude":161.08333,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Herani\u2019asuhe",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108589
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"06c0055fd97571d046364d50eb070b77",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209630089
+        }
+    ],
+    "wof:id":1209630089,
+    "wof:lastmodified":1536281218,
+    "wof:name":"Herani'asuhe",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.08333000000005,
+    -9.26667,
+    161.08333000000005,
+    -9.26667
+],
+  "geometry": {"coordinates":[161.08333000000005,-9.26667],"type":"Point"}
+}

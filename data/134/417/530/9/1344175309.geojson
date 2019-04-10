@@ -1,0 +1,65 @@
+{
+  "id": 1344175309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.54374,-8.21039,159.54374,-8.21039",
+    "geom:latitude":-8.21039,
+    "geom:longitude":159.54374,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kakatio",
+    "gn:country_code":"SB",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2108168,
+    "gn:latitude":-8.21039,
+    "gn:longitude":159.54374,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Kakatio",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108168
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"f98b0fbcd1980ee1d7346d21991738e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1344175309,
+            "region_id":85677095
+        }
+    ],
+    "wof:id":1344175309,
+    "wof:lastmodified":1536710155,
+    "wof:name":"Kakatio",
+    "wof:parent_id":85677095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.54374,
+    -8.21039,
+    159.54374,
+    -8.21039
+],
+  "geometry": {"coordinates":[159.54374000000001,-8.21039],"type":"Point"}
+}

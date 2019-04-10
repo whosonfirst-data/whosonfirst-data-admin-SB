@@ -1,0 +1,67 @@
+{
+  "id": 1209525409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.59894,-9.34661,159.59894,-9.34661",
+    "geom:latitude":-9.34661,
+    "geom:longitude":159.59894,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Verahue",
+    "gn:country_code":"SB",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101956,
+    "gn:latitude":-9.34661,
+    "gn:longitude":159.59894,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Verahue",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Varhui",
+        "Verahui",
+        "Verabue",
+        "Verahue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101956
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"089d7bcb6d4782ef14f7af7e423a40cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209525409
+        }
+    ],
+    "wof:id":1209525409,
+    "wof:lastmodified":1537699349,
+    "wof:name":"Verahue",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.59894,
+    -9.34661,
+    159.59894,
+    -9.34661
+],
+  "geometry": {"coordinates":[159.59894,-9.34661],"type":"Point"}
+}

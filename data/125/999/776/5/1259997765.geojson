@@ -1,0 +1,65 @@
+{
+  "id": 1259997765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.7648,-10.70476,161.7648,-10.70476",
+    "geom:latitude":-10.70476,
+    "geom:longitude":161.7648,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Paregho",
+    "gn:country_code":"SB",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440714,
+    "gn:latitude":-10.70476,
+    "gn:longitude":161.7648,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Paregho",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440714
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"0bba5c14cbc8a758bdab1554aa9d4c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1259997765,
+            "region_id":85677109
+        }
+    ],
+    "wof:id":1259997765,
+    "wof:lastmodified":1536612061,
+    "wof:name":"Paregho",
+    "wof:parent_id":85677109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.7648,
+    -10.70476,
+    161.7648,
+    -10.70476
+],
+  "geometry": {"coordinates":[161.76480000000001,-10.70476],"type":"Point"}
+}

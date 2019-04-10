@@ -1,0 +1,65 @@
+{
+  "id": 1360199123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.0802,-9.15853,161.0802,-9.15853",
+    "geom:latitude":-9.15853,
+    "geom:longitude":161.0802,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Oirousu",
+    "gn:country_code":"SB",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2104732,
+    "gn:latitude":-9.15853,
+    "gn:longitude":161.0802,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Oirousu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104732
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"2fb67469fce73401fa8cd00281eb1f16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1360199123,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1360199123,
+    "wof:lastmodified":1536781569,
+    "wof:name":"Oirousu",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.0802,
+    -9.15853,
+    161.0802,
+    -9.15853
+],
+  "geometry": {"coordinates":[161.08019999999999,-9.15853],"type":"Point"}
+}

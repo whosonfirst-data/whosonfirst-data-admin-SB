@@ -1,0 +1,65 @@
+{
+  "id": 1344067153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.18333,-9.45,160.18333,-9.45",
+    "geom:latitude":-9.45,
+    "geom:longitude":160.18333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kokomu",
+    "gn:country_code":"SB",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107717,
+    "gn:latitude":-9.45,
+    "gn:longitude":160.18333,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Kokomu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107717
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"47e787aa5002b9d2a76fea56a394a49f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1344067153,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1344067153,
+    "wof:lastmodified":1536864485,
+    "wof:name":"Kokomu",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.18333,
+    -9.45,
+    160.18333,
+    -9.45
+],
+  "geometry": {"coordinates":[160.18333000000001,-9.45],"type":"Point"}
+}

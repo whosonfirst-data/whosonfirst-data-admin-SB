@@ -1,0 +1,65 @@
+{
+  "id": 1209733687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.64956,-9.80508,160.64956,-9.80508",
+    "geom:latitude":-9.80508,
+    "geom:longitude":160.64956,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Na Pono",
+    "gn:country_code":"SB",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105358,
+    "gn:latitude":-9.80508,
+    "gn:longitude":160.64956,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Na Pono",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105358
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"ef3c1fc27f6962a89a088f221941a686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1209733687,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1209733687,
+    "wof:lastmodified":1536375978,
+    "wof:name":"Na Pono",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.64956,
+    -9.80508,
+    160.64956,
+    -9.80508
+],
+  "geometry": {"coordinates":[160.64956000000001,-9.80508],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1360203383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.72781,-10.2993,161.72781,-10.2993",
+    "geom:latitude":-10.2993,
+    "geom:longitude":161.72781,
+    "gn:asciiname":"Su'uasi Village",
+    "gn:country_code":"SB",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9794245,
+    "gn:latitude":-10.2993,
+    "gn:longitude":161.72781,
+    "gn:modification_date":"2014-10-29",
+    "gn:name":"Su'uasi Village",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9794245
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"327ab62c7114701aedbda60d14b698a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1360203383,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360203383,
+    "wof:lastmodified":1536775643,
+    "wof:name":"Su'uasi Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.72781,
+    -10.2993,
+    161.72781,
+    -10.2993
+],
+  "geometry": {"coordinates":[161.72781000000001,-10.2993],"type":"Point"}
+}

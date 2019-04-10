@@ -1,0 +1,65 @@
+{
+  "id": 1327246095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.81667,-8.95,160.81667,-8.95",
+    "geom:latitude":-8.95,
+    "geom:longitude":160.81667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Buma",
+    "gn:country_code":"SB",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109518,
+    "gn:latitude":-8.95,
+    "gn:longitude":160.81667,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Buma",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109518
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"f0632c30ba301aa31ce310fa6cb53387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1327246095,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1327246095,
+    "wof:lastmodified":1536949941,
+    "wof:name":"Buma",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.81667,
+    -8.95,
+    160.81667,
+    -8.95
+],
+  "geometry": {"coordinates":[160.81666999999999,-8.95],"type":"Point"}
+}

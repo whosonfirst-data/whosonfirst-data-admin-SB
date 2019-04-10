@@ -1,0 +1,64 @@
+{
+  "id": 1343780119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.55,-8.11667,159.55,-8.11667",
+    "geom:latitude":-8.11667,
+    "geom:longitude":159.55,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Guguha",
+    "gn:country_code":"SB",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2108829,
+    "gn:latitude":-8.11667,
+    "gn:longitude":159.55,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Guguha",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108829
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"6c093e47dab17b4608d72f7866b90d89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1343780119,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343780119,
+    "wof:lastmodified":1536783109,
+    "wof:name":"Guguha",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.55,
+    -8.11667,
+    159.55,
+    -8.11667
+],
+  "geometry": {"coordinates":[159.55000000000001,-8.11667],"type":"Point"}
+}

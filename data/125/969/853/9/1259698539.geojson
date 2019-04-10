@@ -1,0 +1,65 @@
+{
+  "id": 1259698539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.91667,-8.53333,160.91667,-8.53333",
+    "geom:latitude":-8.53333,
+    "geom:longitude":160.91667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Daringali",
+    "gn:country_code":"SB",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109291,
+    "gn:latitude":-8.53333,
+    "gn:longitude":160.91667,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Daringali",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109291
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"8d78eecc7fbabf0e2ec92b1782678610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1259698539,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1259698539,
+    "wof:lastmodified":1537043461,
+    "wof:name":"Daringali",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.91666999999995,
+    -8.53333,
+    160.91666999999995,
+    -8.53333
+],
+  "geometry": {"coordinates":[160.91666999999995,-8.53333],"type":"Point"}
+}

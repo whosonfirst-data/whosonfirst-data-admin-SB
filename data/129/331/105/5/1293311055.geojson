@@ -1,0 +1,69 @@
+{
+  "id": 1293311055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.12149,-9.81611,160.12149,-9.81611",
+    "geom:latitude":-9.81611,
+    "geom:longitude":160.12149,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Vatukulau",
+    "gn:country_code":"SB",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2102047,
+    "gn:latitude":-9.81611,
+    "gn:longitude":160.12149,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vatukulau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vatakulau",
+        "Vatukulau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2102047
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"e90f1f6efa234bf7e96de6cb53fea7f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1293311055,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1293311055,
+    "wof:lastmodified":1537699350,
+    "wof:name":"Vatukulau",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.12149,
+    -9.81611,
+    160.12149,
+    -9.81611
+],
+  "geometry": {"coordinates":[160.12148999999999,-9.81611],"type":"Point"}
+}

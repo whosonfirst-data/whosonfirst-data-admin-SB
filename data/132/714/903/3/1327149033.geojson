@@ -1,0 +1,61 @@
+{
+  "id": 1327149033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.2,-9.08333,161.2,-9.08333",
+    "geom:latitude":-9.08333,
+    "geom:longitude":161.2,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Hou'ao",
+    "gn:country_code":"SB",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108468,
+    "gn:latitude":-9.08333,
+    "gn:longitude":161.2,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Hou\u2019ao",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108468
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"f987de314de2dc1bcc8371401a7872d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327149033,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327149033,
+    "wof:lastmodified":1537086689,
+    "wof:name":"Hou'ao",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.2,
+    -9.08333,
+    161.2,
+    -9.08333
+],
+  "geometry": {"coordinates":[161.19999999999999,-9.08333],"type":"Point"}
+}

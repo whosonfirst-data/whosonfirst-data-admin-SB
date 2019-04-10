@@ -1,0 +1,65 @@
+{
+  "id": 1226360765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.00387,-9.24513,161.00387,-9.24513",
+    "geom:latitude":-9.24513,
+    "geom:longitude":161.00387,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"One",
+    "gn:country_code":"SB",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2104676,
+    "gn:latitude":-9.24513,
+    "gn:longitude":161.00387,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"One",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104676
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"da1fb6a81923c539a4ff47b33e969595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1226360765,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1226360765,
+    "wof:lastmodified":1536768347,
+    "wof:name":"One",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.00387,
+    -9.24513,
+    161.00387,
+    -9.24513
+],
+  "geometry": {"coordinates":[161.00387000000001,-9.24513],"type":"Point"}
+}

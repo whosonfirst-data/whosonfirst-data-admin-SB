@@ -1,0 +1,69 @@
+{
+  "id": 1310619317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.92502,-9.16987,160.92502,-9.16987",
+    "geom:latitude":-9.16987,
+    "geom:longitude":160.92502,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kwari'ekwa",
+    "gn:country_code":"SB",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107045,
+    "gn:latitude":-9.16987,
+    "gn:longitude":160.92502,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kwari\u2019ekwa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwapiekwa",
+        "Kwari\u2019ekwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107045
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"73b009aa9a5f7e96e7fe4900dd54fbcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1310619317,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1310619317,
+    "wof:lastmodified":1537699375,
+    "wof:name":"Kwari'ekwa",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.92502,
+    -9.16987,
+    160.92502,
+    -9.16987
+],
+  "geometry": {"coordinates":[160.92501999999999,-9.16987],"type":"Point"}
+}

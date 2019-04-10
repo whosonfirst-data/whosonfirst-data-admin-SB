@@ -1,0 +1,65 @@
+{
+  "id": 1309726913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"157.00193,-6.89223,157.00193,-6.89223",
+    "geom:latitude":-6.89223,
+    "geom:longitude":157.00193,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kandova",
+    "gn:country_code":"SB",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108102,
+    "gn:latitude":-6.89223,
+    "gn:longitude":157.00193,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Kandova",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108102
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"208bdeabe85b0a21bde97e1bf7acb786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1309726913,
+            "region_id":85677105
+        }
+    ],
+    "wof:id":1309726913,
+    "wof:lastmodified":1537042968,
+    "wof:name":"Kandova",
+    "wof:parent_id":85677105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    157.00193000000004,
+    -6.89223,
+    157.00193000000004,
+    -6.89223
+],
+  "geometry": {"coordinates":[157.00193000000004,-6.89223],"type":"Point"}
+}

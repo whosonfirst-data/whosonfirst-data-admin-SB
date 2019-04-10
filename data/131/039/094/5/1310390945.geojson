@@ -1,0 +1,69 @@
+{
+  "id": 1310390945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.733,-10.2205,161.733,-10.2205",
+    "geom:latitude":-10.2205,
+    "geom:longitude":161.733,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Su'ena",
+    "gn:country_code":"SB",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178500,
+    "gn:latitude":-10.2205,
+    "gn:longitude":161.733,
+    "gn:modification_date":"2014-10-29",
+    "gn:name":"Su\u2019ena",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suenna",
+        "Su\u2019ena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178500
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"6d9a9af7bd6d4582c023ade2d008554a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1310390945,
+            "region_id":85677109
+        }
+    ],
+    "wof:id":1310390945,
+    "wof:lastmodified":1537699390,
+    "wof:name":"Su'ena",
+    "wof:parent_id":85677109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.733,
+    -10.2205,
+    161.733,
+    -10.2205
+],
+  "geometry": {"coordinates":[161.733,-10.2205],"type":"Point"}
+}

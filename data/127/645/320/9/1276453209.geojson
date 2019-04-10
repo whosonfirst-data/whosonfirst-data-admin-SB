@@ -1,0 +1,68 @@
+{
+  "id": 1276453209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.52231,-9.90034,160.52231,-9.90034",
+    "geom:latitude":-9.90034,
+    "geom:longitude":160.52231,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mbelatasi",
+    "gn:country_code":"SB",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105996,
+    "gn:latitude":-9.90034,
+    "gn:longitude":160.52231,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mbelatasi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Belatasi",
+        "Mbelatasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105996
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"b9aa55eb09da87cd53f3a5751cdf9349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1276453209,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276453209,
+    "wof:lastmodified":1537699368,
+    "wof:name":"Mbelatasi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.52231,
+    -9.90034,
+    160.52231,
+    -9.90034
+],
+  "geometry": {"coordinates":[160.52231,-9.90034],"type":"Point"}
+}

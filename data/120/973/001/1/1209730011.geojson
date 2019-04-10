@@ -1,0 +1,70 @@
+{
+  "id": 1209730011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.17031,-9.09372,161.17031,-9.09372",
+    "geom:latitude":-9.09372,
+    "geom:longitude":161.17031,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Oteotea",
+    "gn:country_code":"SB",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2104603,
+    "gn:latitude":-9.09372,
+    "gn:longitude":161.17031,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Oteotea",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manna Kwoi",
+        "Manawai",
+        "Oteotea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104603
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"7e22fb6cb7a9c81e7ffa4c010313470e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1209730011,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1209730011,
+    "wof:lastmodified":1537699361,
+    "wof:name":"Oteotea",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.17031,
+    -9.09372,
+    161.17031,
+    -9.09372
+],
+  "geometry": {"coordinates":[161.17031,-9.09372],"type":"Point"}
+}

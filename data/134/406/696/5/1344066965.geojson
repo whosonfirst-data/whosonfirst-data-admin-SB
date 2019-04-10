@@ -1,0 +1,65 @@
+{
+  "id": 1344066965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.87304,-10.46294,161.87304,-10.46294",
+    "geom:latitude":-10.46294,
+    "geom:longitude":161.87304,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Manipwena",
+    "gn:country_code":"SB",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178697,
+    "gn:latitude":-10.46294,
+    "gn:longitude":161.87304,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Manipwena",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178697
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"28d29b941538d90a48aee9ac99fb99f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1344066965,
+            "region_id":85677109
+        }
+    ],
+    "wof:id":1344066965,
+    "wof:lastmodified":1536864770,
+    "wof:name":"Manipwena",
+    "wof:parent_id":85677109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.87304,
+    -10.46294,
+    161.87304,
+    -10.46294
+],
+  "geometry": {"coordinates":[161.87304,-10.46294],"type":"Point"}
+}

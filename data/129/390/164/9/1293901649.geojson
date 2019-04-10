@@ -1,0 +1,66 @@
+{
+  "id": 1293901649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.07603,-8.96584,160.07603,-8.96584",
+    "geom:latitude":-8.96584,
+    "geom:longitude":160.07603,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mboroni",
+    "gn:country_code":"SB",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105805,
+    "gn:latitude":-8.96584,
+    "gn:longitude":160.07603,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mboroni",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baroni",
+        "Boroni",
+        "Mboroni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105805
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"be26a14cf941d7c1e9b4609d0103de4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293901649,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293901649,
+    "wof:lastmodified":1537699366,
+    "wof:name":"Mboroni",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.07603,
+    -8.96584,
+    160.07603,
+    -8.96584
+],
+  "geometry": {"coordinates":[160.07603,-8.96584],"type":"Point"}
+}

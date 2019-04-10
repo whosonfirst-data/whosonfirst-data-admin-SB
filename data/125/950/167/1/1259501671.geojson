@@ -1,0 +1,61 @@
+{
+  "id": 1259501671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.83389,-9.85154,160.83389,-9.85154",
+    "geom:latitude":-9.85154,
+    "geom:longitude":160.83389,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Paruru",
+    "gn:country_code":"SB",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2104454,
+    "gn:latitude":-9.85154,
+    "gn:longitude":160.83389,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Paruru",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104454
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"5623f3cd0e3fbd7ee865b0b7c0660805",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259501671,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259501671,
+    "wof:lastmodified":1536831657,
+    "wof:name":"Paruru",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.83389,
+    -9.85154,
+    160.83389,
+    -9.85154
+],
+  "geometry": {"coordinates":[160.83389,-9.85154],"type":"Point"}
+}

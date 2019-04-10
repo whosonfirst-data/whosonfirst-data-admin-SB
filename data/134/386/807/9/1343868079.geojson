@@ -1,0 +1,64 @@
+{
+  "id": 1343868079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"157.33817,-8.6041,157.33817,-8.6041",
+    "geom:latitude":-8.6041,
+    "geom:longitude":157.33817,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mbangopingo",
+    "gn:country_code":"SB",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2106086,
+    "gn:latitude":-8.6041,
+    "gn:longitude":157.33817,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Mbangopingo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106086
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"d0c07388b5bcdfac3fff39779226fb44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1343868079,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343868079,
+    "wof:lastmodified":1536655561,
+    "wof:name":"Mbangopingo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    157.33817,
+    -8.6041,
+    157.33817,
+    -8.6041
+],
+  "geometry": {"coordinates":[157.33816999999999,-8.6041],"type":"Point"}
+}

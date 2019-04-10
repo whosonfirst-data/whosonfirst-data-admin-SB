@@ -1,0 +1,65 @@
+{
+  "id": 1343771959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.89738,-8.85155,160.89738,-8.85155",
+    "geom:latitude":-8.85155,
+    "geom:longitude":160.89738,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Namo'ia",
+    "gn:country_code":"SB",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105434,
+    "gn:latitude":-8.85155,
+    "gn:longitude":160.89738,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Namo\u2019ia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105434
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"7d073d61c373601a77e590f36cd03701",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1343771959,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1343771959,
+    "wof:lastmodified":1536794510,
+    "wof:name":"Namo'ia",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.89738,
+    -8.85155,
+    160.89738,
+    -8.85155
+],
+  "geometry": {"coordinates":[160.89738,-8.85155],"type":"Point"}
+}

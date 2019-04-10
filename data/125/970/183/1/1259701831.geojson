@@ -1,0 +1,65 @@
+{
+  "id": 1259701831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.59226,-9.57836,160.59226,-9.57836",
+    "geom:latitude":-9.57836,
+    "geom:longitude":160.59226,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Olokesi",
+    "gn:country_code":"SB",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2104700,
+    "gn:latitude":-9.57836,
+    "gn:longitude":160.59226,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Olokesi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104700
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"352b614aa01ce923d6a903e14d836994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1259701831,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1259701831,
+    "wof:lastmodified":1537038946,
+    "wof:name":"Olokesi",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.59226,
+    -9.57836,
+    160.59226,
+    -9.57836
+],
+  "geometry": {"coordinates":[160.59226000000001,-9.57836],"type":"Point"}
+}

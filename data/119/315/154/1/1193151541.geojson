@@ -1,0 +1,68 @@
+{
+  "id": 1193151541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"156.4801,-6.77965,156.4801,-6.77965",
+    "geom:latitude":-6.77965,
+    "geom:longitude":156.4801,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mbirambira",
+    "gn:country_code":"SB",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105906,
+    "gn:latitude":-6.77965,
+    "gn:longitude":156.4801,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mbirambira",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Birambira",
+        "Mbirambira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105906
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"39b34b5c7bc0672e69337fcc73d7eb3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1193151541,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193151541,
+    "wof:lastmodified":1537699368,
+    "wof:name":"Mbirambira",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    156.4801,
+    -6.77965,
+    156.4801,
+    -6.77965
+],
+  "geometry": {"coordinates":[156.48009999999999,-6.77965],"type":"Point"}
+}

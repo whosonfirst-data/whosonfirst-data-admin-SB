@@ -1,0 +1,69 @@
+{
+  "id": 1243378079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.78333,-8.8,160.78333,-8.8",
+    "geom:latitude":-8.8,
+    "geom:longitude":160.78333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Gwaitamba'a",
+    "gn:country_code":"SB",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108811,
+    "gn:latitude":-8.8,
+    "gn:longitude":160.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gwaitamba\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gwa\u2019itaba\u2019a",
+        "Gwaitamba\u2019a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108811
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"702aca28e16192fc9523d5ede46a4f32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1243378079,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1243378079,
+    "wof:lastmodified":1537699383,
+    "wof:name":"Gwaitamba'a",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.78333,
+    -8.8,
+    160.78333,
+    -8.8
+],
+  "geometry": {"coordinates":[160.78333000000001,-8.8],"type":"Point"}
+}

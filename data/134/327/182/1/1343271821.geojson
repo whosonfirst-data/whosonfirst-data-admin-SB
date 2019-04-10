@@ -1,0 +1,65 @@
+{
+  "id": 1343271821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.73705,-8.41938,160.73705,-8.41938",
+    "geom:latitude":-8.41938,
+    "geom:longitude":160.73705,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ngalikwasi",
+    "gn:country_code":"SB",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105143,
+    "gn:latitude":-8.41938,
+    "gn:longitude":160.73705,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Ngalikwasi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105143
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"bed41fc3fcdf92605376a02a242a8243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1343271821,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1343271821,
+    "wof:lastmodified":1537017695,
+    "wof:name":"Ngalikwasi",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.73705,
+    -8.41938,
+    160.73705,
+    -8.41938
+],
+  "geometry": {"coordinates":[160.73705000000001,-8.41938],"type":"Point"}
+}

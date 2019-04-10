@@ -1,0 +1,69 @@
+{
+  "id": 1276996179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"157.19862,-8.56471,157.19862,-8.56471",
+    "geom:latitude":-8.56471,
+    "geom:longitude":157.19862,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Hopongo",
+    "gn:country_code":"SB",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108488,
+    "gn:latitude":-8.56471,
+    "gn:longitude":157.19862,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hopongo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "New Paradise",
+        "Hofov\u014d",
+        "Hopongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108488
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"e8efc677f31ff53a73af07b529005dcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1276996179,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276996179,
+    "wof:lastmodified":1537699382,
+    "wof:name":"Hopongo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    157.19862,
+    -8.56471,
+    157.19862,
+    -8.56471
+],
+  "geometry": {"coordinates":[157.19862000000001,-8.56471],"type":"Point"}
+}

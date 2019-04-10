@@ -1,0 +1,69 @@
+{
+  "id": 1310315043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.76414,-9.73504,160.76414,-9.73504",
+    "geom:latitude":-9.73504,
+    "geom:longitude":160.76414,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Poposa",
+    "gn:country_code":"SB",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2104206,
+    "gn:latitude":-9.73504,
+    "gn:longitude":160.76414,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Poposa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Korai",
+        "Poposa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104206
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"fb2a3f4f63c7e05bb22102d7bbc7a3d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1310315043,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1310315043,
+    "wof:lastmodified":1537699358,
+    "wof:name":"Poposa",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.76414,
+    -9.73504,
+    160.76414,
+    -9.73504
+],
+  "geometry": {"coordinates":[160.76414,-9.73504],"type":"Point"}
+}

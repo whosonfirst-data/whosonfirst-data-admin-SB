@@ -1,0 +1,64 @@
+{
+  "id": 1242888557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.1613,-9.4106,160.1613,-9.4106",
+    "geom:latitude":-9.4106,
+    "geom:longitude":160.1613,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Komuporo",
+    "gn:country_code":"SB",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107372,
+    "gn:latitude":-9.4106,
+    "gn:longitude":160.1613,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Komuporo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107372
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"7cd32137b8f0a5b4b8d17dc5921d2116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1242888557,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242888557,
+    "wof:lastmodified":1536613283,
+    "wof:name":"Komuporo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.1613,
+    -9.4106,
+    160.1613,
+    -9.4106
+],
+  "geometry": {"coordinates":[160.16130000000001,-9.4106],"type":"Point"}
+}

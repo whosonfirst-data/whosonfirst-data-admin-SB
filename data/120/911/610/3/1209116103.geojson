@@ -1,0 +1,66 @@
+{
+  "id": 1209116103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.8,-9.1,159.8,-9.1",
+    "geom:latitude":-9.1,
+    "geom:longitude":159.8,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Petupetu",
+    "gn:cc2":"SB",
+    "gn:country_code":"SB",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2104347,
+    "gn:latitude":-9.1,
+    "gn:longitude":159.8,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Petupetu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Petupat",
+        "Petupetu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104347
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"493d201a49b2b3eddd26b7829d7c3681",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209116103
+        }
+    ],
+    "wof:id":1209116103,
+    "wof:lastmodified":1537699359,
+    "wof:name":"Petupetu",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.8,
+    -9.1,
+    159.8,
+    -9.1
+],
+  "geometry": {"coordinates":[159.80000000000001,-9.1],"type":"Point"}
+}

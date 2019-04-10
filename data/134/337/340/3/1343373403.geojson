@@ -1,0 +1,61 @@
+{
+  "id": 1343373403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"158.04627,-8.52394,158.04627,-8.52394",
+    "geom:latitude":-8.52394,
+    "geom:longitude":158.04627,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Rukutu",
+    "gn:country_code":"SB",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2103809,
+    "gn:latitude":-8.52394,
+    "gn:longitude":158.04627,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Rukutu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2103809
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"203589a982b7a0366810048c81eb390d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343373403,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343373403,
+    "wof:lastmodified":1536870656,
+    "wof:name":"Rukutu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.04627,
+    -8.52394,
+    158.04627,
+    -8.52394
+],
+  "geometry": {"coordinates":[158.04626999999999,-8.52394],"type":"Point"}
+}

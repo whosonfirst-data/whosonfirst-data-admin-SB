@@ -1,0 +1,61 @@
+{
+  "id": 1209525261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.15,-9.08333,161.15,-9.08333",
+    "geom:latitude":-9.08333,
+    "geom:longitude":161.15,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Aenakaro",
+    "gn:country_code":"SB",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2109984,
+    "gn:latitude":-9.08333,
+    "gn:longitude":161.15,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Aenakaro",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109984
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"87cd31724e9c39f3f420062b2c79a985",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209525261
+        }
+    ],
+    "wof:id":1209525261,
+    "wof:lastmodified":1536284451,
+    "wof:name":"Aenakaro",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.15,
+    -9.08333,
+    161.15,
+    -9.08333
+],
+  "geometry": {"coordinates":[161.15000000000001,-9.08333],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1293798757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"155.86416,-7.07942,155.86416,-7.07942",
+    "geom:latitude":-7.07942,
+    "geom:longitude":155.86416,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Korovou",
+    "gn:country_code":"SB",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107273,
+    "gn:latitude":-7.07942,
+    "gn:longitude":155.86416,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Korovou",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107273
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"6997670936e3577d42ec17df67f33768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1293798757,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293798757,
+    "wof:lastmodified":1536834307,
+    "wof:name":"Korovou",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    155.86416,
+    -7.07942,
+    155.86416,
+    -7.07942
+],
+  "geometry": {"coordinates":[155.86416,-7.07942],"type":"Point"}
+}

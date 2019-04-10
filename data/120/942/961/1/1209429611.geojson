@@ -1,0 +1,61 @@
+{
+  "id": 1209429611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.77393,-8.41754,160.77393,-8.41754",
+    "geom:latitude":-8.41754,
+    "geom:longitude":160.77393,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ko'ombaita",
+    "gn:country_code":"SB",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107321,
+    "gn:latitude":-8.41754,
+    "gn:longitude":160.77393,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Ko\u2019ombaita",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107321
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"58c0f6ebb4348635c50be639e1ff5f17",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209429611
+        }
+    ],
+    "wof:id":1209429611,
+    "wof:lastmodified":1536287274,
+    "wof:name":"Ko'ombaita",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.77393,
+    -8.417539999999999,
+    160.77393,
+    -8.417539999999999
+],
+  "geometry": {"coordinates":[160.77393000000001,-8.41754],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1260299959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.52749,-9.60976,161.52749,-9.60976",
+    "geom:latitude":-9.60976,
+    "geom:longitude":161.52749,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Anoni'usu",
+    "gn:country_code":"SB",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2109821,
+    "gn:latitude":-9.60976,
+    "gn:longitude":161.52749,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Anoni\u2019usu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109821
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"2419e2fb9f1afecbcc2a3a8cf3da6a2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1260299959,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1260299959,
+    "wof:lastmodified":1536689847,
+    "wof:name":"Anoni'usu",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.52749,
+    -9.60976,
+    161.52749,
+    -9.60976
+],
+  "geometry": {"coordinates":[161.52749,-9.60976],"type":"Point"}
+}

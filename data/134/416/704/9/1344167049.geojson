@@ -1,0 +1,65 @@
+{
+  "id": 1344167049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.11667,-9.53333,160.11667,-9.53333",
+    "geom:latitude":-9.53333,
+    "geom:longitude":160.11667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Chari Ndoke",
+    "gn:country_code":"SB",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109433,
+    "gn:latitude":-9.53333,
+    "gn:longitude":160.11667,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Chari Ndoke",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109433
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"b853106cd6e6933c9d2de88fd1d33167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1344167049,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1344167049,
+    "wof:lastmodified":1536722035,
+    "wof:name":"Chari Ndoke",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.11667,
+    -9.53333,
+    160.11667,
+    -9.53333
+],
+  "geometry": {"coordinates":[160.11667,-9.53333],"type":"Point"}
+}

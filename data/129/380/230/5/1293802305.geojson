@@ -1,0 +1,65 @@
+{
+  "id": 1293802305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"162.26346,-10.83959,162.26346,-10.83959",
+    "geom:latitude":-10.83959,
+    "geom:longitude":162.26346,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Funakumwa",
+    "gn:country_code":"SB",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2178816,
+    "gn:latitude":-10.83959,
+    "gn:longitude":162.26346,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Funakumwa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Funakuma",
+        "Funakumwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2178816
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"ac5d7e47505a410769b32d993f7415d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293802305,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293802305,
+    "wof:lastmodified":1537699395,
+    "wof:name":"Funakumwa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    162.26346,
+    -10.83959,
+    162.26346,
+    -10.83959
+],
+  "geometry": {"coordinates":[162.26346000000001,-10.83959],"type":"Point"}
+}

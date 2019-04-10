@@ -1,0 +1,61 @@
+{
+  "id": 1209625237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.18127,-9.41085,160.18127,-9.41085",
+    "geom:latitude":-9.41085,
+    "geom:longitude":160.18127,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Koli",
+    "gn:country_code":"SB",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107676,
+    "gn:latitude":-9.41085,
+    "gn:longitude":160.18127,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Koli",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107676
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"08b0644a27abd6e6cf2129e966029658",
+    "wof:hierarchy":[
+        {
+            "country_id":85632591,
+            "locality_id":1209625237
+        }
+    ],
+    "wof:id":1209625237,
+    "wof:lastmodified":1536281376,
+    "wof:name":"Koli",
+    "wof:parent_id":85632591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.18126999999996,
+    -9.41085,
+    160.18126999999996,
+    -9.41085
+],
+  "geometry": {"coordinates":[160.18126999999996,-9.41085],"type":"Point"}
+}

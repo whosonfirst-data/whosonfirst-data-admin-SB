@@ -1,0 +1,69 @@
+{
+  "id": 1310716631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.85939,-8.7762,160.85939,-8.7762",
+    "geom:latitude":-8.7762,
+    "geom:longitude":160.85939,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kwailaua",
+    "gn:country_code":"SB",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2107079,
+    "gn:latitude":-8.7762,
+    "gn:longitude":160.85939,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kwailaua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Kwailava",
+        "Kwailaua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107079
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"66d344e0d6295f4522f505aec12b0466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1310716631,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1310716631,
+    "wof:lastmodified":1537699375,
+    "wof:name":"Kwailaua",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.85939,
+    -8.7762,
+    160.85939,
+    -8.7762
+],
+  "geometry": {"coordinates":[160.85938999999999,-8.7762],"type":"Point"}
+}

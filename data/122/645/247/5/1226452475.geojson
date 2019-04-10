@@ -1,0 +1,65 @@
+{
+  "id": 1226452475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.7441,-8.89981,160.7441,-8.89981",
+    "geom:latitude":-8.89981,
+    "geom:longitude":160.7441,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bulabu",
+    "gn:country_code":"SB",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109521,
+    "gn:latitude":-8.89981,
+    "gn:longitude":160.7441,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bulabu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bula\u2019abu",
+        "Bulabu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109521
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"c0021665ca8450bf0b8f096da2b124b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226452475,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226452475,
+    "wof:lastmodified":1537699387,
+    "wof:name":"Bulabu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.7441,
+    -8.89981,
+    160.7441,
+    -8.89981
+],
+  "geometry": {"coordinates":[160.7441,-8.89981],"type":"Point"}
+}

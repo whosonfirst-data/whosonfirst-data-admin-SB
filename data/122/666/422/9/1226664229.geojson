@@ -1,0 +1,65 @@
+{
+  "id": 1226664229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.09017,-9.81785,160.09017,-9.81785",
+    "geom:latitude":-9.81785,
+    "geom:longitude":160.09017,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ngaliapau",
+    "gn:country_code":"SB",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105160,
+    "gn:latitude":-9.81785,
+    "gn:longitude":160.09017,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Ngaliapau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105160
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"98ae3882b457ce6f4fdc412367c5848d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1226664229,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1226664229,
+    "wof:lastmodified":1536831861,
+    "wof:name":"Ngaliapau",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.09017,
+    -9.81785,
+    160.09017,
+    -9.81785
+],
+  "geometry": {"coordinates":[160.09017,-9.81785],"type":"Point"}
+}

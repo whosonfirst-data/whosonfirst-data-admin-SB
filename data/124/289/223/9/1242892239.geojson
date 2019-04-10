@@ -1,0 +1,65 @@
+{
+  "id": 1242892239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"165.87913,-10.66786,165.87913,-10.66786",
+    "geom:latitude":-10.66786,
+    "geom:longitude":165.87913,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Matu",
+    "gn:country_code":"SB",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8553916,
+    "gn:latitude":-10.66786,
+    "gn:longitude":165.87913,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Matu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8553916
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"8c2b3afbc4e2d0d8de72ba4a3398e5c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1242892239,
+            "region_id":85677099
+        }
+    ],
+    "wof:id":1242892239,
+    "wof:lastmodified":1536607664,
+    "wof:name":"Matu",
+    "wof:parent_id":85677099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    165.87913,
+    -10.66786,
+    165.87913,
+    -10.66786
+],
+  "geometry": {"coordinates":[165.87913,-10.66786],"type":"Point"}
+}

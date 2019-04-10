@@ -1,0 +1,70 @@
+{
+  "id": 1327044749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.33333,-9.7,160.33333,-9.7",
+    "geom:latitude":-9.7,
+    "geom:longitude":160.33333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Haimbau",
+    "gn:cc2":"SB",
+    "gn:country_code":"SB",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108761,
+    "gn:latitude":-9.7,
+    "gn:longitude":160.33333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Haimbau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Verambasia",
+        "Haimbau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108761
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"4cd9632298944f80074c08f7dfb24285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1327044749,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1327044749,
+    "wof:lastmodified":1537699383,
+    "wof:name":"Haimbau",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.33333000000005,
+    -9.7,
+    160.33333000000005,
+    -9.7
+],
+  "geometry": {"coordinates":[160.33333000000005,-9.7],"type":"Point"}
+}

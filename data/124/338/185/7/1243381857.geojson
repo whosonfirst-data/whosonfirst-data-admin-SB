@@ -1,0 +1,65 @@
+{
+  "id": 1243381857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.02974,-9.62931,160.02974,-9.62931",
+    "geom:latitude":-9.62931,
+    "geom:longitude":160.02974,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Malukuna",
+    "gn:country_code":"SB",
+    "gn:dem":722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2106492,
+    "gn:latitude":-9.62931,
+    "gn:longitude":160.02974,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Malukuna",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106492
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"441e81065c8220de4d52b6ed5450c976",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1243381857,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1243381857,
+    "wof:lastmodified":1536898690,
+    "wof:name":"Malukuna",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.02974,
+    -9.62931,
+    160.02974,
+    -9.62931
+],
+  "geometry": {"coordinates":[160.02974,-9.62931],"type":"Point"}
+}

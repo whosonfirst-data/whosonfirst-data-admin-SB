@@ -1,0 +1,68 @@
+{
+  "id": 1259989589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"157.6685,-8.19144,157.6685,-8.19144",
+    "geom:latitude":-8.19144,
+    "geom:longitude":157.6685,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Keru",
+    "gn:country_code":"SB",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107898,
+    "gn:latitude":-8.19144,
+    "gn:longitude":157.6685,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Keru",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keru Village",
+        "Keru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107898
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"160954ceccb6c19c843a1ff02a0f41ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1259989589,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259989589,
+    "wof:lastmodified":1537699380,
+    "wof:name":"Keru",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    157.6685,
+    -8.19144,
+    157.6685,
+    -8.19144
+],
+  "geometry": {"coordinates":[157.66849999999999,-8.19144],"type":"Point"}
+}

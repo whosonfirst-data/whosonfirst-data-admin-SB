@@ -1,0 +1,68 @@
+{
+  "id": 1343941693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.285,-9.10817,160.285,-9.10817",
+    "geom:latitude":-9.10817,
+    "geom:longitude":160.285,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ghairavu",
+    "gn:country_code":"SB",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108984,
+    "gn:latitude":-9.10817,
+    "gn:longitude":160.285,
+    "gn:modification_date":"2014-10-16",
+    "gn:name":"Ghairavu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goiravu",
+        "Ghairavu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108984
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"bbe6699a5e401736adaedac047a3aa4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1343941693,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343941693,
+    "wof:lastmodified":1537699385,
+    "wof:name":"Ghairavu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.285,
+    -9.10817,
+    160.285,
+    -9.10817
+],
+  "geometry": {"coordinates":[160.285,-9.10817],"type":"Point"}
+}

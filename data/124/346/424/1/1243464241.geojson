@@ -1,0 +1,65 @@
+{
+  "id": 1243464241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.85445,-9.83869,160.85445,-9.83869",
+    "geom:latitude":-9.83869,
+    "geom:longitude":160.85445,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kuraisau",
+    "gn:country_code":"SB",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107130,
+    "gn:latitude":-9.83869,
+    "gn:longitude":160.85445,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kuraisau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marau",
+        "Kuraisau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107130
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"a134a1a4972ab675b4e6b1ed5b0b81d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243464241,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243464241,
+    "wof:lastmodified":1537699375,
+    "wof:name":"Kuraisau",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.85445,
+    -9.83869,
+    160.85445,
+    -9.83869
+],
+  "geometry": {"coordinates":[160.85445000000001,-9.83869],"type":"Point"}
+}

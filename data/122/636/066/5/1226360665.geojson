@@ -1,0 +1,69 @@
+{
+  "id": 1226360665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.14132,-9.3028,161.14132,-9.3028",
+    "geom:latitude":-9.3028,
+    "geom:longitude":161.14132,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Hahorarunu",
+    "gn:country_code":"SB",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2108773,
+    "gn:latitude":-9.3028,
+    "gn:longitude":161.14132,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hahorarunu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Hahorarumu",
+        "Hahorarunu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108773
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"a67ae2fc49a67a0c8eaaaad31a9ce637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1226360665,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1226360665,
+    "wof:lastmodified":1537699383,
+    "wof:name":"Hahorarunu",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.14132,
+    -9.3028,
+    161.14132,
+    -9.3028
+],
+  "geometry": {"coordinates":[161.14132000000001,-9.3028],"type":"Point"}
+}

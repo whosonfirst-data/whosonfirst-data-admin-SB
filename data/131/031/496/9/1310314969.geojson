@@ -1,0 +1,69 @@
+{
+  "id": 1310314969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.89898,-9.78548,159.89898,-9.78548",
+    "geom:latitude":-9.78548,
+    "geom:longitude":159.89898,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mbiti",
+    "gn:country_code":"SB",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2105895,
+    "gn:latitude":-9.78548,
+    "gn:longitude":159.89898,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mbiti",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Biti",
+        "Mbiti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105895
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"41cdae11ce524bed45bbef4360ef04fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1310314969,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1310314969,
+    "wof:lastmodified":1537699367,
+    "wof:name":"Mbiti",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.89898,
+    -9.78548,
+    159.89898,
+    -9.78548
+],
+  "geometry": {"coordinates":[159.89897999999999,-9.78548],"type":"Point"}
+}

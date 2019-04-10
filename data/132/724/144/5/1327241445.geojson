@@ -1,0 +1,65 @@
+{
+  "id": 1327241445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.05311,-9.50729,160.05311,-9.50729",
+    "geom:latitude":-9.50729,
+    "geom:longitude":160.05311,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Korikasike",
+    "gn:country_code":"SB",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2107285,
+    "gn:latitude":-9.50729,
+    "gn:longitude":160.05311,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Korikasike",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107285
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"095b75be3da43bf914ad2886abb2b2eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1327241445,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1327241445,
+    "wof:lastmodified":1536956452,
+    "wof:name":"Korikasike",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.05311,
+    -9.50729,
+    160.05311,
+    -9.50729
+],
+  "geometry": {"coordinates":[160.05311,-9.50729],"type":"Point"}
+}

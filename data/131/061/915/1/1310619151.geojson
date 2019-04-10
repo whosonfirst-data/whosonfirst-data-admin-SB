@@ -1,0 +1,61 @@
+{
+  "id": 1310619151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.53363,-9.56251,161.53363,-9.56251",
+    "geom:latitude":-9.56251,
+    "geom:longitude":161.53363,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kalona",
+    "gn:country_code":"SB",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2108129,
+    "gn:latitude":-9.56251,
+    "gn:longitude":161.53363,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Kalona",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2108129
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"42c39133e60e8c74b6f7839f87bcc0e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310619151,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310619151,
+    "wof:lastmodified":1536752971,
+    "wof:name":"Kalona",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.53363000000004,
+    -9.56251,
+    161.53363000000004,
+    -9.56251
+],
+  "geometry": {"coordinates":[161.53363000000004,-9.56251],"type":"Point"}
+}

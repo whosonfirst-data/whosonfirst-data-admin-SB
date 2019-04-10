@@ -1,0 +1,65 @@
+{
+  "id": 1243077577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"161.18025,-9.07353,161.18025,-9.07353",
+    "geom:latitude":-9.07353,
+    "geom:longitude":161.18025,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Oisi'ini",
+    "gn:country_code":"SB",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2104730,
+    "gn:latitude":-9.07353,
+    "gn:longitude":161.18025,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Oisi\u2019ini",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2104730
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"fce42adf48508ea734af0a2c6af6db33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1243077577,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1243077577,
+    "wof:lastmodified":1536839136,
+    "wof:name":"Oisi'ini",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    161.18025,
+    -9.07353,
+    161.18025,
+    -9.07353
+],
+  "geometry": {"coordinates":[161.18025,-9.07353],"type":"Point"}
+}

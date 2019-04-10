@@ -1,0 +1,65 @@
+{
+  "id": 1343473319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.86667,-9.36667,159.86667,-9.36667",
+    "geom:latitude":-9.36667,
+    "geom:longitude":159.86667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Araveu",
+    "gn:country_code":"SB",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2109767,
+    "gn:latitude":-9.36667,
+    "gn:longitude":159.86667,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Araveu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2109767
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"21ab2ea5412222c6a0ed2bc5553cb243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1343473319,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1343473319,
+    "wof:lastmodified":1536727873,
+    "wof:name":"Araveu",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.86667,
+    -9.36667,
+    159.86667,
+    -9.36667
+],
+  "geometry": {"coordinates":[159.86667,-9.36667],"type":"Point"}
+}

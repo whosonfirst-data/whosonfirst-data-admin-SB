@@ -1,0 +1,65 @@
+{
+  "id": 1225854751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"157.14762,-7.35288,157.14762,-7.35288",
+    "geom:latitude":-7.35288,
+    "geom:longitude":157.14762,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Letuni",
+    "gn:country_code":"SB",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2106863,
+    "gn:latitude":-7.35288,
+    "gn:longitude":157.14762,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Letuni",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lituni",
+        "Letuni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106863
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"588abff227da0536c1183b368157cd65",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1225854751,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225854751,
+    "wof:lastmodified":1537699373,
+    "wof:name":"Letuni",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    157.14762,
+    -7.35288,
+    157.14762,
+    -7.35288
+],
+  "geometry": {"coordinates":[157.14761999999999,-7.35288],"type":"Point"}
+}

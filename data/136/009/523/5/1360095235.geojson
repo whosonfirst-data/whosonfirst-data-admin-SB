@@ -1,0 +1,65 @@
+{
+  "id": 1360095235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.70051,-8.37676,160.70051,-8.37676",
+    "geom:latitude":-8.37676,
+    "geom:longitude":160.70051,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Matakwalao",
+    "gn:country_code":"SB",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2106251,
+    "gn:latitude":-8.37676,
+    "gn:longitude":160.70051,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Matakwalao",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2106251
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"cf69fcc2294d3b6fe0420e6ed0a52323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1360095235,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1360095235,
+    "wof:lastmodified":1536931657,
+    "wof:name":"Matakwalao",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.70051,
+    -8.37676,
+    160.70051,
+    -8.37676
+],
+  "geometry": {"coordinates":[160.70051000000001,-8.37676],"type":"Point"}
+}

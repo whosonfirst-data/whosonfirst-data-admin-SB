@@ -1,0 +1,87 @@
+{
+  "id": 421188873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"159.896736,-9.430265,159.896736,-9.430265",
+    "geom:latitude":-9.430265,
+    "geom:longitude":159.896736,
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dan_x_preferred":[
+        "Kokumbona"
+    ],
+    "name:dut_x_preferred":[
+        "Kokumbona"
+    ],
+    "name:eng_x_preferred":[
+        "Kokumbona"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30af\u30f3\u30dc\u30ca"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Kakambona",
+    "qs:name_adm0":"Solomon Islands",
+    "qs:name_adm1":"Guadalcanal",
+    "qs:photos":270,
+    "qs:photos_1k":55,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":270,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1104814,
+    "qs:woe_adm0":23424766,
+    "qs:woe_id":1018560,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":66,
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1018560,
+        "qs:id":1104814,
+        "wd:id":"Q6426894"
+    },
+    "wof:country":"SB",
+    "wof:created":1459009586,
+    "wof:geomhash":"d6f9144c13af0d6182cc7f23935f5eca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":421188873,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":421188873,
+    "wof:lastmodified":1527716277,
+    "wof:name":"Kakambona",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.896736,
+    -9.430265,
+    159.896736,
+    -9.430265
+],
+  "geometry": {"coordinates":[159.896736,-9.430265],"type":"Point"}
+}

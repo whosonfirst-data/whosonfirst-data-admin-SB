@@ -1,0 +1,65 @@
+{
+  "id": 1310120669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.02819,-9.81571,160.02819,-9.81571",
+    "geom:latitude":-9.81571,
+    "geom:longitude":160.02819,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kolochachara",
+    "gn:country_code":"SB",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2107661,
+    "gn:latitude":-9.81571,
+    "gn:longitude":160.02819,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Kolochachara",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2107661
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"eaeb4573d7ec49d3abbd279a52ebb441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1310120669,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":1310120669,
+    "wof:lastmodified":1536974066,
+    "wof:name":"Kolochachara",
+    "wof:parent_id":85677089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.02819,
+    -9.81571,
+    160.02819,
+    -9.81571
+],
+  "geometry": {"coordinates":[160.02819,-9.81571],"type":"Point"}
+}

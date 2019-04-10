@@ -1,0 +1,70 @@
+{
+  "id": 1260094747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.65,-8.35,160.65,-8.35",
+    "geom:latitude":-8.35,
+    "geom:longitude":160.65,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mbonumbonu",
+    "gn:cc2":"SB",
+    "gn:country_code":"SB",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2105824,
+    "gn:latitude":-8.35,
+    "gn:longitude":160.65,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mbonumbonu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Mbonmbonu",
+        "Mbonumbonu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2105824
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"3a073e3aebaaa26b3815689553143f71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1260094747,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1260094747,
+    "wof:lastmodified":1537699366,
+    "wof:name":"Mbonumbonu",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.65,
+    -8.35,
+    160.65,
+    -8.35
+],
+  "geometry": {"coordinates":[160.65000000000001,-8.35],"type":"Point"}
+}

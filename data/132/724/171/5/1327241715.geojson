@@ -1,0 +1,65 @@
+{
+  "id": 1327241715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.96988,-9.10747,160.96988,-9.10747",
+    "geom:latitude":-9.10747,
+    "geom:longitude":160.96988,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Aringa Hill",
+    "gn:country_code":"SB",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440709,
+    "gn:latitude":-9.10747,
+    "gn:longitude":160.96988,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Aringa Hill",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guadalcanal",
+    "iso:country":"SB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632591,
+        85677077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440709
+    },
+    "wof:country":"SB",
+    "wof:geomhash":"b826d32835d221002f82e9d7c943b4b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":1327241715,
+            "region_id":85677077
+        }
+    ],
+    "wof:id":1327241715,
+    "wof:lastmodified":1536956054,
+    "wof:name":"Aringa Hill",
+    "wof:parent_id":85677077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.96988000000005,
+    -9.10747,
+    160.96988000000005,
+    -9.10747
+],
+  "geometry": {"coordinates":[160.96988000000005,-9.10747],"type":"Point"}
+}
