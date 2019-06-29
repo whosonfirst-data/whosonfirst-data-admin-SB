@@ -123,6 +123,9 @@
     "name:ces_x_preferred":[
         "\u0160alamounovy ostrovy"
     ],
+    "name:ces_x_variant":[
+        "\u0160alamounovy Ostrovy"
+    ],
     "name:che_x_preferred":[
         "\u0421\u043e\u043b\u043e\u043c\u043e\u043d\u0430\u043d \u0433\u04c0\u0430\u0439\u0440\u0435\u043d\u0430\u0448"
     ],
@@ -140,9 +143,6 @@
     ],
     "name:cym_x_preferred":[
         "Ynysoedd Solomon"
-    ],
-    "name:cze_x_preferred":[
-        "\u0160alamounovy Ostrovy"
     ],
     "name:dan_x_colloquial":[
         "Salomonoerne"
@@ -224,7 +224,6 @@
         "Salomon"
     ],
     "name:fra_x_variant":[
-        "Salomon",
         "\u00celes Salomon",
         "Iles Salomon"
     ],
@@ -562,9 +561,6 @@
     "name:ron_x_preferred":[
         "Insulele Solomon"
     ],
-    "name:rum_x_preferred":[
-        "Insulele Solomon"
-    ],
     "name:run_x_preferred":[
         "Amazinga ya Salumoni"
     ],
@@ -777,8 +773,7 @@
         "\u6240\u7f57\u95e8\u7fa4\u5c9b"
     ],
     "name:zho_x_variant":[
-        "\u7d22\u7f85\u9580\u7fa4\u5cf6",
-        "\u6240\u7f57\u95e8\u7fa4\u5c9b"
+        "\u7d22\u7f85\u9580\u7fa4\u5cf6"
     ],
     "name:zho_yue_x_preferred":[
         "\u6240\u7f85\u9580\u7fa4\u5cf6"
@@ -932,7 +927,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1544059185,
+    "wof:lastmodified":1561839463,
     "wof:name":"Solomon Islands",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

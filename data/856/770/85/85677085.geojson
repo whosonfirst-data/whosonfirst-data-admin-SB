@@ -28,12 +28,6 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0642\u0627\u0637\u0639\u0629 \u0627\u0644\u0648\u0633\u0637\u0649"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0565\u0576\u057f\u0580\u0578\u0576\u0561\u056f\u0561\u0576 \u0576\u0561\u0570\u0561\u0576\u0563"
-    ],
-    "name:baq_x_preferred":[
-        "Probintzia Zentrala"
-    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f\u09cd\u09b0\u09be\u09b2 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -43,17 +37,23 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia Central"
     ],
-    "name:chi_x_preferred":[
-        "\u4e2d\u90e8\u7fa4\u5cf6\u7701"
-    ],
     "name:dan_x_preferred":[
         "Central Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Central"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae \u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "Central"
+    ],
+    "name:eus_x_preferred":[
+        "Probintzia Zentrala"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0631\u06a9\u0632\u06cc"
     ],
     "name:fin_x_preferred":[
         "Central Province"
@@ -61,26 +61,20 @@
     "name:fra_x_preferred":[
         "Province Centrale"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Province centrale"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ea\u10d4\u10dc\u10e2\u10e0\u10d0\u10da\u10e3\u10e0\u10d8 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Central"
     ],
     "name:glg_x_preferred":[
         "Central"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae \u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f\u0acd\u0ab0\u0ab2 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
     "name:hin_x_preferred":[
         "\u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0565\u0576\u057f\u0580\u0578\u0576\u0561\u056f\u0561\u0576 \u0576\u0561\u0570\u0561\u0576\u0563"
     ],
     "name:ind_x_preferred":[
         "Provinsi Tengah"
@@ -94,6 +88,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0ca7\u0ccd\u0caf \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10ea\u10d4\u10dc\u10e2\u10e0\u10d0\u10da\u10e3\u10e0\u10d8 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc911\ubd80 \uc8fc"
     ],
@@ -103,20 +100,20 @@
     "name:lit_x_preferred":[
         "Centrin\u0117 provincija"
     ],
-    "name:mac_x_preferred":[
-        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u041f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u0458\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u0947\u0902\u091f\u094d\u0930\u0932 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u041f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u0458\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Central Province"
+    ],
+    "name:nld_x_preferred":[
+        "Central"
     ],
     "name:nob_x_preferred":[
         "Sentral provins"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0631\u06a9\u0632\u06cc"
     ],
     "name:pol_x_preferred":[
         "Prowincja Centralna"
@@ -161,6 +158,9 @@
         "T\u1ec9nh Mi\u1ec1n Trung"
     ],
     "name:wuu_x_preferred":[
+        "\u4e2d\u90e8\u7fa4\u5cf6\u7701"
+    ],
+    "name:zho_x_preferred":[
         "\u4e2d\u90e8\u7fa4\u5cf6\u7701"
     ],
     "ne:abbrev":"",
@@ -287,7 +287,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550510,
+    "wof:lastmodified":1561839462,
     "wof:name":"Central",
     "wof:parent_id":85632591,
     "wof:placetype":"region",
