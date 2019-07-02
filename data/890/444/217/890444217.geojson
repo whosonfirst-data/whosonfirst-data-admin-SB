@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002391,
-    "geom:area_square_m":29168582.930878,
+    "geom:area_square_m":29168582.930855,
     "geom:bbox":"159.911889621,-9.45736141617,160.021879069,-9.41738744324",
     "geom:latitude":-9.438268,
     "geom:longitude":159.968625,
@@ -28,16 +28,10 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0646\u064a\u0627\u0631\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0578\u0576\u056b\u0561\u0580\u0561"
-    ],
     "name:ast_x_preferred":[
         "Honiara"
     ],
     "name:aze_x_preferred":[
-        "Honiara"
-    ],
-    "name:baq_x_preferred":[
         "Honiara"
     ],
     "name:bel_x_preferred":[
@@ -45,6 +39,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09b9\u09c1\u09a8\u09bf\u09af\u09bc\u09be\u09b0\u09be"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f67\u0f7c\u0f0b\u0f49\u0f72\u0f0b\u0f61\u0f0b\u0f62\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Honiara"
@@ -61,19 +58,16 @@
     "name:cdo_x_preferred":[
         "Honiara"
     ],
-    "name:chi_x_preferred":[
-        "\u970d\u5c3c\u4e9a\u62c9"
+    "name:ces_x_preferred":[
+        "Honiara"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Honiara"
     ],
     "name:dan_x_preferred":[
         "Honiara"
     ],
     "name:deu_x_preferred":[
-        "Honiara"
-    ],
-    "name:dut_x_preferred":[
         "Honiara"
     ],
     "name:ell_x_preferred":[
@@ -103,16 +97,7 @@
     "name:fra_x_preferred":[
         "Honiara"
     ],
-    "name:fre_x_preferred":[
-        "Honiara"
-    ],
     "name:fry_x_preferred":[
-        "Honiara"
-    ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10dd\u10dc\u10d8\u10d0\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Honiara"
     ],
     "name:gla_x_preferred":[
@@ -123,9 +108,6 @@
     ],
     "name:glg_x_preferred":[
         "Honiara"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03bd\u03b9\u03ac\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0acb\u0aa8\u0abf\u0aaf\u0abe\u0ab0\u0abe"
@@ -151,14 +133,17 @@
     "name:hun_x_preferred":[
         "Honiara"
     ],
-    "name:ice_x_preferred":[
-        "Hon\u00edara"
+    "name:hye_x_preferred":[
+        "\u0540\u0578\u0576\u056b\u0561\u0580\u0561"
     ],
     "name:ido_x_preferred":[
         "Honiara"
     ],
     "name:ind_x_preferred":[
         "Honiara"
+    ],
+    "name:isl_x_preferred":[
+        "Hon\u00edara"
     ],
     "name:ita_x_preferred":[
         "Honiara"
@@ -168,6 +153,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb9\u0cca\u0ca8\u0cbf\u0caf\u0cb0"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10dd\u10dc\u10d8\u10d0\u10e0\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ud638\ub2c8\uc544\ub77c"
@@ -187,14 +175,11 @@
     "name:ltz_x_preferred":[
         "Honiara"
     ],
-    "name:mac_x_preferred":[
-        "\u0425\u043e\u043d\u0438\u0458\u0430\u0440\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0939\u094b\u0928\u093f\u092f\u093e\u0930\u093e"
     ],
-    "name:may_x_preferred":[
-        "Honiara"
+    "name:mkd_x_preferred":[
+        "\u0425\u043e\u043d\u0438\u0458\u0430\u0440\u0430"
     ],
     "name:mlg_x_preferred":[
         "Honiara"
@@ -229,9 +214,6 @@
     "name:pan_x_preferred":[
         "\u0a39\u0a4b\u0a28\u0a40\u0a06\u0a30\u0a3e"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0648\u0646\u06cc\u0627\u0631\u0627"
-    ],
     "name:pms_x_preferred":[
         "Honiara"
     ],
@@ -242,9 +224,6 @@
         "Honiara"
     ],
     "name:ron_x_preferred":[
-        "Honiara"
-    ],
-    "name:rum_x_preferred":[
         "Honiara"
     ],
     "name:rus_x_preferred":[
@@ -259,7 +238,7 @@
     "name:sin_x_preferred":[
         "\u0dc4\u0ddc\u0db1\u0dd2\u0dba\u0dcf\u0dbb\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Honiara"
     ],
     "name:slv_x_preferred":[
@@ -301,9 +280,6 @@
     "name:tha_x_preferred":[
         "\u0e42\u0e2e\u0e19\u0e35\u0e2d\u0e32\u0e23\u0e32"
     ],
-    "name:tib_x_preferred":[
-        "\u0f67\u0f7c\u0f0b\u0f49\u0f72\u0f0b\u0f61\u0f0b\u0f62\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Honiara"
     ],
@@ -326,9 +302,6 @@
         "Honiara"
     ],
     "name:war_x_preferred":[
-        "Honiara"
-    ],
-    "name:wel_x_preferred":[
         "Honiara"
     ],
     "name:wuu_x_preferred":[
@@ -464,7 +437,7 @@
     },
     "wof:country":"SB",
     "wof:created":1469052460,
-    "wof:geomhash":"bffdf62c65237d99f6c4dfcee430f024",
+    "wof:geomhash":"fb44964eb122983bc2736bf3853c3d4b",
     "wof:hierarchy":[
         {
             "country_id":85632591,
@@ -472,7 +445,7 @@
         }
     ],
     "wof:id":890444217,
-    "wof:lastmodified":1552519486,
+    "wof:lastmodified":1561839469,
     "wof:name":"Honiara",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -485,7 +458,7 @@
 },
   "bbox": [
     159.9118896211782,
-    -9.457361416173258,
+    -9.45736141617326,
     160.02187906891697,
     -9.41738744324024
 ],

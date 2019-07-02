@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073644,
-    "geom:area_square_m":893850197.310874,
+    "geom:area_square_m":893850197.310936,
     "geom:bbox":"165.722911004,-12.2906226535,168.825856968,-9.80185312242",
     "geom:latitude":-11.004665,
     "geom:longitude":166.263627,
@@ -31,17 +31,20 @@
     "name:ben_x_preferred":[
         "\u099f\u09c7\u09ae\u09cb\u099f\u09c1 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
-    "name:chi_x_preferred":[
-        "\u6cf0\u83ab\u5716\u7701"
-    ],
     "name:dan_x_preferred":[
         "Temotu Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Temotu"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b5\u03bc\u03bf\u03c4\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Temotu"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062a\u0645\u0648\u062a\u0648"
     ],
     "name:fin_x_preferred":[
         "Temotu"
@@ -49,20 +52,11 @@
     "name:fra_x_preferred":[
         "Province de Temotu"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "province de Temotu"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d4\u10db\u10dd\u10e2\u10e3"
-    ],
-    "name:ger_x_preferred":[
-        "Temotu"
     ],
     "name:glg_x_preferred":[
         "Temotu"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b5\u03bc\u03bf\u03c4\u03bf\u03cd"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0ac7\u0aae\u0acb\u0a9f\u0ac1 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -85,6 +79,9 @@
     "name:kan_x_preferred":[
         "\u0ca4\u0cc6\u0cae\u0cca\u0c9f\u0cc1 \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d4\u10db\u10dd\u10e2\u10e3"
+    ],
     "name:kor_x_preferred":[
         "\ud14c\ubaa8\ud22c \uc8fc"
     ],
@@ -97,14 +94,14 @@
     "name:mar_x_preferred":[
         "\u091f\u0947\u092e\u094b\u091f\u094b \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Temotu"
+    ],
+    "name:nld_x_preferred":[
+        "Temotu"
     ],
     "name:nob_x_preferred":[
         "Temotu-provinsen"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062a\u0645\u0648\u062a\u0648"
     ],
     "name:pol_x_preferred":[
         "Prowincja Temotu"
@@ -147,6 +144,9 @@
     ],
     "name:vie_x_preferred":[
         "Temotu"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cf0\u83ab\u5716\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SLB",
@@ -272,7 +272,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553814825,
+    "wof:lastmodified":1561839462,
     "wof:name":"Temotu",
     "wof:parent_id":85632591,
     "wof:placetype":"region",

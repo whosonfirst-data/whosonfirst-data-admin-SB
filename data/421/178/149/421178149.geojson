@@ -16,16 +16,7 @@
     "name:ces_x_preferred":[
         "Auki"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u57fa"
-    ],
-    "name:cze_x_preferred":[
-        "Auki"
-    ],
     "name:deu_x_preferred":[
-        "Auki"
-    ],
-    "name:dut_x_preferred":[
         "Auki"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +29,6 @@
         "Auki"
     ],
     "name:fra_x_preferred":[
-        "Auki"
-    ],
-    "name:fre_x_preferred":[
-        "Auki"
-    ],
-    "name:ger_x_preferred":[
         "Auki"
     ],
     "name:glg_x_preferred":[
@@ -64,9 +49,6 @@
     "name:nld_x_preferred":[
         "Auki"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0648\u06a9\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Auki"
     ],
@@ -76,7 +58,7 @@
     "name:rus_x_preferred":[
         "\u0410\u0443\u043a\u0438"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Auki"
     ],
     "name:spa_x_preferred":[
@@ -90,6 +72,9 @@
     ],
     "name:vep_x_preferred":[
         "Auki"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u57fa"
     ],
     "qs:gn_country":"SB",
     "qs:gn_fcode":"PPL",
@@ -137,7 +122,7 @@
         }
     ],
     "wof:id":421178149,
-    "wof:lastmodified":1527726422,
+    "wof:lastmodified":1561839469,
     "wof:name":"Auki",
     "wof:parent_id":85677077,
     "wof:placetype":"locality",

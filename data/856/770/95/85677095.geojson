@@ -34,17 +34,20 @@
     "name:cat_x_preferred":[
         "Isabel"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u838e\u8c9d\u723e\u7701"
-    ],
     "name:dan_x_preferred":[
         "Isabel Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Isabel"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03b6\u03b1\u03bc\u03c0\u03ad\u03bb"
     ],
     "name:eng_x_preferred":[
         "Isabel"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u06cc\u0632\u0627\u0628\u0644"
     ],
     "name:fin_x_preferred":[
         "Isabel"
@@ -52,20 +55,11 @@
     "name:fra_x_preferred":[
         "Province de Isabel"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "province d'Isabel"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10e1\u10d0\u10d1\u10d4\u10da\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Isabel"
     ],
     "name:glg_x_preferred":[
         "Isabel"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03b6\u03b1\u03bc\u03c0\u03ad\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0ab8\u0abe\u0aac\u0ac7\u0ab2 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -88,6 +82,9 @@
     "name:kan_x_preferred":[
         "\u0c87\u0cb8\u0cbe\u0cac\u0cc6\u0cb2\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e1\u10d0\u10d1\u10d4\u10da\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc774\uc0ac\ubca8 \uc8fc"
     ],
@@ -100,14 +97,14 @@
     "name:mar_x_preferred":[
         "\u0907\u0938\u094d\u092c\u093e\u0908\u0932 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Wilayah Isabel"
+    ],
+    "name:nld_x_preferred":[
+        "Isabel"
     ],
     "name:nob_x_preferred":[
         "Isabel provins"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u06cc\u0632\u0627\u0628\u0644"
     ],
     "name:pol_x_preferred":[
         "Prowincja Isabel"
@@ -150,6 +147,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Isabel"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u838e\u8c9d\u723e\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SLB",
@@ -272,7 +272,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550511,
+    "wof:lastmodified":1561839462,
     "wof:name":"Isabel",
     "wof:parent_id":85632591,
     "wof:placetype":"region",
