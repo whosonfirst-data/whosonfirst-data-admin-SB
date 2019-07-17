@@ -25,11 +25,17 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.0,
+    "name:ceb_x_preferred":[
+        "Makira-Ulawa Province"
+    ],
     "name:deu_x_preferred":[
         "Makira und Ulawa"
     ],
     "name:eng_x_preferred":[
         "Makira"
+    ],
+    "name:eng_x_variant":[
+        "Makira-Ulawa Province"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0645\u0627\u06a9\u06cc\u0631\u0627-\u0627\u0648\u0644\u0627\u0648\u0627"
@@ -81,6 +87,9 @@
     ],
     "name:spa_x_preferred":[
         "Makira"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043a\u0456\u0440\u0430-\u0423\u043b\u0430\u0432\u0430"
     ],
     "name:unk_x_variant":[
         "Makira Province"
@@ -215,7 +224,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561839462,
+    "wof:lastmodified":1563344830,
     "wof:name":"Makira",
     "wof:parent_id":85632591,
     "wof:placetype":"region",

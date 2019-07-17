@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0643\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Auki"
+    ],
     "name:ces_x_preferred":[
         "Auki"
     ],
@@ -35,6 +41,9 @@
         "Auki"
     ],
     "name:hrv_x_preferred":[
+        "Auki"
+    ],
+    "name:ita_x_preferred":[
         "Auki"
     ],
     "name:jpn_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:spa_x_preferred":[
         "Auki"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0443\u043a\u0456"
     ],
     "name:unk_x_variant":[
         "Rarasu"
@@ -122,7 +134,7 @@
         }
     ],
     "wof:id":421178149,
-    "wof:lastmodified":1561839469,
+    "wof:lastmodified":1563345132,
     "wof:name":"Auki",
     "wof:parent_id":85677077,
     "wof:placetype":"locality",

@@ -45,6 +45,9 @@
     "name:amh_x_variant":[
         "\u1230\u120e\u121e\u1295 \u12f0\u1234\u1275"
     ],
+    "name:ang_x_preferred":[
+        "Salomon \u012aege"
+    ],
     "name:ara_x_preferred":[
         "\u062c\u0632\u0631 \u0633\u0644\u064a\u0645\u0627\u0646"
     ],
@@ -56,6 +59,9 @@
     ],
     "name:ast_x_preferred":[
         "Islles Salom\u00f3n"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u0644\u06cc\u0645\u0627\u0646 \u0622\u062f\u0627\u0644\u0627\u0631\u06cc"
     ],
     "name:aze_x_preferred":[
         "Solomon adalar\u0131"
@@ -97,7 +103,8 @@
         "Inizi Salomon"
     ],
     "name:bre_x_variant":[
-        "Salomon"
+        "Salomon",
+        "Inizi Solomon"
     ],
     "name:bul_x_preferred":[
         "\u0421\u043e\u043b\u043e\u043c\u043e\u043d\u043e\u0432\u0438 \u043e\u0441\u0442\u0440\u043e\u0432\u0438 (\u0434\u044a\u0440\u0436\u0430\u0432\u0430)",
@@ -124,7 +131,8 @@
         "\u0160alamounovy ostrovy"
     ],
     "name:ces_x_variant":[
-        "\u0160alamounovy Ostrovy"
+        "\u0160alamounovy Ostrovy",
+        "\u0160alomounovy ostrovy"
     ],
     "name:che_x_preferred":[
         "\u0421\u043e\u043b\u043e\u043c\u043e\u043d\u0430\u043d \u0433\u04c0\u0430\u0439\u0440\u0435\u043d\u0430\u0448"
@@ -160,11 +168,17 @@
     "name:diq_x_preferred":[
         "Adey\u00ea Solomoni"
     ],
+    "name:diq_x_variant":[
+        "Adey S\u0131l\u00eamani"
+    ],
     "name:div_x_preferred":[
         "\u0790\u07ae\u078d\u07ae\u0789\u07ae\u0782\u07b0 \u0796\u07a6\u0792\u07a9\u0783\u07a7"
     ],
     "name:dsb_x_preferred":[
         "Salomony"
+    ],
+    "name:dty_x_preferred":[
+        "\u0938\u094b\u0932\u094b\u092e\u0928 \u0906\u0907\u0932\u094d\u092f\u093e\u0923\u094d\u0921"
     ],
     "name:ell_x_preferred":[
         "\u039d\u03ae\u03c3\u03bf\u03b9 \u03a3\u03bf\u03bb\u03bf\u03bc\u03ce\u03bd\u03c4\u03b1"
@@ -201,6 +215,9 @@
     "name:ext_x_preferred":[
         "Islas Salom\u00f3n"
     ],
+    "name:ext_x_variant":[
+        "Islas Salomon"
+    ],
     "name:fao_x_preferred":[
         "S\u00e1lomonoyggjarnar"
     ],
@@ -209,6 +226,9 @@
     ],
     "name:fas_x_variant":[
         "\u062c\u0632\u06cc\u0631\u0647 \u0647\u0627\u06cc \u0633\u0627\u0644\u0627\u0645\u0648\u0646"
+    ],
+    "name:fij_x_preferred":[
+        "Solomon Islands"
     ],
     "name:fin_x_preferred":[
         "Salomonsaaret"
@@ -229,6 +249,9 @@
     ],
     "name:frp_x_preferred":[
         "Iles Salomon"
+    ],
+    "name:frr_x_preferred":[
+        "Salomoonen"
     ],
     "name:fry_x_preferred":[
         "Salomonseilannen"
@@ -259,6 +282,12 @@
     ],
     "name:gom_x_preferred":[
         "\u0938\u094b\u0932\u094b\u092e\u0928 \u0926\u094d\u0935\u0940\u092a\u0938\u092e\u0942\u0939"
+    ],
+    "name:grn_x_preferred":[
+        "Ypa'\u0169ngu\u00e9ra Salom\u00f5"
+    ],
+    "name:gsw_x_preferred":[
+        "D Salomone"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acb\u0ab2\u0acb\u0aae\u0aa8 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1"
@@ -307,7 +336,8 @@
         "\u054d\u0578\u0572\u0578\u0574\u0578\u0576\u0575\u0561\u0576 \u053f\u0572\u0566\u056b\u0576\u0565\u0580"
     ],
     "name:hye_x_variant":[
-        "\u054d\u0578\u056c\u0578\u0574\u0578\u0576\u0575\u0561\u0576 \u056f\u0572\u0566\u056b\u0576\u0565\u0580"
+        "\u054d\u0578\u056c\u0578\u0574\u0578\u0576\u0575\u0561\u0576 \u056f\u0572\u0566\u056b\u0576\u0565\u0580",
+        "\u054d\u0578\u0572\u0578\u0574\u0578\u0576\u0575\u0561\u0576 \u056f\u0572\u0566\u056b\u0576\u0565\u0580"
     ],
     "name:ido_x_preferred":[
         "Insuli Salomon"
@@ -353,6 +383,9 @@
     "name:kaz_x_preferred":[
         "\u0421\u043e\u043b\u043e\u043c\u043e\u043d \u0430\u0440\u0430\u043b\u0434\u0430\u0440\u044b"
     ],
+    "name:kaz_x_variant":[
+        "\u0421\u04af\u043b\u0435\u0439\u043c\u0435\u043d \u0430\u0440\u0430\u043b\u0434\u0430\u0440\u044b"
+    ],
     "name:kik_x_preferred":[
         "Visiwa vya Solomon"
     ],
@@ -387,6 +420,9 @@
     "name:lav_x_variant":[
         "Z\u0101lamana salas"
     ],
+    "name:lfn_x_preferred":[
+        "Isolas Solomon"
+    ],
     "name:lij_x_preferred":[
         "Isoe Salomon"
     ],
@@ -413,6 +449,9 @@
     ],
     "name:lug_x_preferred":[
         "Bizanga by'eSolomooni"
+    ],
+    "name:lzh_x_preferred":[
+        "\u7d22\u7f85\u9580\u7fa4\u5cf6"
     ],
     "name:mal_x_preferred":[
         "\u0d38\u0d4b\u0d33\u0d2e\u0d7b \u0d26\u0d4d\u0d35\u0d40\u0d2a\u0d41\u0d15\u0d7e"
@@ -465,6 +504,9 @@
     "name:nau_x_preferred":[
         "Toromen"
     ],
+    "name:nau_x_variant":[
+        "Eben Solomon"
+    ],
     "name:nav_x_preferred":[
         "S\u00f3lomon T\u00f3 Bin\u00e1haazy\u00edn\u00edg\u00ed\u00ed"
     ],
@@ -478,7 +520,8 @@
         "\u0938\u094b\u0932\u094b\u092e\u0928 \u0926\u094d\u0935\u0940\u092a"
     ],
     "name:nep_x_variant":[
-        "\u0938\u094b\u0932\u094b\u092e\u094b\u0928 \u091f\u093e\u092a\u0941"
+        "\u0938\u094b\u0932\u094b\u092e\u094b\u0928 \u091f\u093e\u092a\u0941",
+        "\u0938\u094b\u0932\u094b\u092e\u0928 \u0926\u094d\u0935\u093f\u092a"
     ],
     "name:nld_x_preferred":[
         "Salomonseilanden"
@@ -507,11 +550,15 @@
     "name:oci_x_variant":[
         "Illas Salomon"
     ],
+    "name:olo_x_preferred":[
+        "Solomonsuaret"
+    ],
     "name:ori_x_preferred":[
         "\u0b38\u0b4b\u0b32\u0b4b\u0b2e\u0b28 \u0b26\u0b4d\u0b71\u0b40\u0b2a\u0b2a\u0b41\u0b1e\u0b4d\u0b1c"
     ],
     "name:ori_x_variant":[
-        "\u0b38\u0b4b\u0b32\u0b4b\u0b2e\u0b28\u0b4d \u0b26\u0b4d\u0b2c\u0b40\u0b2a\u0b2a\u0b41\u0b1e\u0b4d\u0b1c"
+        "\u0b38\u0b4b\u0b32\u0b4b\u0b2e\u0b28\u0b4d \u0b26\u0b4d\u0b2c\u0b40\u0b2a\u0b2a\u0b41\u0b1e\u0b4d\u0b1c",
+        "\u0b38\u0b4b\u0b32\u0b4b\u0b2e\u0b28 \u0b06\u0b5f\u0b30\u0b32\u0b4d\u0b5f\u0b3e\u0b23\u0b4d\u0b21"
     ],
     "name:oss_x_preferred":[
         "\u0421\u043e\u043b\u043e\u043c\u043e\u043d\u044b \u0441\u0430\u043a\u044a\u0430\u0434\u00e6\u0445\u0442\u00e6"
@@ -521,6 +568,9 @@
     ],
     "name:pan_x_preferred":[
         "\u0a38\u0a4b\u0a32\u0a4b\u0a2e\u0a28 \u0a1f\u0a3e\u0a2a\u0a42"
+    ],
+    "name:pap_x_preferred":[
+        "Isla Solomon"
     ],
     "name:pih_x_preferred":[
         "Solamon Ailen"
@@ -610,6 +660,9 @@
     "name:smo_x_preferred":[
         "Le Motu o Solomona"
     ],
+    "name:smo_x_variant":[
+        "Solomon Islands"
+    ],
     "name:sna_x_preferred":[
         "Solomon Islands"
     ],
@@ -668,6 +721,9 @@
     "name:tat_x_preferred":[
         "\u0421\u043e\u043b\u043e\u043c\u043e\u043d \u0443\u0442\u0440\u0430\u0443\u043b\u0430\u0440\u044b"
     ],
+    "name:tat_x_variant":[
+        "\u0421\u04e9\u043b\u04d9\u0439\u043c\u0430\u043d \u0443\u0442\u0440\u0430\u0443\u043b\u0430\u0440\u044b"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c4b\u0c32\u0c2e\u0c28\u0c4d \u0c26\u0c40\u0c35\u0c41\u0c32\u0c41"
     ],
@@ -677,8 +733,14 @@
     "name:tgk_x_preferred":[
         "\u04b6\u0430\u0437\u043e\u0438\u0440\u0438 \u0421\u0443\u043b\u0430\u0439\u043c\u043e\u043d"
     ],
+    "name:tgk_x_variant":[
+        "\u04b6\u0430\u0437\u0438\u0440\u0430\u04b3\u043e\u0438 \u0421\u043e\u043b\u043e\u043c\u043e\u043d"
+    ],
     "name:tgl_x_preferred":[
         "Kapuluang Salomon"
+    ],
+    "name:tgl_x_variant":[
+        "Kapuluang Solomon"
     ],
     "name:tha_x_preferred":[
         "\u0e2b\u0e21\u0e39\u0e48\u0e40\u0e01\u0e32\u0e30\u0e42\u0e0b\u0e42\u0e25\u0e21\u0e2d\u0e19"
@@ -691,6 +753,9 @@
     ],
     "name:tpi_x_preferred":[
         "Solomon Ailans"
+    ],
+    "name:tuk_x_preferred":[
+        "Solomon Adalary"
     ],
     "name:tur_x_preferred":[
         "Solomon Adalar\u0131"
@@ -739,6 +804,9 @@
     "name:vol_x_preferred":[
         "Solomonu\u00e4ns"
     ],
+    "name:vro_x_preferred":[
+        "Saalomoni saar\u00f5q"
+    ],
     "name:war_x_preferred":[
         "Kapuropod-an Solomon"
     ],
@@ -765,6 +833,9 @@
     ],
     "name:yue_x_preferred":[
         "\u6240\u7f85\u9580\u7fa4\u5cf6"
+    ],
+    "name:zha_x_preferred":[
+        "Solomon Ginzdauj"
     ],
     "name:zho_min_nan_x_preferred":[
         "S\u00f3\u0358-l\u00f4-b\u00fbn K\u00fbn-t\u00f3"
@@ -927,7 +998,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561839463,
+    "wof:lastmodified":1563344838,
     "wof:name":"Solomon Islands",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
