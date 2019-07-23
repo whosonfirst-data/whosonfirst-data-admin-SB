@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0438\u0440\u0430\u043a\u0438\u0440\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Kirakira"
+    ],
     "name:ces_x_preferred":[
         "Kirakira"
     ],
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":421200133,
-    "wof:lastmodified":1561839469,
+    "wof:lastmodified":1563345131,
     "wof:name":"Kirakira",
     "wof:parent_id":85677109,
     "wof:placetype":"locality",

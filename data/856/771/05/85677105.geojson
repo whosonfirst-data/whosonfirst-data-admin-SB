@@ -24,11 +24,17 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.0,
+    "name:ceb_x_preferred":[
+        "Choiseul"
+    ],
     "name:deu_x_preferred":[
         "Choiseul"
     ],
     "name:eng_x_preferred":[
         "Western"
+    ],
+    "name:eng_x_variant":[
+        "Choiseul"
     ],
     "name:est_x_preferred":[
         "Choiseul"
@@ -38,6 +44,9 @@
     ],
     "name:fra_x_variant":[
         "Province de Choiseul"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d9\u05e1\u05d0\u05d5\u05dc"
     ],
     "name:ita_x_preferred":[
         "Choiseul"
@@ -196,7 +205,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550499,
+    "wof:lastmodified":1563344829,
     "wof:name":"Choiseul",
     "wof:parent_id":85632591,
     "wof:placetype":"region",

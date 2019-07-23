@@ -37,6 +37,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia Central"
     ],
+    "name:ceb_x_preferred":[
+        "Central Province"
+    ],
     "name:dan_x_preferred":[
         "Central Province"
     ],
@@ -48,6 +51,12 @@
     ],
     "name:eng_x_preferred":[
         "Central"
+    ],
+    "name:eng_x_variant":[
+        "Central Province"
+    ],
+    "name:epo_x_preferred":[
+        "Centra Provinco"
     ],
     "name:eus_x_preferred":[
         "Probintzia Zentrala"
@@ -63,6 +72,9 @@
     ],
     "name:fra_x_variant":[
         "Province centrale"
+    ],
+    "name:frr_x_preferred":[
+        "Central"
     ],
     "name:glg_x_preferred":[
         "Central"
@@ -93,6 +105,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc911\ubd80 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc911\ubd80\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Centr\u0101l\u0101 province"
@@ -287,7 +302,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561839462,
+    "wof:lastmodified":1563344834,
     "wof:name":"Central",
     "wof:parent_id":85632591,
     "wof:placetype":"region",

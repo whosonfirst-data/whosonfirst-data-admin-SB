@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09cd\u09af\u09be\u09b2\u09be\u0987\u099f\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:ceb_x_preferred":[
+        "Malaita Province"
+    ],
     "name:dan_x_preferred":[
         "Malaita Province"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Malaita"
+    ],
+    "name:eng_x_variant":[
+        "Malaita Province"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0645\u0627\u0644\u0627\u06cc\u062a\u0627"
@@ -135,6 +141,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u041c\u0430\u043b\u0430\u0456\u0442\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u041c\u0430\u043b\u0430\u0457\u0442\u0430"
     ],
     "name:unk_x_variant":[
         "Malaita District"
@@ -271,7 +280,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561839462,
+    "wof:lastmodified":1563344834,
     "wof:name":"Malaita",
     "wof:parent_id":85632591,
     "wof:placetype":"region",

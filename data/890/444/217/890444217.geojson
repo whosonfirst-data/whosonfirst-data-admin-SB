@@ -31,6 +31,9 @@
     "name:ast_x_preferred":[
         "Honiara"
     ],
+    "name:ast_x_variant":[
+        "\u1e24oniara"
+    ],
     "name:aze_x_preferred":[
         "Honiara"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09b9\u09c1\u09a8\u09bf\u09af\u09bc\u09be\u09b0\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u09b9\u09cb\u09a8\u09bf\u09af\u09bc\u09be\u09b0\u09be"
     ],
     "name:bod_x_preferred":[
         "\u0f67\u0f7c\u0f0b\u0f49\u0f72\u0f0b\u0f61\u0f0b\u0f62\u0f0d"
@@ -56,6 +62,9 @@
         "Honiara"
     ],
     "name:cdo_x_preferred":[
+        "Honiara"
+    ],
+    "name:ceb_x_preferred":[
         "Honiara"
     ],
     "name:ces_x_preferred":[
@@ -109,6 +118,9 @@
     "name:glg_x_preferred":[
         "Honiara"
     ],
+    "name:grn_x_preferred":[
+        "Honiara"
+    ],
     "name:guj_x_preferred":[
         "\u0ab9\u0acb\u0aa8\u0abf\u0aaf\u0abe\u0ab0\u0abe"
     ],
@@ -126,6 +138,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0939\u094b\u0928\u093f\u092f\u093e\u0930\u093e"
+    ],
+    "name:hin_x_variant":[
+        "\u0939\u094b\u0928\u093f\u0905\u0930\u093e"
     ],
     "name:hrv_x_preferred":[
         "Honiara"
@@ -270,6 +285,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b93\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u04ba\u043e\u043d\u0438\u0430\u0440\u0430"
     ],
     "name:tel_x_preferred":[
         "\u0c39\u0c4b\u0c28\u0c3f\u0c2f\u0c3e\u0c30\u0c3e"
@@ -445,7 +463,7 @@
         }
     ],
     "wof:id":890444217,
-    "wof:lastmodified":1561839469,
+    "wof:lastmodified":1563345134,
     "wof:name":"Honiara",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
