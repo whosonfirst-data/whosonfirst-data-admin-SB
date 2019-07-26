@@ -25,6 +25,18 @@
     "iso:country":"SB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Masoko"
+    ],
+    "name:ita_x_preferred":[
+        "Masoko"
+    ],
+    "name:swa_x_preferred":[
+        "Masoko"
+    ],
+    "name:swe_x_preferred":[
+        "Masoko"
+    ],
     "name:und_x_variant":[
         "Neembuna",
         "Masoko"
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1326848421,
-    "wof:lastmodified":1537699393,
+    "wof:lastmodified":1564152247,
     "wof:name":"Masoko",
     "wof:parent_id":85677099,
     "wof:placetype":"locality",

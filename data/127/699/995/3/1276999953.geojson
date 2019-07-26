@@ -25,6 +25,18 @@
     "iso:country":"SB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lenga"
+    ],
+    "name:deu_x_preferred":[
+        "Lenga"
+    ],
+    "name:oci_x_preferred":[
+        "Lenga"
+    ],
+    "name:swe_x_preferred":[
+        "Lenga"
+    ],
     "name:und_x_variant":[
         "Lengga",
         "Lenga"
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1276999953,
-    "wof:lastmodified":1537699373,
+    "wof:lastmodified":1564152402,
     "wof:name":"Lenga",
     "wof:parent_id":85677077,
     "wof:placetype":"locality",

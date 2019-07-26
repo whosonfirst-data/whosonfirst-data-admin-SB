@@ -25,6 +25,9 @@
     "iso:country":"SB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Puma"
+    ],
     "name:und_x_variant":[
         "Buma",
         "Puma"
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1242985331,
-    "wof:lastmodified":1537699390,
+    "wof:lastmodified":1564152569,
     "wof:name":"Puma",
     "wof:parent_id":85677099,
     "wof:placetype":"locality",

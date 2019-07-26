@@ -25,6 +25,15 @@
     "iso:country":"SB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kau"
+    ],
+    "name:fra_x_preferred":[
+        "Kau"
+    ],
+    "name:swe_x_preferred":[
+        "Kau"
+    ],
     "name:und_x_variant":[
         "Kowowugy",
         "Kau"
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1226152907,
-    "wof:lastmodified":1537699380,
+    "wof:lastmodified":1564152652,
     "wof:name":"Kau",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

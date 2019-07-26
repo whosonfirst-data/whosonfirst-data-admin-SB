@@ -25,6 +25,21 @@
     "iso:country":"SB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Takwa"
+    ],
+    "name:deu_x_preferred":[
+        "Takwa"
+    ],
+    "name:fra_x_preferred":[
+        "Takwa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043a\u0432\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Takwa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -45,7 +60,7 @@
         }
     ],
     "wof:id":1310519929,
-    "wof:lastmodified":1536895900,
+    "wof:lastmodified":1564152504,
     "wof:name":"Takwa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

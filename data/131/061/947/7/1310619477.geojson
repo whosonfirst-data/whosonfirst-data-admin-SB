@@ -31,6 +31,9 @@
         "Ngautu",
         "Laovavasa"
     ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0648\u0648\u0627\u0648\u0627\u0633\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1310619477,
-    "wof:lastmodified":1537699374,
+    "wof:lastmodified":1564152496,
     "wof:name":"Laovavasa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

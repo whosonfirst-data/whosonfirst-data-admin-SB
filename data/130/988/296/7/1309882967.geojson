@@ -25,6 +25,39 @@
     "iso:country":"SB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Taro Island"
+    ],
+    "name:ces_x_preferred":[
+        "Taro Island"
+    ],
+    "name:deu_x_preferred":[
+        "Taro Island"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u0647 \u062a\u0627\u0631\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Taro"
+    ],
+    "name:glg_x_preferred":[
+        "Taro"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30ed\u5cf6"
+    ],
+    "name:pol_x_preferred":[
+        "Taro Island"
+    ],
+    "name:por_x_preferred":[
+        "Ilha Taro"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u0631\u0648 \u062c\u0632\u06cc\u0631\u06c1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +79,7 @@
         }
     ],
     "wof:id":1309882967,
-    "wof:lastmodified":1537573275,
+    "wof:lastmodified":1564152529,
     "wof:name":"Taro",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

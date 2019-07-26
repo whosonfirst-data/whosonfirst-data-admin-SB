@@ -25,6 +25,15 @@
     "iso:country":"SB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rere"
+    ],
+    "name:deu_x_preferred":[
+        "Rere"
+    ],
+    "name:swe_x_preferred":[
+        "Rere"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632591
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209424873,
-    "wof:lastmodified":1536287412,
+    "wof:lastmodified":1564152446,
     "wof:name":"Rere",
     "wof:parent_id":85632591,
     "wof:placetype":"locality",

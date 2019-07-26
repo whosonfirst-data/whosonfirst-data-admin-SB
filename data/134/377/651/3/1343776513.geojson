@@ -26,6 +26,27 @@
     "iso:country":"SB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "B\u00eama"
+    ],
+    "name:ita_x_preferred":[
+        "Bimah"
+    ],
+    "name:nor_x_preferred":[
+        "Bima"
+    ],
+    "name:por_x_preferred":[
+        "Bema"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043c\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Bema"
+    ],
+    "name:tur_x_preferred":[
+        "Bema"
+    ],
     "name:und_x_variant":[
         "Nemba",
         "Bema"
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1343776513,
-    "wof:lastmodified":1537699395,
+    "wof:lastmodified":1564152280,
     "wof:name":"Bema",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

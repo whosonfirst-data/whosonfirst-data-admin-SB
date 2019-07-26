@@ -25,6 +25,36 @@
     "iso:country":"SB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ur\u00e0"
+    ],
+    "name:ceb_x_preferred":[
+        "Ura"
+    ],
+    "name:chv_x_preferred":[
+        "\u0423\u0440\u0430"
+    ],
+    "name:fra_x_preferred":[
+        "Ura"
+    ],
+    "name:nno_x_preferred":[
+        "Ura"
+    ],
+    "name:que_x_preferred":[
+        "Ura"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0440\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Ura"
+    ],
+    "name:swe_x_preferred":[
+        "Ura"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0440\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +76,7 @@
         }
     ],
     "wof:id":1327148993,
-    "wof:lastmodified":1537086750,
+    "wof:lastmodified":1564152230,
     "wof:name":"Ura",
     "wof:parent_id":85677077,
     "wof:placetype":"locality",

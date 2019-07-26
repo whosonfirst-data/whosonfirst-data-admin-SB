@@ -26,6 +26,15 @@
     "iso:country":"SB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Parapara"
+    ],
+    "name:deu_x_preferred":[
+        "Parapara"
+    ],
+    "name:fra_x_preferred":[
+        "Parapara"
+    ],
     "name:und_x_variant":[
         "Lomati",
         "Parapara"
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1310516257,
-    "wof:lastmodified":1537699360,
+    "wof:lastmodified":1564152505,
     "wof:name":"Parapara",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

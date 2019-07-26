@@ -25,6 +25,9 @@
     "iso:country":"SB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Maluka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -42,7 +45,7 @@
         }
     ],
     "wof:id":1242985555,
-    "wof:lastmodified":1536972550,
+    "wof:lastmodified":1564152571,
     "wof:name":"Maluka",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

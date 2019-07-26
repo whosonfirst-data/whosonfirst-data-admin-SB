@@ -25,6 +25,12 @@
     "iso:country":"SB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Kanata"
+    ],
+    "name:pol_x_preferred":[
+        "Kanata"
+    ],
     "name:und_x_variant":[
         "Lalloassi",
         "Kanata"
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1242989123,
-    "wof:lastmodified":1537699380,
+    "wof:lastmodified":1564152570,
     "wof:name":"Kanata",
     "wof:parent_id":85677077,
     "wof:placetype":"locality",

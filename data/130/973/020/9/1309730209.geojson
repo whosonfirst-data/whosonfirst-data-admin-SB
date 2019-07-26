@@ -25,6 +25,12 @@
     "iso:country":"SB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Apio"
+    ],
+    "name:spa_x_preferred":[
+        "Apio"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1309730209,
-    "wof:lastmodified":1537038409,
+    "wof:lastmodified":1564152527,
     "wof:name":"Apio",
     "wof:parent_id":85677077,
     "wof:placetype":"locality",

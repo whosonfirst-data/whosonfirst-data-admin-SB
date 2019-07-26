@@ -25,6 +25,18 @@
     "iso:country":"SB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ndende"
+    ],
+    "name:deu_x_preferred":[
+        "Ndende"
+    ],
+    "name:fra_x_preferred":[
+        "Ndende"
+    ],
+    "name:swe_x_preferred":[
+        "Ndende"
+    ],
     "name:und_x_variant":[
         "Dende",
         "Ndende"
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1259601229,
-    "wof:lastmodified":1537699363,
+    "wof:lastmodified":1564152612,
     "wof:name":"Ndende",
     "wof:parent_id":85677085,
     "wof:placetype":"locality",
