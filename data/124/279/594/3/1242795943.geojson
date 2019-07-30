@@ -25,6 +25,15 @@
     "iso:country":"SB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lambi"
+    ],
+    "name:deu_x_preferred":[
+        "Lambi"
+    ],
+    "name:swe_x_preferred":[
+        "Lambi"
+    ],
     "name:und_x_variant":[
         "Matenggolo",
         "Lambi"
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1242795943,
-    "wof:lastmodified":1537699374,
+    "wof:lastmodified":1564152564,
     "wof:name":"Lambi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

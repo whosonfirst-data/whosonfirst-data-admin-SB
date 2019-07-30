@@ -26,6 +26,24 @@
     "iso:country":"SB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Noro"
+    ],
+    "name:deu_x_preferred":[
+        "Noro"
+    ],
+    "name:fra_x_preferred":[
+        "Noro"
+    ],
+    "name:pol_x_preferred":[
+        "Noro"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0440\u043e"
+    ],
+    "name:vep_x_preferred":[
+        "Noro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1242765881,
-    "wof:lastmodified":1537573272,
+    "wof:lastmodified":1564152569,
     "wof:name":"Noro",
     "wof:parent_id":85677103,
     "wof:placetype":"locality",

@@ -25,6 +25,33 @@
     "iso:country":"SB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lasa"
+    ],
+    "name:deu_x_preferred":[
+        "Lasa"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03ac\u03c3\u03b1"
+    ],
+    "name:eus_x_preferred":[
+        "Lasa"
+    ],
+    "name:fra_x_preferred":[
+        "Lasa"
+    ],
+    "name:ita_x_preferred":[
+        "Lasa"
+    ],
+    "name:por_x_preferred":[
+        "Lasa"
+    ],
+    "name:spa_x_preferred":[
+        "Lasa"
+    ],
+    "name:swe_x_preferred":[
+        "Lasa"
+    ],
     "name:und_x_variant":[
         "Laga",
         "Lasa"
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":1209730001,
-    "wof:lastmodified":1537699374,
+    "wof:lastmodified":1564152443,
     "wof:name":"Lasa",
     "wof:parent_id":85677089,
     "wof:placetype":"locality",

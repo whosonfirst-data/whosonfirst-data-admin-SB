@@ -25,6 +25,15 @@
     "iso:country":"SB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Vori"
+    ],
+    "name:pol_x_preferred":[
+        "Vori"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0440\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":1293400121,
-    "wof:lastmodified":1536913286,
+    "wof:lastmodified":1564152334,
     "wof:name":"Vori",
     "wof:parent_id":85677103,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"SB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "DC-Universum#Planeten"
+    ],
+    "name:fra_x_preferred":[
+        "Oa"
+    ],
+    "name:ita_x_preferred":[
+        "Oa"
+    ],
     "name:und_x_variant":[
         "Ore",
         "Oa"
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1226558201,
-    "wof:lastmodified":1537699361,
+    "wof:lastmodified":1564152655,
     "wof:name":"Oa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

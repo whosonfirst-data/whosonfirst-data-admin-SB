@@ -25,12 +25,42 @@
     "iso:country":"SB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Tigoa"
+    ],
+    "name:ces_x_preferred":[
+        "Tigoa"
+    ],
+    "name:deu_x_preferred":[
+        "Tigoa"
+    ],
     "name:eng_x_preferred":[
+        "Tigoa"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u06af\u0648\u0627"
+    ],
+    "name:glg_x_preferred":[
+        "Tigoa"
+    ],
+    "name:ita_x_preferred":[
+        "Tigoa"
+    ],
+    "name:lit_x_preferred":[
+        "Tigoa"
+    ],
+    "name:pol_x_preferred":[
+        "Tigoa"
+    ],
+    "name:spa_x_preferred":[
         "Tigoa"
     ],
     "name:und_x_variant":[
         "Hatanggua",
         "Tinggoa"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u06cc\u06af\u0648\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1326716537,
-    "wof:lastmodified":1537699394,
+    "wof:lastmodified":1564152246,
     "wof:name":"Tigoa",
     "wof:parent_id":85677081,
     "wof:placetype":"locality",

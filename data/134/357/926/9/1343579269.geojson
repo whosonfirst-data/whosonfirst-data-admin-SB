@@ -25,6 +25,33 @@
     "iso:country":"SB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mami"
+    ],
+    "name:deu_x_preferred":[
+        "Mami"
+    ],
+    "name:eus_x_preferred":[
+        "Mami"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0645\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Mami"
+    ],
+    "name:hun_x_preferred":[
+        "Mami"
+    ],
+    "name:por_x_preferred":[
+        "Mami"
+    ],
+    "name:swe_x_preferred":[
+        "Mami"
+    ],
+    "name:tur_x_preferred":[
+        "Mami"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +73,7 @@
         }
     ],
     "wof:id":1343579269,
-    "wof:lastmodified":1537069286,
+    "wof:lastmodified":1564152291,
     "wof:name":"Mami",
     "wof:parent_id":85677109,
     "wof:placetype":"locality",

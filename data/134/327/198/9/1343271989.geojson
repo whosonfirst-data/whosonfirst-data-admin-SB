@@ -25,6 +25,18 @@
     "iso:country":"SB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Siata"
+    ],
+    "name:fra_x_preferred":[
+        "Siata"
+    ],
+    "name:nld_x_preferred":[
+        "Siata"
+    ],
+    "name:spa_x_preferred":[
+        "Siata"
+    ],
     "name:und_x_variant":[
         "Ketonga",
         "Relonga",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1343271989,
-    "wof:lastmodified":1537699356,
+    "wof:lastmodified":1564152302,
     "wof:name":"Siata",
     "wof:parent_id":85677085,
     "wof:placetype":"locality",
