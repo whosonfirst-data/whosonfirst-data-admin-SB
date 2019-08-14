@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CH"
+    ],
     "lbl:latitude":-7.046554,
     "lbl:longitude":156.977925,
     "mps:latitude":-7.046554,
@@ -205,7 +208,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563344829,
+    "wof:lastmodified":1565736285,
     "wof:name":"Choiseul",
     "wof:parent_id":85632591,
     "wof:placetype":"region",

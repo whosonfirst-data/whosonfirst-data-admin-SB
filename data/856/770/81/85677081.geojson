@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RB"
+    ],
     "lbl:latitude":-11.59629,
     "lbl:longitude":160.161944,
     "mps:latitude":-11.59629,
@@ -266,7 +269,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563344832,
+    "wof:lastmodified":1565736286,
     "wof:name":"Rennell and Bellona",
     "wof:parent_id":85632591,
     "wof:placetype":"region",

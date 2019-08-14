@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "town council"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CT"
+    ],
     "lbl:latitude":-9.446318,
     "lbl:longitude":159.999342,
     "mps:latitude":-9.446318,
@@ -267,7 +270,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563344830,
+    "wof:lastmodified":1565736285,
     "wof:name":"Capital Territory (Honiara)",
     "wof:parent_id":85632591,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MK"
+    ],
     "lbl:latitude":-10.605359,
     "lbl:longitude":161.925703,
     "mps:latitude":-10.605359,
@@ -215,16 +218,13 @@
         }
     ],
     "wof:id":85677109,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563344830,
+    "wof:lastmodified":1565736285,
     "wof:name":"Makira",
     "wof:parent_id":85632591,
     "wof:placetype":"region",

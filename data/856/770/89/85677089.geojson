@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GU"
+    ],
     "lbl:latitude":-9.614923,
     "lbl:longitude":160.180632,
     "mps:latitude":-9.614923,
@@ -268,16 +271,13 @@
         }
     ],
     "wof:id":85677089,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563344832,
+    "wof:lastmodified":1565736285,
     "wof:name":"Guadalcanal",
     "wof:parent_id":85632591,
     "wof:placetype":"region",

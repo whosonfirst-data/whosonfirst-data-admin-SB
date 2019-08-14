@@ -15,6 +15,9 @@
     "itu:country_code":[
         "677"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SB"
+    ],
     "lbl:latitude":-8.078523,
     "lbl:longitude":159.243596,
     "mps:latitude":-8.078523,
@@ -989,16 +992,13 @@
         }
     ],
     "wof:id":85632591,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563344838,
+    "wof:lastmodified":1565736287,
     "wof:name":"Solomon Islands",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
