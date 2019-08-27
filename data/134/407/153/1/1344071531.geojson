@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"160.13725,-9.10848,160.17725,-9.06848",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ama",
         "A\u2019ama"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1344071531,
-    "wof:lastmodified":1537699389,
+    "wof:lastmodified":1566638632,
     "wof:name":"A'ama",
     "wof:parent_id":85677085,
     "wof:placetype":"locality",

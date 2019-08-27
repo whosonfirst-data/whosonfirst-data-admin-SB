@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-8.126938,
     "lbl:longitude":157.4872,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-8.126938,
     "mps:longitude":157.4872,
     "mz:hierarchy_label":1,
@@ -143,7 +144,7 @@
         "V\u00e4stprovinsen"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1    \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c36\u0c4d\u0c1a\u0c3f\u0c2e \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -157,7 +158,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0445\u0456\u0434\u043d\u0430 \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Isabel"
     ],
     "name:urd_x_preferred":[
@@ -241,9 +242,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-11-22",
+    "src:population_date":"2009-11-22",
     "statoids:area_km":"5,475",
     "statoids:area_mi":"2,114",
     "statoids:as_of_date":"2009-11-22",
@@ -256,7 +257,6 @@
     "statoids:population":"76649",
     "statoids:timezone":"+11",
     "statoids:type":"province",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583,
         85632591
@@ -268,7 +268,7 @@
         "gp:id":2344837,
         "hasc:id":"SB.WE",
         "iso:id":"SB-WE",
-        "qs:id":1142806,
+        "qs_pg:id":1142806,
         "wd:id":"Q150325",
         "wk:page":"Western Province (Solomon Islands)"
     },
@@ -288,11 +288,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565736285,
+    "wof:lastmodified":1566638659,
     "wof:name":"Western",
     "wof:parent_id":85632591,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":76649,
     "wof:population_rank":8,

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-9.614923,
     "lbl:longitude":160.180632,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-9.614923,
     "mps:longitude":160.180632,
     "mz:hierarchy_label":1,
@@ -122,7 +123,7 @@
         "\u0413\u0443\u0430\u0434\u0430\u043b\u043a\u0430\u043d\u0430\u043b"
     ],
     "name:sin_x_preferred":[
-        "\u0d9c\u0dd4\u0d86\u0da9\u0dbd\u0dca\u0d9a\u0dd0\u0db1\u0dbd\u0dca  \u0db4\u0dc5\u0dcf\u0dad"
+        "\u0d9c\u0dd4\u0d86\u0da9\u0dbd\u0dca\u0d9a\u0dd0\u0db1\u0dbd\u0dca \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
         "Guadalcanal"
@@ -145,7 +146,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0443\u0430\u0434\u0430\u043b\u043a\u0430\u043d\u0430\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nggela"
     ],
     "name:urd_x_preferred":[
@@ -230,9 +231,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-11-22",
+    "src:population_date":"2009-11-22",
     "statoids:area_km":"5,336",
     "statoids:area_mi":"2,061",
     "statoids:as_of_date":"2009-11-22",
@@ -257,7 +258,7 @@
         "hasc:id":"SB.GU",
         "iso:id":"SB-GU",
         "loc:id":"n90679466",
-        "qs:id":1114931,
+        "qs_pg:id":1114931,
         "wd:id":"Q760888",
         "wk:page":"Guadalcanal Province"
     },
@@ -277,11 +278,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565736285,
+    "wof:lastmodified":1566638660,
     "wof:name":"Guadalcanal",
     "wof:parent_id":85632591,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":93613,
     "wof:population_rank":8,

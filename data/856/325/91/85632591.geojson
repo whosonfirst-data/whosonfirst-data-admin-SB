@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":-8.078523,
     "lbl:longitude":159.243596,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":-8.078523,
     "mps:longitude":159.243596,
     "mz:hierarchy_label":1,
@@ -775,15 +777,7 @@
         "Salomonoeyene",
         "Salomonoyene"
     ],
-    "name:und_x_preferred":[
-        "Salomonovi otoki"
-    ],
     "name:und_x_variant":[
-        "Salomonsaaret",
-        "Salomon\u00f8erne",
-        "Salomon\u00f8yene"
-    ],
-    "name:unk_x_variant":[
         "British Solomon Islands Protectorate"
     ],
     "name:urd_x_preferred":[
@@ -931,7 +925,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"677",
     "statoids:ds":"SB",
@@ -951,7 +945,6 @@
     "wd:longitude":159.816667,
     "wd:population":561231,
     "wd:wordcount":6101,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583
     ],
@@ -976,7 +969,7 @@
         "mzb:id":"solomon-islands",
         "ne:adm0_a3":"SLB",
         "nyt:id":"40126969236366883451",
-        "qs:id":571984,
+        "qs_pg:id":571984,
         "uncrt:id":"SB",
         "wd:id":"Q685",
         "wk:page":"Solomon Islands",
@@ -998,7 +991,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565736287,
+    "wof:lastmodified":1566638661,
     "wof:name":"Solomon Islands",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"160.25357,-9.80198,160.29357,-9.76198",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Inahombe",
         "Nahombe",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242891971,
-    "wof:lastmodified":1537699362,
+    "wof:lastmodified":1566638846,
     "wof:name":"Njarivonggangga",
     "wof:parent_id":85677089,
     "wof:placetype":"locality",

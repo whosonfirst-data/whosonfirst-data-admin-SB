@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"160.11568,-9.60736,160.15568,-9.56736",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1293704979,
-    "wof:lastmodified":1536970517,
+    "wof:lastmodified":1566638679,
     "wof:name":"Tinomeat",
     "wof:parent_id":85677089,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"162.46131,-10.85976,162.50131,-10.81976",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nategera",
         "Natagere",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310711977,
-    "wof:lastmodified":1537699391,
+    "wof:lastmodified":1566638797,
     "wof:name":"Nataghera",
     "wof:parent_id":85681371,
     "wof:placetype":"locality",

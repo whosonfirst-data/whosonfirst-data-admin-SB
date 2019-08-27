@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"160.69472,-8.35944,160.73472,-8.31944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Suafa",
         "Suaba",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209232985,
-    "wof:lastmodified":1537699370,
+    "wof:lastmodified":1566638751,
     "wof:name":"Matakwaisuu",
     "wof:parent_id":85632591,
     "wof:placetype":"locality",

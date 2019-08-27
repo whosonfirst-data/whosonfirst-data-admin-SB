@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"160.20121,-9.492,160.24121,-9.452",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1309821973,
-    "wof:lastmodified":1536908068,
+    "wof:lastmodified":1566638828,
     "wof:name":"Tombakambu",
     "wof:parent_id":85677089,
     "wof:placetype":"locality",

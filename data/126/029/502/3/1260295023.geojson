@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"156.96333,-7.22,157.00333,-7.18",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Patuvindi",
         "Patuvendi"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260295023,
-    "wof:lastmodified":1537699359,
+    "wof:lastmodified":1566638788,
     "wof:name":"Patuvendi",
     "wof:parent_id":85677105,
     "wof:placetype":"locality",

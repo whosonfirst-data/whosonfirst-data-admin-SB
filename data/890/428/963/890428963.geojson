@@ -11,8 +11,11 @@
     "geom:longitude":165.83333,
     "gn:country":"SB",
     "gn:fcode":"PPL",
-    "gn:pop":538,
+    "gn:population":538,
     "iso:country":"SB",
+    "lbl:bbox":"165.81333,-10.73667,165.85333,-10.69667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -254,7 +257,7 @@
     "wof:concordances":{
         "gn:id":2178750,
         "gp:id":1018900,
-        "qs:id":91080,
+        "qs_pg:id":91080,
         "wd:id":"Q646756"
     },
     "wof:country":"SB",
@@ -269,7 +272,7 @@
         }
     ],
     "wof:id":890428963,
-    "wof:lastmodified":1563345132,
+    "wof:lastmodified":1566638839,
     "wof:name":"Lata",
     "wof:parent_id":85677099,
     "wof:placetype":"locality",

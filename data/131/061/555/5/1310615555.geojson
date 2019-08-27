@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"162.4255,-10.90542,162.4655,-10.86542",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ragapu",
         "Raghapu"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310615555,
-    "wof:lastmodified":1537699390,
+    "wof:lastmodified":1566638809,
     "wof:name":"Raghapu",
     "wof:parent_id":85681371,
     "wof:placetype":"locality",

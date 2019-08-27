@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"158.10481,-8.57967,158.14481,-8.53967",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Batun Mission",
         "Batuna Mission Station",
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209229095,
-    "wof:lastmodified":1537699369,
+    "wof:lastmodified":1566638753,
     "wof:name":"Mbatuna",
     "wof:parent_id":85632591,
     "wof:placetype":"locality",

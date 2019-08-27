@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"160.76239,-8.46676,160.80239,-8.42676",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kombe\u2019aikiki",
         "Kombe\u2019ai"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243186957,
-    "wof:lastmodified":1537699377,
+    "wof:lastmodified":1566638867,
     "wof:name":"Kombe'ai",
     "wof:parent_id":85677077,
     "wof:placetype":"locality",

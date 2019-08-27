@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11747451.213034,
+    "geom:area_square_m":0.0,
     "geom:bbox":"159.941709,-9.425078,159.941709,-9.425078",
     "geom:latitude":-9.425078,
     "geom:longitude":159.941709,
     "gn:latitude":-9.41667,
     "gn:longitude":159.93333,
     "iso:country":"SB",
+    "lbl:bbox":"159.936709,-9.430078,159.946709,-9.420078",
     "lbl:latitude":-9.425078,
     "lbl:longitude":159.941709,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-9.427169,
     "mps:longitude":159.940377,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Tavioa"
-    ],
-    "name:unk_x_variant":[
         "Tavioa"
     ],
     "qs:gn_adm0_cc":"SB",
@@ -58,14 +57,12 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2102690,
         "gp:id":1020168,
-        "qs:id":1167844,
         "qs_pg:id":1167844
     },
     "wof:country":"SB",
@@ -83,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531939955,
+    "wof:lastmodified":1566638658,
     "wof:name":"Tavioa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

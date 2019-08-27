@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"161.00313,-9.2694,161.04313,-9.2294",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0648\u0631 \u0639\u064a\u0646"
     ],
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":1209633331,
-    "wof:lastmodified":1564152416,
+    "wof:lastmodified":1566638743,
     "wof:name":"Houri",
     "wof:parent_id":85632591,
     "wof:placetype":"locality",

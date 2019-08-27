@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-10.715208,
     "lbl:longitude":165.934718,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-10.715208,
     "mps:longitude":165.934718,
     "mz:hierarchy_label":1,
@@ -145,9 +146,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0422\u0435\u043c\u043e\u0442\u0443"
     ],
-    "name:unk_x_variant":[
-        "Temotu Province"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u06cc\u0645\u0648\u062a\u0648 \u0635\u0648\u0628\u06c1"
     ],
@@ -229,9 +227,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-11-22",
+    "src:population_date":"2009-11-22",
     "statoids:area_km":"895",
     "statoids:area_mi":"346",
     "statoids:as_of_date":"2009-11-22",
@@ -245,7 +243,6 @@
     "statoids:timezone":"+11",
     "statoids:type":"province",
     "unlc:subdivision":"SB-TE",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583,
         85632591
@@ -257,7 +254,7 @@
         "gp:id":20069919,
         "hasc:id":"SB.TE",
         "iso:id":"SB-TE",
-        "qs:id":1188783,
+        "qs_pg:id":1188783,
         "unlc:id":"SB-TE",
         "wd:id":"Q936088",
         "wk:page":"Temotu Province"
@@ -278,11 +275,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565736286,
+    "wof:lastmodified":1566638660,
     "wof:name":"Temotu",
     "wof:parent_id":85632591,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":21362,
     "wof:population_rank":7,

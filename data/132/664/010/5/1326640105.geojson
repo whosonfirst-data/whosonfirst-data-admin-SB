@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"159.80392,-9.36741,159.84392,-9.32741",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Daboko",
         "Tamboko"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326640105,
-    "wof:lastmodified":1537699353,
+    "wof:lastmodified":1566638614,
     "wof:name":"Tamboko",
     "wof:parent_id":85677089,
     "wof:placetype":"locality",

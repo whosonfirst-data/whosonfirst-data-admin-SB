@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"160.36333,-9.45333,160.40333,-9.41333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209833707,
-    "wof:lastmodified":1536395847,
+    "wof:lastmodified":1566638746,
     "wof:name":"Komunimala",
     "wof:parent_id":85677089,
     "wof:placetype":"locality",

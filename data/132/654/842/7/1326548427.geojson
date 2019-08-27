@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"160.79667,-9.88667,160.83667,-9.84667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Univa",
         "Oterama"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326548427,
-    "wof:lastmodified":1537699361,
+    "wof:lastmodified":1566638617,
     "wof:name":"Oterama",
     "wof:parent_id":85677089,
     "wof:placetype":"locality",

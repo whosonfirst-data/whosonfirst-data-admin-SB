@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"160.52876,-9.93111,160.56876,-9.89111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Masugologo",
         "Na Kene"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1310020759,
-    "wof:lastmodified":1537699364,
+    "wof:lastmodified":1566638811,
     "wof:name":"Na Kene",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

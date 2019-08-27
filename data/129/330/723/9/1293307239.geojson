@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"157.09711,-7.07508,157.13711,-7.03508",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0647\u0631 \u063a\u0627\u063a\u0647\u0631\u0627"
     ],
@@ -140,8 +144,7 @@
         "\u0490\u0445\u0430\u0491\u0445\u0430\u0440\u0430"
     ],
     "name:und_x_variant":[
-        "Gagara",
-        "Ghaghara"
+        "Gagara"
     ],
     "name:urd_x_preferred":[
         "\u062f\u0631\u06cc\u0627\u0626\u06d2 \u06af\u06be\u0627\u06af\u06be\u0631\u0627"
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":1293307239,
-    "wof:lastmodified":1564152314,
+    "wof:lastmodified":1566638667,
     "wof:name":"Ghaghara",
     "wof:parent_id":85677105,
     "wof:placetype":"locality",

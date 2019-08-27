@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"156.74775,-7.07186,156.78775,-7.03186",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632591
@@ -34,7 +38,7 @@
         "gn:id":2107648
     },
     "wof:country":"SB",
-    "wof:geomhash":"b653e6a323c0ddb1d6d2fddafd97353b",
+    "wof:geomhash":"24e73fce38c339186e2ad12349717447",
     "wof:hierarchy":[
         {
             "country_id":85632591,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209022645,
-    "wof:lastmodified":1536300099,
+    "wof:lastmodified":1566638762,
     "wof:name":"Koloe",
     "wof:parent_id":85632591,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     156.76775,
-    -7.0518600000000005,
+    -7.05186,
     156.76775,
-    -7.0518600000000005
+    -7.05186
 ],
   "geometry": {"coordinates":[156.76775000000001,-7.05186],"type":"Point"}
 }

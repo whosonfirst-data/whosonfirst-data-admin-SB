@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-10.605359,
     "lbl:longitude":161.925703,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-10.605359,
     "mps:longitude":161.925703,
     "mz:hierarchy_label":1,
@@ -94,7 +95,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043a\u0456\u0440\u0430-\u0423\u043b\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Makira Province"
     ],
     "name:urd_x_preferred":[
@@ -178,9 +179,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-11-22",
+    "src:population_date":"2009-11-22",
     "statoids:area_km":"3,188",
     "statoids:area_mi":"1,231",
     "statoids:as_of_date":"2009-11-22",
@@ -204,7 +205,7 @@
         "gp:id":2344841,
         "hasc:id":"SB.MK",
         "iso:id":"SB-MK",
-        "qs:id":191315,
+        "qs_pg:id":191315,
         "wd:id":"Q1116700",
         "wk:page":"Makira-Ulawa Province"
     },
@@ -224,11 +225,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565736285,
+    "wof:lastmodified":1566638659,
     "wof:name":"Makira",
     "wof:parent_id":85632591,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":40419,
     "wof:population_rank":7,

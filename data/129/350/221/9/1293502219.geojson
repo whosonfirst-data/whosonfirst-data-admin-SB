@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"159.79474,-8.39076,159.83474,-8.35076",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1293502219,
-    "wof:lastmodified":1536766113,
+    "wof:lastmodified":1566638686,
     "wof:name":"Hovi",
     "wof:parent_id":85677095,
     "wof:placetype":"locality",

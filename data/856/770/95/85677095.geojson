@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-8.029523,
     "lbl:longitude":159.170404,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-8.029523,
     "mps:longitude":159.170404,
     "mz:hierarchy_label":1,
@@ -134,7 +135,7 @@
         "Isabel provinsen"
     ],
     "name:tam_x_preferred":[
-        "\u0b87\u0b9a\u0baa\u0bc6\u0bb2\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b87\u0b9a\u0baa\u0bc6\u0bb2\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c07\u0c1c\u0c3e\u0c2c\u0c46\u0c32\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -147,9 +148,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0406\u0441\u0430\u0431\u0435\u043b\u044c"
-    ],
-    "name:unk_x_variant":[
-        "Isabel Province"
     ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0632\u0627\u0628\u06cc\u0644 \u0635\u0648\u0628\u06c1"
@@ -230,9 +228,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-11-22",
+    "src:population_date":"2009-11-22",
     "statoids:area_km":"4,136",
     "statoids:area_mi":"1,597",
     "statoids:as_of_date":"2009-11-22",
@@ -257,7 +255,7 @@
         "gp:id":2344840,
         "hasc:id":"SB.IS",
         "iso:id":"SB-IS",
-        "qs:id":1114939,
+        "qs_pg:id":1114939,
         "unlc:id":"SB-IS",
         "wd:id":"Q1139082",
         "wk:page":"Isabel Province"
@@ -278,11 +276,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565736285,
+    "wof:lastmodified":1566638660,
     "wof:name":"Isabel",
     "wof:parent_id":85632591,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":26158,
     "wof:population_rank":7,

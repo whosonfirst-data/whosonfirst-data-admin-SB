@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"159.95777,-9.82585,159.99777,-9.78585",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1343368973,
-    "wof:lastmodified":1536877298,
+    "wof:lastmodified":1566638622,
     "wof:name":"Kolina",
     "wof:parent_id":85677089,
     "wof:placetype":"locality",

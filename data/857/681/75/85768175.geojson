@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13216576.405168,
+    "geom:area_square_m":0.0,
     "geom:bbox":"159.912163,-9.428231,159.912163,-9.428231",
     "geom:latitude":-9.428231,
     "geom:longitude":159.912163,
     "gn:latitude":-9.41667,
     "gn:longitude":159.91667,
     "iso:country":"SB",
+    "lbl:bbox":"159.907163,-9.433231,159.917163,-9.423231",
     "lbl:latitude":-9.428231,
     "lbl:longitude":159.912163,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-9.429148,
     "mps:longitude":159.910123,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Niumara"
-    ],
-    "name:unk_x_variant":[
         "Niumara"
     ],
     "qs:gn_adm0_cc":"SB",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191583,
         85632591,
@@ -68,7 +67,6 @@
     "wof:concordances":{
         "gn:id":2104949,
         "gp:id":1019591,
-        "qs:id":898564,
         "qs_pg:id":898564
     },
     "wof:country":"SB",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859290,
+    "wof:lastmodified":1566638659,
     "wof:name":"Niumara",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

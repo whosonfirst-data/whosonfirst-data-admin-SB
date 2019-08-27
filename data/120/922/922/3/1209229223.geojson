@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"156.56373,-8.04723,156.60373,-8.00723",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kumbokota",
         "Kumbokala",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209229223,
-    "wof:lastmodified":1537699359,
+    "wof:lastmodified":1566638755,
     "wof:name":"Pienuna",
     "wof:parent_id":85632591,
     "wof:placetype":"locality",

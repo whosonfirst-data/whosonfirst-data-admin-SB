@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"159.66738,-8.23734,159.70738,-8.19734",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kimaga",
         "Kmagha"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343473661,
-    "wof:lastmodified":1537699379,
+    "wof:lastmodified":1566638637,
     "wof:name":"Kmagha",
     "wof:parent_id":85677095,
     "wof:placetype":"locality",

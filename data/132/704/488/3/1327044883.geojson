@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"160.43337,-9.51598,160.47337,-9.47598",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Korombusu",
         "Patima"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1327044883,
-    "wof:lastmodified":1537699360,
+    "wof:lastmodified":1566638605,
     "wof:name":"Patima",
     "wof:parent_id":85677089,
     "wof:placetype":"locality",

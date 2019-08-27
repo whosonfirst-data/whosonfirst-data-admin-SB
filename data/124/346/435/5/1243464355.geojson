@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"161.90474,-10.46998,161.94474,-10.42998",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1243464355,
-    "wof:lastmodified":1536780132,
+    "wof:lastmodified":1566638856,
     "wof:name":"Taratarau",
     "wof:parent_id":85677109,
     "wof:placetype":"locality",

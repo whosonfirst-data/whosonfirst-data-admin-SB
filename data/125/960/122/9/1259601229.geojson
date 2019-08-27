@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"160.27643,-9.17914,160.31643,-9.13914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ndende"
     ],
@@ -38,8 +42,7 @@
         "Ndende"
     ],
     "name:und_x_variant":[
-        "Dende",
-        "Ndende"
+        "Dende"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1259601229,
-    "wof:lastmodified":1564152612,
+    "wof:lastmodified":1566638891,
     "wof:name":"Ndende",
     "wof:parent_id":85677085,
     "wof:placetype":"locality",

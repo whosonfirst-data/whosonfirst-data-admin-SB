@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"161.14667,-9.08667,161.18667,-9.04667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1360199081,
-    "wof:lastmodified":1536781629,
+    "wof:lastmodified":1566638825,
     "wof:name":"Manikiriu",
     "wof:parent_id":85677077,
     "wof:placetype":"locality",

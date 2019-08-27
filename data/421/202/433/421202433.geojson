@@ -5,12 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"159.93333,-9.43333,159.93333,-9.43333",
     "geom:latitude":-9.43333,
     "geom:longitude":159.93333,
     "iso:country":"SB",
+    "lbl:bbox":"159.92833,-9.43833,159.93833,-9.42833",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"SB",
     "qs:gn_fcode":"PPLX",
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":2108410,
         "gp:id":1018499,
-        "qs:id":222523
+        "qs_pg:id":222523
     },
     "wof:country":"SB",
     "wof:created":1459010117,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":421202433,
-    "wof:lastmodified":1531858801,
+    "wof:lastmodified":1566638838,
     "wof:name":"Huhuru",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

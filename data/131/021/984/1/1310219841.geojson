@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"155.98237,-7.03596,156.02237,-6.99596",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0633"
     ],
@@ -183,7 +187,7 @@
         }
     ],
     "wof:id":1310219841,
-    "wof:lastmodified":1564152491,
+    "wof:lastmodified":1566638804,
     "wof:name":"Mania",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
