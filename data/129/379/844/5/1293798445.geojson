@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"159.82921,-9.77869,159.86921,-9.73869",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1293798445,
-    "wof:lastmodified":1536834752,
+    "wof:lastmodified":1566638677,
     "wof:name":"Vatukapicha",
     "wof:parent_id":85677089,
     "wof:placetype":"locality",

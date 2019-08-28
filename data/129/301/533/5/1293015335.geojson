@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"161.34291,-10.36365,161.38291,-10.32365",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Anuta"
     ],
@@ -92,8 +96,7 @@
         "\u0410\u043d\u0443\u0442\u0430"
     ],
     "name:und_x_variant":[
-        "Anata",
-        "Anuta"
+        "Anata"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1293015335,
-    "wof:lastmodified":1564152319,
+    "wof:lastmodified":1566638669,
     "wof:name":"Anuta",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"162.24346,-10.85959,162.28346,-10.81959",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Funakuma",
         "Funakumwa"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1293802305,
-    "wof:lastmodified":1537699395,
+    "wof:lastmodified":1566638698,
     "wof:name":"Funakumwa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

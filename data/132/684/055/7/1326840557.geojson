@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"159.64367,-9.59177,159.68367,-9.55177",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1326840557,
-    "wof:lastmodified":1537035132,
+    "wof:lastmodified":1566638608,
     "wof:name":"Mongga",
     "wof:parent_id":85677089,
     "wof:placetype":"locality",

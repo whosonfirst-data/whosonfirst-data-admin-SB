@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"160.71333,-8.85333,160.75333,-8.81333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Falabulu",
         "Falambulu"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209530273,
-    "wof:lastmodified":1537699385,
+    "wof:lastmodified":1566638736,
     "wof:name":"Falambulu",
     "wof:parent_id":85632591,
     "wof:placetype":"locality",

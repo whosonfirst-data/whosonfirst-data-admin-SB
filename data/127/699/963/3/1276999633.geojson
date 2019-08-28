@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"159.80688,-8.34739,159.84688,-8.30739",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Jarava"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1276999633,
-    "wof:lastmodified":1564152401,
+    "wof:lastmodified":1566638732,
     "wof:name":"Jarava",
     "wof:parent_id":85677095,
     "wof:placetype":"locality",

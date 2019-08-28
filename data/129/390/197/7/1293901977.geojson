@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"160.12928,-9.83665,160.16928,-9.79665",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Veramogo",
         "Kolovaleve",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293901977,
-    "wof:lastmodified":1537699378,
+    "wof:lastmodified":1566638675,
     "wof:name":"Kologhalivei",
     "wof:parent_id":85677089,
     "wof:placetype":"locality",

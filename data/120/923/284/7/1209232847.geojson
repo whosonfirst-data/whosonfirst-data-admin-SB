@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"161.48753,-9.68193,161.52753,-9.64193",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632591
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209232847,
-    "wof:lastmodified":1536293583,
+    "wof:lastmodified":1566638751,
     "wof:name":"Tawahaule",
     "wof:parent_id":85632591,
     "wof:placetype":"locality",

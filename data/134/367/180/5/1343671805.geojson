@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"160.31942,-9.52971,160.35942,-9.48971",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1343671805,
-    "wof:lastmodified":1536939331,
+    "wof:lastmodified":1566638645,
     "wof:name":"Numbu",
     "wof:parent_id":85677089,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"160.02057,-9.84047,160.06057,-9.80047",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Inakona Mission",
         "Inakona"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293019033,
-    "wof:lastmodified":1537699381,
+    "wof:lastmodified":1566638671,
     "wof:name":"Inakona",
     "wof:parent_id":85677089,
     "wof:placetype":"locality",

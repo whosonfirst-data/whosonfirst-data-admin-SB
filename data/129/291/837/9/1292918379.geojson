@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"161.86361,-10.56469,161.90361,-10.52469",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Manigai",
         "Manighai"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1292918379,
-    "wof:lastmodified":1537699393,
+    "wof:lastmodified":1566638693,
     "wof:name":"Manighai",
     "wof:parent_id":85677109,
     "wof:placetype":"locality",

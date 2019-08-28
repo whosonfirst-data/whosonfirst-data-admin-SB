@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"159.52701,-8.14162,159.56701,-8.10162",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1260192821,
-    "wof:lastmodified":1536834029,
+    "wof:lastmodified":1566638790,
     "wof:name":"Sorusitana",
     "wof:parent_id":85677095,
     "wof:placetype":"locality",

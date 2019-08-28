@@ -11,8 +11,11 @@
     "geom:longitude":156.84186,
     "gn:country":"SB",
     "gn:fcode":"PPL",
-    "gn:pop":6154,
+    "gn:population":6154,
     "iso:country":"SB",
+    "lbl:bbox":"156.82186,-8.12303,156.86186,-8.08303",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -70,7 +73,7 @@
     "name:spa_x_preferred":[
         "Gizo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ghizo"
     ],
     "name:urd_x_preferred":[
@@ -187,7 +190,7 @@
     "wof:concordances":{
         "gn:id":2108857,
         "gp:id":1018378,
-        "qs:id":1033801,
+        "qs_pg:id":1033801,
         "wd:id":"Q1236908",
         "wk:page":"Gizo"
     },
@@ -201,7 +204,7 @@
         }
     ],
     "wof:id":890444219,
-    "wof:lastmodified":1563345132,
+    "wof:lastmodified":1566638839,
     "wof:name":"Gizo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

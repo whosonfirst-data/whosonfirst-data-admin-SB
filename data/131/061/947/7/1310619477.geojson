@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"159.62451,-9.29936,159.66451,-9.25936",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tanalanga",
         "Lauvavasa",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310619477,
-    "wof:lastmodified":1564152496,
+    "wof:lastmodified":1566638809,
     "wof:name":"Laovavasa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

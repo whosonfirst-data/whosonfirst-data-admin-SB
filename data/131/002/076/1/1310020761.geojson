@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"159.68108,-8.4573,159.72108,-8.4173",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Suma"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1310020761,
-    "wof:lastmodified":1564152500,
+    "wof:lastmodified":1566638811,
     "wof:name":"Suma",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

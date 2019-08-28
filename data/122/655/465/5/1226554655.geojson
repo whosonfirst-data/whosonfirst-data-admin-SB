@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"160.45525,-9.53026,160.49525,-9.49026",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rabu",
         "Tuvu"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226554655,
-    "wof:lastmodified":1537699351,
+    "wof:lastmodified":1566638923,
     "wof:name":"Tuvu",
     "wof:parent_id":85677089,
     "wof:placetype":"locality",

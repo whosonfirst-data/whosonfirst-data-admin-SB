@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"161.11369,-9.15875,161.15369,-9.11875",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1276345579,
-    "wof:lastmodified":1536762203,
+    "wof:lastmodified":1566638713,
     "wof:name":"Torapora",
     "wof:parent_id":85677077,
     "wof:placetype":"locality",

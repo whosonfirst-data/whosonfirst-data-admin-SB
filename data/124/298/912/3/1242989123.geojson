@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"161.15899,-9.10947,161.19899,-9.06947",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Kanata"
     ],
@@ -32,8 +36,7 @@
         "Kanata"
     ],
     "name:und_x_variant":[
-        "Lalloassi",
-        "Kanata"
+        "Lalloassi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1242989123,
-    "wof:lastmodified":1564152570,
+    "wof:lastmodified":1566638864,
     "wof:name":"Kanata",
     "wof:parent_id":85677077,
     "wof:placetype":"locality",

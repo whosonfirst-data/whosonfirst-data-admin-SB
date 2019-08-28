@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"159.68,-9.67,159.72,-9.63",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hoilona",
         "Langanaku"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293408251,
-    "wof:lastmodified":1537699374,
+    "wof:lastmodified":1566638684,
     "wof:name":"Langanaku",
     "wof:parent_id":85677089,
     "wof:placetype":"locality",

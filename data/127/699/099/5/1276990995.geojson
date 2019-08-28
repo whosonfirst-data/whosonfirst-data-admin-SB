@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"160.17368,-9.80933,160.21368,-9.76933",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Tundu"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1276990995,
-    "wof:lastmodified":1564152402,
+    "wof:lastmodified":1566638733,
     "wof:name":"Tundu",
     "wof:parent_id":85677089,
     "wof:placetype":"locality",

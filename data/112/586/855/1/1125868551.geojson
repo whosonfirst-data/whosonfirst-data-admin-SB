@@ -9,17 +9,20 @@
     "geom:bbox":"160.14759,-9.09958,160.14759,-9.09958",
     "geom:latitude":-9.09958,
     "geom:longitude":160.14759,
-    "gn:gn_country":"SB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1472,
-    "gn:population":1750,
+    "gn:country":"SB",
+    "gn:fcode":"PPL",
+    "gn:population":1472,
     "iso:country":"SB",
+    "lbl:bbox":"160.12759,-9.11958,160.16759,-9.07958",
     "lbl:latitude":-9.09958,
     "lbl:longitude":160.14759,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tulagi"
     ],
     "qs_pg:aaroncc":"SB",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":138447,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191583,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1125868551,
-    "wof:lastmodified":1509397153,
+    "wof:lastmodified":1566638839,
     "wof:name":"Tulaghi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

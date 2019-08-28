@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"160.86161,-8.80876,160.90161,-8.76876",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1242692387,
-    "wof:lastmodified":1536898304,
+    "wof:lastmodified":1566638853,
     "wof:name":"Asibonga",
     "wof:parent_id":85677077,
     "wof:placetype":"locality",

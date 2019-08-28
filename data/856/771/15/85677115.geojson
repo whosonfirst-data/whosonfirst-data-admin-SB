@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-9.446318,
     "lbl:longitude":159.999342,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-9.446318,
     "mps:longitude":159.999342,
     "mz:hierarchy_label":1,
@@ -118,7 +119,7 @@
         "\u0413\u0443\u0430\u0434\u0430\u043b\u043a\u0430\u043d\u0430\u043b"
     ],
     "name:sin_x_preferred":[
-        "\u0d9c\u0dd4\u0d86\u0da9\u0dbd\u0dca\u0d9a\u0dd0\u0db1\u0dbd\u0dca  \u0db4\u0dc5\u0dcf\u0dad"
+        "\u0d9c\u0dd4\u0d86\u0da9\u0dbd\u0dca\u0d9a\u0dd0\u0db1\u0dbd\u0dca \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
         "Guadalcanal"
@@ -224,9 +225,9 @@
     "qs:woeid":2344839,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-11-22",
+    "src:population_date":"2009-11-22",
     "statoids:area_km":"22",
     "statoids:area_mi":"8",
     "statoids:as_of_date":"2009-11-22",
@@ -270,11 +271,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565736285,
+    "wof:lastmodified":1566638660,
     "wof:name":"Capital Territory (Honiara)",
     "wof:parent_id":85632591,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"town council",
     "wof:population":64609,
     "wof:population_rank":8,

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Guadalcanal",
     "iso:country":"SB",
+    "lbl:bbox":"160.31401,-9.60566,160.35401,-9.56566",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Belati",
         "Mbelati"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259601431,
-    "wof:lastmodified":1537699368,
+    "wof:lastmodified":1566638890,
     "wof:name":"Mbelati",
     "wof:parent_id":85677089,
     "wof:placetype":"locality",
