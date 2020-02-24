@@ -210,6 +210,9 @@
         "wk:page":"Makira-Ulawa Province"
     },
     "wof:country":"SB",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7f499022bafa5de5e794a3a04728885b",
     "wof:hierarchy":[
         {
@@ -225,7 +228,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566638659,
+    "wof:lastmodified":1582319031,
     "wof:name":"Makira",
     "wof:parent_id":85632591,
     "wof:placetype":"region",

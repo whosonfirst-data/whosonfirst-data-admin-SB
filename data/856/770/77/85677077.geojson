@@ -266,6 +266,9 @@
         "wk:page":"Malaita Province"
     },
     "wof:country":"SB",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"becd5d3e06850598794886168e8ae1a8",
     "wof:hierarchy":[
         {
@@ -281,7 +284,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566638660,
+    "wof:lastmodified":1582319031,
     "wof:name":"Malaita",
     "wof:parent_id":85632591,
     "wof:placetype":"region",

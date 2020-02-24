@@ -262,6 +262,9 @@
     },
     "wof:country":"SB",
     "wof:created":1469051784,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"2da9f6102c3e216b7c5468a9c28c7c10",
     "wof:hierarchy":[
         {
@@ -272,7 +275,7 @@
         }
     ],
     "wof:id":890428963,
-    "wof:lastmodified":1566638839,
+    "wof:lastmodified":1582319036,
     "wof:name":"Lata",
     "wof:parent_id":85677099,
     "wof:placetype":"locality",

@@ -273,6 +273,9 @@
         "wk:page":"Western Province (Solomon Islands)"
     },
     "wof:country":"SB",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a00ee1cdf03ecc56d84f9e95f9a3b75e",
     "wof:hierarchy":[
         {
@@ -288,7 +291,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566638659,
+    "wof:lastmodified":1582319031,
     "wof:name":"Western",
     "wof:parent_id":85632591,
     "wof:placetype":"region",

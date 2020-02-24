@@ -260,6 +260,9 @@
         "wk:page":"Temotu Province"
     },
     "wof:country":"SB",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"06b30903b9c7bc3746f1bfda40f7079c",
     "wof:hierarchy":[
         {
@@ -275,7 +278,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566638660,
+    "wof:lastmodified":1582319031,
     "wof:name":"Temotu",
     "wof:parent_id":85632591,
     "wof:placetype":"region",

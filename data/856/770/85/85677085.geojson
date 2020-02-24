@@ -287,6 +287,9 @@
         "wk:page":"Central Province (Solomon Islands)"
     },
     "wof:country":"SB",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"342d0bf35283fcc4f565266bd1addf51",
     "wof:hierarchy":[
         {
@@ -302,7 +305,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566638661,
+    "wof:lastmodified":1582319031,
     "wof:name":"Central",
     "wof:parent_id":85632591,
     "wof:placetype":"region",
