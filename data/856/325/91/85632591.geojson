@@ -977,6 +977,10 @@
     },
     "wof:country":"SB",
     "wof:country_alpha3":"SLB",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"c93cb07aa19ae55e490a5113a90853b7",
     "wof:hierarchy":[
         {
@@ -991,7 +995,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566638661,
+    "wof:lastmodified":1582319032,
     "wof:name":"Solomon Islands",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

@@ -457,6 +457,9 @@
     },
     "wof:country":"SB",
     "wof:created":1469052460,
+    "wof:geom_alt":[
+        "unknown"
+    ],
     "wof:geomhash":"fb44964eb122983bc2736bf3853c3d4b",
     "wof:hierarchy":[
         {
@@ -465,7 +468,7 @@
         }
     ],
     "wof:id":890444217,
-    "wof:lastmodified":1566638839,
+    "wof:lastmodified":1582319036,
     "wof:name":"Honiara",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
