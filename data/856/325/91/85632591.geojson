@@ -954,9 +954,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Solomon_Islands",
-        "digitalenvoy:country_code":[
-            90
-        ],
+        "digitalenvoy:country_code":90,
         "fb:id":"en.solomon_islands",
         "fifa:id":"SOL",
         "fips:code":"BP",
@@ -998,7 +996,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1583529221,
+    "wof:lastmodified":1583797430,
     "wof:name":"Solomon Islands",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
