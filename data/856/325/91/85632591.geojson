@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.384571,
-    "geom:area_square_m":29124918494.130108,
+    "geom:area_square_m":29124918270.052151,
     "geom:bbox":"155.512924,-12.598079,170.100418,-5.000417",
     "geom:latitude":-8.890989,
     "geom:longitude":159.594827,
@@ -58,6 +58,9 @@
     ],
     "name:arg_x_preferred":[
         "Islas Salom\u00f3n"
+    ],
+    "name:ary_x_preferred":[
+        "\u062c\u0632\u0631 \u0635\u0627\u0644\u0648\u0645\u0648\u0646"
     ],
     "name:arz_x_preferred":[
         "\u062c\u0632\u0631 \u0633\u0648\u0644\u0648\u0645\u0648\u0646"
@@ -163,6 +166,12 @@
     "name:dan_x_preferred":[
         "Salomon\u00f8erne"
     ],
+    "name:deu_at_x_preferred":[
+        "Salomonen"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Salomonen"
+    ],
     "name:deu_x_preferred":[
         "Salomonen"
     ],
@@ -174,7 +183,8 @@
         "Adey\u00ea Solomoni"
     ],
     "name:diq_x_variant":[
-        "Adey S\u0131l\u00eamani"
+        "Adey S\u0131l\u00eamani",
+        "Adey Solomani"
     ],
     "name:div_x_preferred":[
         "\u0790\u07ae\u078d\u07ae\u0789\u07ae\u0782\u07b0 \u0796\u07a6\u0792\u07a9\u0783\u07a7"
@@ -191,6 +201,12 @@
     "name:ell_x_variant":[
         "\u039d\u03ae\u03c3\u03bf\u03b9 \u03a3\u03bf\u03bb\u03bf\u03bc\u03ce\u03bd\u03c4\u03bf\u03c2",
         "\u039d\u03b7\u03c3\u03b9\u03ac \u03a3\u03bf\u03bb\u03bf\u03bc\u03ce\u03bd\u03c4\u03b1"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Solomon Islands"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Solomon Islands"
     ],
     "name:eng_x_preferred":[
         "Solomon Islands"
@@ -266,6 +282,9 @@
     ],
     "name:gag_x_preferred":[
         "Solomon Adalar\u0131"
+    ],
+    "name:gcr_x_preferred":[
+        "Zil Salomon"
     ],
     "name:gla_x_preferred":[
         "Na h-Eileanan Sholaimh"
@@ -595,6 +614,9 @@
     "name:pol_x_preferred":[
         "Wyspy Salomona"
     ],
+    "name:por_br_x_preferred":[
+        "Ilhas Salom\u00e3o"
+    ],
     "name:por_x_colloquial":[
         "Ilhas Salomao"
     ],
@@ -603,6 +625,9 @@
     ],
     "name:pus_x_preferred":[
         "\u062f \u0633\u0644\u06d0\u0645\u0627\u0646 \u067c\u0627\u067e\u0648\u0627\u0646"
+    ],
+    "name:pus_x_variant":[
+        "\u0633\u0648\u0644\u0648\u0645\u0648\u0646 \u067c\u0627\u067e\u0648\u06ab\u0627\u0646"
     ],
     "name:que_x_preferred":[
         "Salumun wat'akuna"
@@ -674,6 +699,9 @@
     "name:sna_x_variant":[
         "Zvitsuwa zvaSolomon"
     ],
+    "name:snd_x_preferred":[
+        "\u0633\u0648\u0644\u0648\u0645\u0646 \u0622\u0626\u0644\u064a\u0646\u068a\u0632"
+    ],
     "name:som_x_preferred":[
         "Jasiiradaha Solomon"
     ],
@@ -691,6 +719,9 @@
     ],
     "name:sqi_x_preferred":[
         "Ishujt Solomon"
+    ],
+    "name:srd_x_preferred":[
+        "\u00ccsulas Salomone"
     ],
     "name:srp_x_preferred":[
         "\u0421\u043e\u043b\u043e\u043c\u043e\u043d\u043e\u0432\u0430 \u041e\u0441\u0442\u0440\u0432\u0430"
@@ -831,11 +862,32 @@
     "name:yue_x_preferred":[
         "\u6240\u7f85\u9580\u7fa4\u5cf6"
     ],
+    "name:zea_x_preferred":[
+        "Salomonseilan'n"
+    ],
     "name:zha_x_preferred":[
         "Solomon Ginzdauj"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u6240\u7f57\u95e8\u7fa4\u5c9b"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u6240\u7f85\u9580\u7fa4\u5cf6"
+    ],
     "name:zho_min_nan_x_preferred":[
         "S\u00f3\u0358-l\u00f4-b\u00fbn K\u00fbn-t\u00f3"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u6240\u7f85\u9580\u7fa4\u5cf6"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u6240\u7f57\u95e8\u7fa4\u5c9b"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u6240\u7f57\u95e8\u7fa4\u5c9b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7d22\u7f85\u9580\u7fa4\u5cf6"
     ],
     "name:zho_x_preferred":[
         "\u6240\u7f57\u95e8\u7fa4\u5c9b"
@@ -996,7 +1048,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1583797430,
+    "wof:lastmodified":1587427684,
     "wof:name":"Solomon Islands",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

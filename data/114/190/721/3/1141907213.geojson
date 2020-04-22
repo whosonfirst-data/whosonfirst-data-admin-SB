@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"165.856735309,-10.7380183201,165.856735309,-10.7380183201",
+    "geom:bbox":"165.856735,-10.738018,165.856735,-10.738018",
     "geom:latitude":-10.738018,
     "geom:longitude":165.856735,
     "iso:country":"SB",
@@ -121,7 +121,7 @@
         "\u0bb2\u0b9f\u0bbe"
     ],
     "name:tam_x_variant":[
-        "\u0bb2\u0b9f\u0bbe "
+        "\u0bb2\u0b9f\u0bbe"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c24\u0c3e"
@@ -254,7 +254,7 @@
     },
     "wof:country":"SB",
     "wof:created":1499130696,
-    "wof:geomhash":"eaa652dc949335cbef60d5201e6860e2",
+    "wof:geomhash":"8539a91e9eaa60498699f8584d81b35c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -264,7 +264,7 @@
         }
     ],
     "wof:id":1141907213,
-    "wof:lastmodified":1566638930,
+    "wof:lastmodified":1587163114,
     "wof:name":"Lata",
     "wof:parent_id":85677099,
     "wof:placetype":"locality",
@@ -274,10 +274,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    165.85673530931126,
-    -10.73801832012691,
-    165.85673530931126,
-    -10.73801832012691
+    165.856735,
+    -10.738018,
+    165.856735,
+    -10.738018
 ],
-  "geometry": {"coordinates":[165.85673530931126,-10.73801832012691],"type":"Point"}
+  "geometry": {"coordinates":[165.85673499999999,-10.738018],"type":"Point"}
 }
