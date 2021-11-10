@@ -168,6 +168,9 @@
         "Maniya"
     ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Mania"
+    ],
+    "name:vie_x_variant":[
         "H\u01b0ng c\u1ea3m"
     ],
     "src:geom":"geonames",
@@ -177,7 +180,7 @@
         "gn:id":2106404
     },
     "wof:country":"SB",
-    "wof:geomhash":"64c6893572478555b0c322a246e53800",
+    "wof:geomhash":"7784fe16639b268b88111291b45252b4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":1310219841,
-    "wof:lastmodified":1566638804,
+    "wof:lastmodified":1636495726,
     "wof:name":"Mania",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -197,10 +200,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    156.00236999999996,
+    156.00237,
     -7.01596,
-    156.00236999999996,
+    156.00237,
     -7.01596
 ],
-  "geometry": {"coordinates":[156.00236999999996,-7.01596],"type":"Point"}
+  "geometry": {"coordinates":[156.00237000000001,-7.01596],"type":"Point"}
 }

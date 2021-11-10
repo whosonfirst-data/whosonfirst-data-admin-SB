@@ -61,8 +61,14 @@
     "name:guj_x_preferred":[
         "\u0ab2\u0aa4\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05d8\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0932\u0924\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Lata"
     ],
     "name:ind_x_preferred":[
         "Lata"
@@ -275,7 +281,7 @@
         }
     ],
     "wof:id":890428963,
-    "wof:lastmodified":1587163142,
+    "wof:lastmodified":1636495726,
     "wof:name":"Lata",
     "wof:parent_id":85677099,
     "wof:placetype":"locality",

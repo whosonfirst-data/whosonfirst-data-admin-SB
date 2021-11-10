@@ -189,6 +189,9 @@
         "Sawa"
     ],
     "name:por_x_preferred":[
+        "Sava"
+    ],
+    "name:por_x_variant":[
         "Rio Sava"
     ],
     "name:ron_x_preferred":[
@@ -242,6 +245,12 @@
     "name:vie_x_preferred":[
         "Sava"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u8428\u74e6\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u85a9\u74e6"
+    ],
     "name:zho_x_preferred":[
         "\u85a9\u74e6\u6cb3"
     ],
@@ -265,7 +274,7 @@
         }
     ],
     "wof:id":1209830059,
-    "wof:lastmodified":1566638748,
+    "wof:lastmodified":1636495726,
     "wof:name":"Sava",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
