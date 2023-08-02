@@ -55,6 +55,9 @@
     "name:eng_x_variant":[
         "Rennell and Bellona Province"
     ],
+    "name:eus_x_preferred":[
+        "Rennell eta Bellonako probintzia"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0631\u0646\u0627\u0644 \u0648 \u0628\u0644\u0648\u0646\u0627"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:fra_x_preferred":[
         "Province de Rennell et Bellona"
+    ],
+    "name:frr_x_preferred":[
+        "Rennell an Bellona"
     ],
     "name:glg_x_preferred":[
         "Rennell e Bellona"
@@ -73,6 +79,9 @@
     "name:heb_x_preferred":[
         "\u05e8\u05e0\u05dc \u05d5\u05d1\u05dc\u05d5\u05e0\u05d4"
     ],
+    "name:heb_x_variant":[
+        "\u05de\u05d7\u05d5\u05d6 \u05e8\u05e0\u05dc \u05d5\u05d1\u05dc\u05d5\u05e0\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0930\u0947\u0928\u0947\u0932 \u0914\u0930 \u092c\u0947\u0932\u094b\u0928\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
@@ -81,6 +90,9 @@
     ],
     "name:hun_x_preferred":[
         "Rennell and Bellona"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054c\u0565\u0576\u0565\u056c \u0565\u0582 \u054a\u0565\u056c\u0578\u0576\u0561 \u0576\u0561\u0570\u0561\u0576\u0563"
     ],
     "name:ind_x_preferred":[
         "Provinsi Rennell dan Bellona"
@@ -100,6 +112,9 @@
     "name:kor_x_preferred":[
         "\ub80c\ub12c\ubca8\ub85c\ub098 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub80c\ub12c\ubca8\ub85c\ub098\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Renelas un Belonas province"
     ],
@@ -111,6 +126,9 @@
     ],
     "name:msa_x_preferred":[
         "Rennell and Bellona Province"
+    ],
+    "name:nan_x_preferred":[
+        "Rennell kap Bellona S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Rennell-Bellona"
@@ -275,7 +293,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636495724,
+    "wof:lastmodified":1690860388,
     "wof:name":"Rennell and Bellona",
     "wof:parent_id":85632591,
     "wof:placetype":"region",
