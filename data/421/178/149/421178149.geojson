@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0643\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u0643\u0649"
+    ],
+    "name:cat_x_preferred":[
+        "Auki"
+    ],
     "name:ceb_x_preferred":[
         "Auki"
     ],
@@ -43,6 +49,9 @@
     ],
     "name:glg_x_preferred":[
         "Auki"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d0\u05d5\u05e7\u05d9"
     ],
     "name:hrv_x_preferred":[
         "Auki"
@@ -75,6 +84,9 @@
         "Auki"
     ],
     "name:spa_x_preferred":[
+        "Auki"
+    ],
+    "name:swe_x_preferred":[
         "Auki"
     ],
     "name:ukr_x_preferred":[
@@ -138,7 +150,7 @@
         }
     ],
     "wof:id":421178149,
-    "wof:lastmodified":1566638838,
+    "wof:lastmodified":1690860392,
     "wof:name":"Auki",
     "wof:parent_id":85677077,
     "wof:placetype":"locality",
