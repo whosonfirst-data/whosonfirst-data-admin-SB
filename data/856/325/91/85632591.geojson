@@ -1130,7 +1130,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"677",
     "statoids:ds":"SB",
     "statoids:fifa":"SOL",
@@ -1201,7 +1201,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1694492057,
+    "wof:lastmodified":1694639512,
     "wof:name":"Solomon Islands",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
