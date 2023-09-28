@@ -1168,6 +1168,7 @@
         "hasc:id":"SB",
         "icao:code":"H4",
         "ioc:id":"SOL",
+        "iso:code":"SB",
         "itu:id":"SLM",
         "m49:code":"090",
         "marc:id":"bp",
@@ -1181,6 +1182,7 @@
         "wk:page":"Solomon Islands",
         "wmo:id":"SO"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SB",
     "wof:country_alpha3":"SLB",
     "wof:geom_alt":[
@@ -1201,7 +1203,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1694639512,
+    "wof:lastmodified":1695881166,
     "wof:name":"Solomon Islands",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
