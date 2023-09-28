@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055516,
-    "geom:area_square_m":672343797.205285,
+    "geom:area_square_m":672344615.759342,
     "geom:bbox":"159.777354,-11.84588,160.582205,-11.28281",
     "geom:latitude":-11.640074,
     "geom:longitude":160.250039,
@@ -273,12 +273,14 @@
         "gn:id":7280293,
         "gp:id":-2344841,
         "hasc:id":"SB.RB",
+        "iso:code":"SB-RB",
         "iso:id":"SB-RB",
         "unlc:id":"SB-RB",
         "wd:id":"Q1051475"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SB",
-    "wof:geomhash":"e9b792710f1f9bd172540cc40c3fe09a",
+    "wof:geomhash":"e3cedde1e9f815fff536dba75acf51d7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -293,7 +295,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690860388,
+    "wof:lastmodified":1695884812,
     "wof:name":"Rennell and Bellona",
     "wof:parent_id":85632591,
     "wof:placetype":"region",

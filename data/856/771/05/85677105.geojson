@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.245801,
-    "geom:area_square_m":3016444020.895017,
+    "geom:area_square_m":3016444568.901568,
     "geom:bbox":"156.446625,-7.474786,157.797374,-6.599867",
     "geom:latitude":-7.039331,
     "geom:longitude":156.974908,
@@ -207,12 +207,14 @@
         "gn:id":7280292,
         "gp:id":-2344837,
         "hasc:id":"SB.CH",
+        "iso:code":"SB-CH",
         "iso:id":"SB-CH",
         "unlc:id":"SB-CH",
         "wd:id":"Q230468"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SB",
-    "wof:geomhash":"5355c9bb2469fee0d6674dd6355d3cb4",
+    "wof:geomhash":"8faca4d5dcbbdc35af1c2d941b444925",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -227,7 +229,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636495724,
+    "wof:lastmodified":1695884812,
     "wof:name":"Choiseul",
     "wof:parent_id":85632591,
     "wof:placetype":"region",

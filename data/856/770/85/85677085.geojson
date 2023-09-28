@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047225,
-    "geom:area_square_m":576637091.408152,
+    "geom:area_square_m":576636927.550286,
     "geom:bbox":"159.039317,-9.193048,160.414236,-8.873224",
     "geom:latitude":-9.074096,
     "geom:longitude":159.886279,
@@ -298,17 +298,19 @@
         "gn:id":2109495,
         "gp:id":2344838,
         "hasc:id":"SB.CN",
+        "iso:code":"SB-CE",
         "iso:id":"SB-CE",
         "qs_pg:id":1114930,
         "unlc:id":"SB-CE",
         "wd:id":"Q293722",
         "wk:page":"Central Province (Solomon Islands)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SB",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3943867eb0c34626503be239ddbd1144",
+    "wof:geomhash":"afdb0c6a3b006b68eba305ea4b0ea6bd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -323,7 +325,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690860389,
+    "wof:lastmodified":1695884812,
     "wof:name":"Central",
     "wof:parent_id":85632591,
     "wof:placetype":"region",

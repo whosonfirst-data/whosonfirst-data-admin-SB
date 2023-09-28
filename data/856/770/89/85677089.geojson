@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.437927,
-    "geom:area_square_m":5338833346.356157,
+    "geom:area_square_m":5338834218.023011,
     "geom:bbox":"159.592133,-9.937107,160.826345,-9.247735",
     "geom:latitude":-9.623621,
     "geom:longitude":160.171276,
@@ -277,14 +277,16 @@
         "gn:id":2108831,
         "gp:id":2344839,
         "hasc:id":"SB.GU",
+        "iso:code":"SB-GU",
         "iso:id":"SB-GU",
         "loc:id":"n90679466",
         "qs_pg:id":1114931,
         "wd:id":"Q760888",
         "wk:page":"Guadalcanal Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SB",
-    "wof:geomhash":"d9eecddeadd0cccd2cb3d58531137144",
+    "wof:geomhash":"a7c3cd2bf6bbfd03294259a8958d256d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -299,7 +301,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690860388,
+    "wof:lastmodified":1695884812,
     "wof:name":"Guadalcanal",
     "wof:parent_id":85632591,
     "wof:placetype":"region",

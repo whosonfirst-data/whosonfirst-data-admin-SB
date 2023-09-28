@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.331526,
-    "geom:area_square_m":4059278924.385703,
+    "geom:area_square_m":4059279172.720395,
     "geom:bbox":"158.194347,-8.562433,159.900401,-7.390558",
     "geom:latitude":-8.01741,
     "geom:longitude":159.159152,
@@ -278,14 +278,16 @@
         "gn:id":2108262,
         "gp:id":2344840,
         "hasc:id":"SB.IS",
+        "iso:code":"SB-IS",
         "iso:id":"SB-IS",
         "qs_pg:id":1114939,
         "unlc:id":"SB-IS",
         "wd:id":"Q1139082",
         "wk:page":"Isabel Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SB",
-    "wof:geomhash":"165c563d6f9bab24bef1e832589b0192",
+    "wof:geomhash":"b1fb5fea100876b7c34940711966a21a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -300,7 +302,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690860388,
+    "wof:lastmodified":1695884812,
     "wof:name":"Isabel",
     "wof:parent_id":85632591,
     "wof:placetype":"region",
