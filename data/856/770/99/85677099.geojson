@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073644,
-    "geom:area_square_m":893850197.310936,
+    "geom:area_square_m":893851031.388213,
     "geom:bbox":"165.722911,-12.290623,168.825857,-9.801853",
     "geom:latitude":-11.004665,
     "geom:longitude":166.263627,
@@ -277,17 +277,19 @@
         "gn:id":2178472,
         "gp:id":20069919,
         "hasc:id":"SB.TE",
+        "iso:code":"SB-TE",
         "iso:id":"SB-TE",
         "qs_pg:id":1188783,
         "unlc:id":"SB-TE",
         "wd:id":"Q936088",
         "wk:page":"Temotu Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SB",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"27b9dd35a5d48502e07921eed756707c",
+    "wof:geomhash":"b34847378a9b7d7d9cfc877abfa62dfa",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -302,7 +304,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690860388,
+    "wof:lastmodified":1695884812,
     "wof:name":"Temotu",
     "wof:parent_id":85632591,
     "wof:placetype":"region",

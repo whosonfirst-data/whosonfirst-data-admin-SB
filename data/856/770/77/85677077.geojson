@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.363449,
-    "geom:area_square_m":4438676672.005287,
+    "geom:area_square_m":4438674448.046347,
     "geom:bbox":"159.351573,-9.851007,162.757579,-5.00099",
     "geom:latitude":-8.999679,
     "geom:longitude":161.026716,
@@ -280,17 +280,19 @@
         "gn:id":2106552,
         "gp:id":2344836,
         "hasc:id":"SB.ML",
+        "iso:code":"SB-ML",
         "iso:id":"SB-ML",
         "qs_pg:id":453106,
         "unlc:id":"SB-ML",
         "wd:id":"Q1190896",
         "wk:page":"Malaita Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SB",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a29d05b46d25bf316528755680256d38",
+    "wof:geomhash":"c6ec437ca76fb4d07851fb4eb44c66e9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -305,7 +307,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690860389,
+    "wof:lastmodified":1695884812,
     "wof:name":"Malaita",
     "wof:parent_id":85632591,
     "wof:placetype":"region",

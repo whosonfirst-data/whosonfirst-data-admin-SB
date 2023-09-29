@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.427403,
-    "geom:area_square_m":5231456504.776001,
+    "geom:area_square_m":5231457055.131014,
     "geom:bbox":"155.507986,-8.836847,158.256684,-6.774672",
     "geom:latitude":-8.145791,
     "geom:longitude":157.252322,
@@ -285,16 +285,18 @@
         "gn:id":2101556,
         "gp:id":2344837,
         "hasc:id":"SB.WE",
+        "iso:code":"SB-WE",
         "iso:id":"SB-WE",
         "qs_pg:id":1142806,
         "wd:id":"Q150325",
         "wk:page":"Western Province (Solomon Islands)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SB",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6597d1a88ab366200c8ef8cbdd4dee0c",
+    "wof:geomhash":"2d2db68fdfee7535e116a5f11a0cb9dc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -309,7 +311,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690860387,
+    "wof:lastmodified":1695884812,
     "wof:name":"Western",
     "wof:parent_id":85632591,
     "wof:placetype":"region",
